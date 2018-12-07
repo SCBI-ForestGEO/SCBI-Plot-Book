@@ -7,7 +7,7 @@ litu <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-B
 litumap <- gmap(extent(litu),lonlat=TRUE,type="satellite")
 
 
-# leaflet ####
+# easy range map code for book (plot and regional) ####
 library(leaflet)
 library(maps)
 library(htmlwidgets)
@@ -44,11 +44,13 @@ library(rgdal)
 
 litu <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/liriodendron_tulipifera_range.shp")
 
+litutest <- fread()
+
 quru <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/quercus_rubra_range.shp")
 
-library(sp)
-pj84 <- CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
-littlelitu2 <- spTransform(littlelitu, pj84)
+#library(sp)
+#pj84 <- CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
+#littlelitu2 <- spTransform(littlelitu, pj84)
 
 bounds <- map("usa",fill=TRUE, plot=FALSE)
 
@@ -57,14 +59,11 @@ map <- leaflet() %>%
   addProviderTiles("CartoDB.Positron", group = "Map") %>%
   addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>% 
   addProviderTiles("Esri.WorldShadedRelief", group = "Relief") %>%
-  #addMarkers(lng=~lon, lat=~lat, label = ~tag, group = "Trees") %>% 
-  addMarkers(data=) %>%
   addPolygons(data=litu, weight=2, fillOpacity = 0) %>%
-  addPolygons(data=quru, weight=1, color="#115F", fillOpacity = 0) %>%
+  #addPolygons(data=quru, weight=1, color="#115F", fillOpacity = 0) %>%
   addScaleBar(position = "bottomleft") %>%
   addLayersControl(
     baseGroups = c("Map", "Topo", "Relief"),
-    overlayGroups = c("Trees", "States"),
     options = layersControlOptions(collapsed = FALSE)
   )
 
@@ -80,21 +79,77 @@ saveWidget(map, file="litumap.html", selfcontained=TRUE)
 
 
 
-
-
-
-# convert kmz file to kml ####
+# convert kml to shapefile ####
 #1 first you have to rename the kmz as a zip (bc it's a zipped kml), then unzip it.
 fnm <- c("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/Quercus_prinus_final.dynglobcurrent3.elev.30000.kmz")
 
 quprkml <- unzip(zipfile = "C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/Quercus_prinus_final.dynglobcurrent3.elev.30000.kmz", exdir = "C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures")
 
 #2 then you open the kml file in R and convert it to a shapefile
-## kml files can be read into R via readOGR, however, the layer variable of the function is specified as what the layer is called within the kml file, which is NOT the same as the file name. The only way to find the layer name is by opening the kml file as a txt and finding what the polygon (in this case) is labeled as.
 
-qupr <- readOGR(dsn=path.expand("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures"),layer="Quercus_prinus_final.dynglobcurrent3.elev.30000")
+## this can easily be done with readOGR and writeOGR.
+
+## however, the layer attribute of the function is specified as what the layer is called within the kml file, which is NOT the same as the file name. The only way to find the layer name is by opening the kml file as a txt and finding what the polygon (in this case) is labeled as. See also (ogrListLayers and ogrInfo).
+
+## in our case, the maps downloaded from ForeCASTS project don't have standard kmz format. A kmz = a zip kml file. These kmz files only have a basic kml file with a png attached showing the sp range. Current R packages can't work with this (#layers are defined as 0).
+
+readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures",layer="Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
 writeOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/quercus_prinus_range.shp",driver="ESRI Shapefile",layer=output.shp)
 
 
+ogrListLayers("Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
 
 
+# getting data from BIEN ####
+
+## the following code won't work due to Smithsonian blocking SQL connection to the website
+library(BIEN)
+litutest <- BIEN_ranges_load_species("Liriodendron_tulipifera_range")
+
+## the following code won't work and I'm not sure why. I think this would be the easiest way to get the shapefiles.
+## here the function download.shapefile is defined before running
+download.shapefile<-function(shape_url,layer,outfile=layer)
+{
+  #written by: jw hollister
+  #Oct 10, 2012
+  
+  #set-up/clean-up variables
+  if(length(grep("/$",shape_url))==0)
+  {
+    shape_url<-paste(shape_url,"/",sep="")
+  }
+  #creates vector of all possible shapefile extensions
+  shapefile_ext<-c(".shp",".shx",".dbf",".prj",".sbn",".sbx",
+                   ".shp.xml",".fbn",".fbx",".ain",".aih",".ixs",
+                   ".mxs",".atx",".cpg")
+  
+  #Check which shapefile files exist
+  if(require(RCurl))
+  {
+    xurl<-getURL(shape_url)
+    xlogic<-NULL
+    for(i in paste(layer,shapefile_ext,sep=""))
+    {
+      xlogic<-c(xlogic,grepl(i,xurl))
+    }
+    
+    #Set-up list of shapefiles to download
+    shapefiles<-paste(shape_url,layer,shapefile_ext,sep="")[xlogic]
+    #Set-up output file names
+    outfiles<-paste(outfile,shapefile_ext,sep="")[xlogic]   }
+  #Download all shapefiles
+  if(sum(xlogic)>0)
+  {
+    for(i in 1:length(shapefiles))
+    {
+      download.file(shapefiles[i],outfiles[i],
+                    method="auto",mode="wb")
+    }
+  } else
+  {
+    stop("An Error has occured with the input URL
+         or name of shapefile")
+  }
+}
+
+litutest <- download.shapefile("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/", "Liriodendron_tulipifera_range")
