@@ -7,7 +7,7 @@ litu <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-B
 litumap <- gmap(extent(litu),lonlat=TRUE,type="satellite")
 
 
-# easy range map code for book (plot and regional) ####
+#1 easy range map code for book (plot and regional) ####
 library(leaflet)
 library(maps)
 library(htmlwidgets)
@@ -79,7 +79,7 @@ saveWidget(map, file="litumap.html", selfcontained=TRUE)
 
 
 
-# convert kml to shapefile ####
+#2 convert kml to shapefile ####
 #1 first you have to rename the kmz as a zip (bc it's a zipped kml), then unzip it.
 fnm <- c("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/Quercus_prinus_final.dynglobcurrent3.elev.30000.kmz")
 
@@ -100,7 +100,7 @@ writeOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/map
 ogrListLayers("Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
 
 
-# getting data from BIEN ####
+#3 getting data from BIEN ####
 
 ## the following code won't work due to Smithsonian blocking SQL connection to the website
 library(BIEN)
