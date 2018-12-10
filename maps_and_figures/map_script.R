@@ -88,7 +88,6 @@ quprkml <- unzip(zipfile = "C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/
 #2 then you open the kml file in R and convert it to a shapefile
 
 ## this can easily be done with readOGR and writeOGR.
-
 ## however, the layer attribute of the function is specified as what the layer is called within the kml file, which is NOT the same as the file name. The only way to find the layer name is by opening the kml file as a txt and finding what the polygon (in this case) is labeled as. See also (ogrListLayers and ogrInfo).
 
 ## in our case, the maps downloaded from ForeCASTS project don't have standard kmz format. A kmz = a zip kml file. These kmz files only have a basic kml file with a png attached showing the sp range. Current R packages can't work with this (#layers are defined as 0).
@@ -100,13 +99,13 @@ writeOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/map
 ogrListLayers("Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
 
 
-#3 getting data from BIEN ####
+#3a getting data from shapefiles online ####
 
 ## the following code won't work due to Smithsonian blocking SQL connection to the website
 library(BIEN)
 litutest <- BIEN_ranges_load_species("Liriodendron_tulipifera_range")
 
-## the following code won't work and I'm not sure why. I think this would be the easiest way to get the shapefiles.
+## the following code is the easiest way to download just shapefiles.
 ## here the function download.shapefile is defined before running
 download.shapefile<-function(shape_url,layer,outfile=layer)
 {
@@ -152,4 +151,29 @@ download.shapefile<-function(shape_url,layer,outfile=layer)
   }
 }
 
-litutest <- download.shapefile("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/", "Liriodendron_tulipifera_range")
+litutest <- download.shapefile("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/", "Liriodendron_tulipifera_range.zip")
+
+
+#3b downloading and extracting shp from zip (e.g. from BIEN) ####
+
+URLs <- c("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/Liriodendron_tulipifera_range.zip")
+
+##this function from Kay Cichini (https://www.r-bloggers.com/batch-downloading-zipped-shapefiles-with-r/)
+url_shp_to_spdf <- function(URL) {
+  require(rgdal)
+  wd <- getwd()
+  td <- tempdir()
+  setwd(td)
+  temp <- tempfile(fileext = ".zip")
+  download.file(URL, temp)
+  unzip(temp)
+  shp <- dir(tempdir(), "*.shp$")
+  lyr <- sub(".shp$", "", shp)
+  y <- lapply(X = lyr, FUN = function(x) readOGR(dsn=shp, layer=lyr))
+  names(y) <- lyr
+  unlink(dir(td))
+  setwd(wd)
+  return(y)
+}
+y <- lapply(URLs, url_shp_to_spdf)
+z <- unlist(unlist(y))
