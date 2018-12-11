@@ -1,4 +1,4 @@
-# creating maps for scvbi plotbook
+# creating maps for scbi plotbook
 
 
 library(maptools)
@@ -44,13 +44,10 @@ library(rgdal)
 
 litu <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/liriodendron_tulipifera_range.shp")
 
-litutest <- fread()
-
-quru <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/quercus_rubra_range.shp")
 
 #library(sp)
+##the below line of code defines the projection as being WGS1984
 #pj84 <- CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
-#littlelitu2 <- spTransform(littlelitu, pj84)
 
 bounds <- map("usa",fill=TRUE, plot=FALSE)
 
@@ -72,11 +69,6 @@ invisible(print(map))
 saveWidget(map, file="litumap.html", selfcontained=TRUE)
 
 #you can have multiple addPolygons lines, with either reading in different shapefiles or reading in actual shapes. Be sure to use ?addPolygons to see all the options (as in, fill color, popup, shape, etc).
-
-
-
-
-
 
 
 #2 convert kml to shapefile ####
@@ -156,7 +148,34 @@ litutest <- download.shapefile("http://vegbiendev.nceas.ucsb.edu/bien/data/range
 
 #3b downloading and extracting shp from zip (e.g. from BIEN) ####
 
-URLs <- c("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/Liriodendron_tulipifera_range.zip")
+##read in sp list used for book
+fullsp <- read.csv("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-ForestGEO-Data/species_lists/Tree ecology/SCBI_ForestGEO_sp_ecology.csv")
+
+subsp <- fullsp[,c(1:3,5)]
+subsp$species <- as.character(subsp$species)
+subsp$sp <- c(paste0(fullsp$genus, sep="_", fullsp$species))
+subsp$species <- gsub("prinus", "montana", subsp$species)
+subsp$sp <- gsub("prinus", "montana", subsp$sp)
+splist <- c(subsp$sp)
+
+##read in BIEN website data and make clear what species are on website
+library(data.table)
+test <- fread("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/")
+colnames(test) <- c("full.string", "align", "breaks")
+test$sp <- sub(".*zip\">", "", test$full.string)
+test$sp <- sub("_range.*$", "", test$sp)
+test$mapsource <- "BIEN"
+
+##species in the BIEN database will be marked
+subsp$mapsource <- test$mapsource[match(subsp$sp, test$sp)]
+
+##this creates the vector to be used below
+matches <- unique (grep(paste(splist,collapse="|"), 
+                        test$sp, value=TRUE))
+
+spfiles <- c(paste0("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/", matches, "_range.zip"))
+
+URLs <- spfiles
 
 ##this function from Kay Cichini (https://www.r-bloggers.com/batch-downloading-zipped-shapefiles-with-r/)
 url_shp_to_spdf <- function(URL) {
@@ -176,4 +195,34 @@ url_shp_to_spdf <- function(URL) {
   return(y)
 }
 y <- lapply(URLs, url_shp_to_spdf)
+
+##now use y to make the graphs for each sp
+library(leaflet)
+library(maps)
+library(htmlwidgets)
+library(maptools)
+bounds <- map("usa",fill=TRUE, plot=FALSE)
+
+for (sp in URLs){
+
+  shpdata <- url_shp_to_spdf(sp)
+  
+  map <- leaflet(shpdata) %>%
+  # setView(-72.14600, 43.82977, zoom = 8) %>% 
+  addProviderTiles("CartoDB.Positron", group = "Map") %>%
+  addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>% 
+  addProviderTiles("Esri.WorldShadedRelief", group = "Relief") %>%
+  addPolygons(data=shpdata, weight=2, fillOpacity = 0) %>%
+  #addPolygons(data=quru, weight=1, color="#115F", fillOpacity = 0) %>%
+  addScaleBar(position = "bottomleft") %>%
+  addLayersControl(
+    baseGroups = c("Map", "Topo", "Relief"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+
+invisible(print(map))
+
+saveWidget(map, file=paste0(shpdata,"_map.html"), selfcontained=TRUE)
+
+}
 z <- unlist(unlist(y))
