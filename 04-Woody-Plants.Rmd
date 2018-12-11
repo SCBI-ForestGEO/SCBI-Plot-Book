@@ -918,6 +918,7 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ### *Carya tomentosa* (Lam. ex Pior.) Nutt.	```Mockernut Hickory```
+Modern name is *Carya alba*
 ```
 Life history (information will be added by Michael)
 ```
