@@ -178,23 +178,42 @@ spfiles <- c(paste0("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefile
 URLs <- spfiles
 
 ##this function from Kay Cichini (https://www.r-bloggers.com/batch-downloading-zipped-shapefiles-with-r/)
+
+newd <- dir.create("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/shapfiles")
+path <- ("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/shapfiles")
+setwd("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/shapfiles")
+
+##i tried editing this myself but not working
 url_shp_to_spdf <- function(URL) {
   require(rgdal)
   wd <- getwd()
-  td <- tempdir()
-  setwd(td)
   temp <- tempfile(fileext = ".zip")
   download.file(URL, temp)
   unzip(temp)
-  shp <- dir(tempdir(), "*.shp$")
-  lyr <- sub(".shp$", "", shp)
-  y <- lapply(X = lyr, FUN = function(x) readOGR(dsn=shp, layer=lyr))
+  loc <- path
+  shp <- dir(path, "*.shp")
+  lyr <- sub(".shp", "", shp)
+  y <- lapply(X = lyr, FUN = function(x) readOGR(dsn=loc, layer=lyr))
   names(y) <- lyr
-  unlink(dir(td))
   setwd(wd)
   return(y)
 }
 y <- lapply(URLs, url_shp_to_spdf)
+
+##maybe this will work in for loop
+for (i in URLs){
+  require(rgdal)
+  temp <- tempfile(fileext = ".zip")
+  download.file(i, temp)
+  unzip(temp)
+  loc <- path
+  shp <- dir(path, "*.shp")
+  lyr <- sub(".shp", "", shp)
+  y <- lapply(X = lyr, FUN = function(x) readOGR(dsn=loc, layer=lyr))
+}
+
+##delete directory
+unlink("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/shapfiles", recursive=TRUE)
 
 ##now use y to make the graphs for each sp
 library(leaflet)
@@ -204,8 +223,8 @@ library(maptools)
 bounds <- map("usa",fill=TRUE, plot=FALSE)
 
 for (sp in URLs){
-
-  shpdata <- url_shp_to_spdf(sp)
+  
+  setwd(tempdir())
   
   map <- leaflet(shpdata) %>%
   # setView(-72.14600, 43.82977, zoom = 8) %>% 
@@ -225,4 +244,26 @@ invisible(print(map))
 saveWidget(map, file=paste0(shpdata,"_map.html"), selfcontained=TRUE)
 
 }
+z <- unlist(unlist(y))
+
+#original function ####
+##this function works but mapping isn't possible bc it says "can't find file path to object of class list"
+##this function from Kay Cichini (https://www.r-bloggers.com/batch-downloading-zipped-shapefiles-with-r/)
+url_shp_to_spdf <- function(URL) {
+  require(rgdal)
+  wd <- getwd()
+  td <- tempdir()
+  setwd(td)
+  temp <- tempfile(fileext = ".zip")
+  download.file(URL, temp)
+  unzip(temp)
+  shp <- dir(tempdir(), "*.shp$")
+  lyr <- sub(".shp$", "", shp)
+  y <- lapply(X = lyr, FUN = function(x) readOGR(dsn=shp, layer=lyr))
+  names(y) <- lyr
+  unlink(dir(td))
+  setwd(wd)
+  return(y)
+}
+y <- lapply(URLs, url_shp_to_spdf)
 z <- unlist(unlist(y))
