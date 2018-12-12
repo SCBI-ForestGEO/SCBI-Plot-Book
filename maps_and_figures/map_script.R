@@ -1,12 +1,5 @@
 # creating maps for scbi plotbook
 
-
-library(maptools)
-
-litu <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/liriodendron_tulipifera_range.shp")
-litumap <- gmap(extent(litu),lonlat=TRUE,type="satellite")
-
-
 #1 easy range map code for book (plot and regional) ####
 library(leaflet)
 library(maps)
@@ -17,7 +10,6 @@ library(maptools)
 setwd("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures")
 
 dendro <- read.csv("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/dendro_cored_full[sample].csv")
-bounds <- map("state", "virginia", fill=TRUE, plot=FALSE)
 
 dendro$tag <- as.character(dendro$tag)
 
@@ -45,11 +37,9 @@ library(rgdal)
 litu <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/liriodendron_tulipifera_range.shp")
 
 
-#library(sp)
+library(sp)
 ##the below line of code defines the projection as being WGS1984
 #pj84 <- CRS("+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs")
-
-bounds <- map("usa",fill=TRUE, plot=FALSE)
 
 map <- leaflet() %>%
   # setView(-72.14600, 43.82977, zoom = 8) %>% 
@@ -63,6 +53,21 @@ map <- leaflet() %>%
     baseGroups = c("Map", "Topo", "Relief"),
     options = layersControlOptions(collapsed = FALSE)
   )
+
+
+
+map <- get_map(source="osm")
+q <- leaflet() %>%
+  addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>%
+  addScaleBar(position = "bottomleft")
+
+
+
+
+q + geom_polygon(data=litu, aes(x=long, y=lat, group=group), color="black", fill=NA)
+
+
+
 
 invisible(print(map))
 
@@ -91,62 +96,8 @@ writeOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/map
 ogrListLayers("Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
 
 
-#3a getting data from shapefiles online ####
 
-## the following code won't work due to Smithsonian blocking SQL connection to the website
-library(BIEN)
-litutest <- BIEN_ranges_load_species("Liriodendron_tulipifera_range")
-
-## the following code is the easiest way to download just shapefiles.
-## here the function download.shapefile is defined before running
-download.shapefile<-function(shape_url,layer,outfile=layer)
-{
-  #written by: jw hollister
-  #Oct 10, 2012
-  
-  #set-up/clean-up variables
-  if(length(grep("/$",shape_url))==0)
-  {
-    shape_url<-paste(shape_url,"/",sep="")
-  }
-  #creates vector of all possible shapefile extensions
-  shapefile_ext<-c(".shp",".shx",".dbf",".prj",".sbn",".sbx",
-                   ".shp.xml",".fbn",".fbx",".ain",".aih",".ixs",
-                   ".mxs",".atx",".cpg")
-  
-  #Check which shapefile files exist
-  if(require(RCurl))
-  {
-    xurl<-getURL(shape_url)
-    xlogic<-NULL
-    for(i in paste(layer,shapefile_ext,sep=""))
-    {
-      xlogic<-c(xlogic,grepl(i,xurl))
-    }
-    
-    #Set-up list of shapefiles to download
-    shapefiles<-paste(shape_url,layer,shapefile_ext,sep="")[xlogic]
-    #Set-up output file names
-    outfiles<-paste(outfile,shapefile_ext,sep="")[xlogic]   }
-  #Download all shapefiles
-  if(sum(xlogic)>0)
-  {
-    for(i in 1:length(shapefiles))
-    {
-      download.file(shapefiles[i],outfiles[i],
-                    method="auto",mode="wb")
-    }
-  } else
-  {
-    stop("An Error has occured with the input URL
-         or name of shapefile")
-  }
-}
-
-litutest <- download.shapefile("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/", "Liriodendron_tulipifera_range.zip")
-
-
-#3b downloading and extracting shp from zip (e.g. from BIEN) ####
+#3a determine the sp and shp files available from BIEN ####
 
 ##read in sp list used for book
 fullsp <- read.csv("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-ForestGEO-Data/species_lists/Tree ecology/SCBI_ForestGEO_sp_ecology.csv")
@@ -154,6 +105,8 @@ fullsp <- read.csv("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-For
 subsp <- fullsp[,c(1:3,5)]
 subsp$species <- as.character(subsp$species)
 subsp$sp <- c(paste0(fullsp$genus, sep="_", fullsp$species))
+
+##change species names if need be (more current versions)
 subsp$species <- gsub("prinus", "montana", subsp$species)
 subsp$sp <- gsub("prinus", "montana", subsp$sp)
 splist <- c(subsp$sp)
@@ -169,86 +122,25 @@ test$mapsource <- "BIEN"
 ##species in the BIEN database will be marked
 subsp$mapsource <- test$mapsource[match(subsp$sp, test$sp)]
 
-##this creates the vector to be used below
+##this creates a vector of species that match between the fullsp list and the secies available on the BIEN website.
 matches <- unique (grep(paste(splist,collapse="|"), 
                         test$sp, value=TRUE))
 
+## create list of URLs based on the matches
 spfiles <- c(paste0("http://vegbiendev.nceas.ucsb.edu/bien/data/ranges/shapefiles/", matches, "_range.zip"))
 
 URLs <- spfiles
 
-##this function from Kay Cichini (https://www.r-bloggers.com/batch-downloading-zipped-shapefiles-with-r/)
-
-newd <- dir.create("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/shapfiles")
-path <- ("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/shapfiles")
-setwd("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/shapfiles")
-
-##i tried editing this myself but not working
-url_shp_to_spdf <- function(URL) {
-  require(rgdal)
-  wd <- getwd()
-  temp <- tempfile(fileext = ".zip")
-  download.file(URL, temp)
-  unzip(temp)
-  loc <- path
-  shp <- dir(path, "*.shp")
-  lyr <- sub(".shp", "", shp)
-  y <- lapply(X = lyr, FUN = function(x) readOGR(dsn=loc, layer=lyr))
-  names(y) <- lyr
-  setwd(wd)
-  return(y)
-}
-y <- lapply(URLs, url_shp_to_spdf)
-
-##maybe this will work in for loop
-for (i in URLs){
-  require(rgdal)
-  temp <- tempfile(fileext = ".zip")
-  download.file(i, temp)
-  unzip(temp)
-  loc <- path
-  shp <- dir(path, "*.shp")
-  lyr <- sub(".shp", "", shp)
-  y <- lapply(X = lyr, FUN = function(x) readOGR(dsn=loc, layer=lyr))
-}
-
-##delete directory
-unlink("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/shapfiles", recursive=TRUE)
-
-##now use y to make the graphs for each sp
+#3b Call the shapefiles, unzip them, then make html maps for each ####
 library(leaflet)
 library(maps)
 library(htmlwidgets)
 library(maptools)
-bounds <- map("usa",fill=TRUE, plot=FALSE)
 
-for (sp in URLs){
-  
-  setwd(tempdir())
-  
-  map <- leaflet(shpdata) %>%
-  # setView(-72.14600, 43.82977, zoom = 8) %>% 
-  addProviderTiles("CartoDB.Positron", group = "Map") %>%
-  addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>% 
-  addProviderTiles("Esri.WorldShadedRelief", group = "Relief") %>%
-  addPolygons(data=shpdata, weight=2, fillOpacity = 0) %>%
-  #addPolygons(data=quru, weight=1, color="#115F", fillOpacity = 0) %>%
-  addScaleBar(position = "bottomleft") %>%
-  addLayersControl(
-    baseGroups = c("Map", "Topo", "Relief"),
-    options = layersControlOptions(collapsed = FALSE)
-  )
+##the following code snippet defines a function whereby shapefile zip files are downloaded into a temp folder and directory.
+##temp folders are automatically unlinked (deleted) and the working directory is set back to original within every iteration of the function. This means no shapefiles are stored to the drive.
 
-invisible(print(map))
-
-saveWidget(map, file=paste0(shpdata,"_map.html"), selfcontained=TRUE)
-
-}
-z <- unlist(unlist(y))
-
-#original function ####
-##this function works but mapping isn't possible bc it says "can't find file path to object of class list"
-##this function from Kay Cichini (https://www.r-bloggers.com/batch-downloading-zipped-shapefiles-with-r/)
+##source: Kay Cichini (https://www.r-bloggers.com/batch-downloading-zipped-shapefiles-with-r/)
 url_shp_to_spdf <- function(URL) {
   require(rgdal)
   wd <- getwd()
@@ -265,5 +157,35 @@ url_shp_to_spdf <- function(URL) {
   setwd(wd)
   return(y)
 }
-y <- lapply(URLs, url_shp_to_spdf)
-z <- unlist(unlist(y))
+
+##now, run the function for each URL defined above
+y <- sapply(URLs, url_shp_to_spdf)
+# z <- unlist(y, recursive=TRUE) #this makes y easier to read, but also replicates the large list
+
+##define the names of the list (y) as the sp names from matches. They are in the same order because the URL list was created from the matches vector.
+##without this code, the leaflet function below gives error of "can't draw path from object of class list"
+names(y) <- matches
+
+
+##change working directory, then create maps of each shapefile
+
+setwd("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/range_maps")
+
+for (sp in names(y)){
+
+  sp.poly <- y[[sp]]
+  
+  map <- leaflet() %>%
+  addProviderTiles("CartoDB.Positron", group = "Map") %>%
+  addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>% 
+  addProviderTiles("Esri.WorldShadedRelief", group = "Relief") %>%
+  addPolygons(data=sp.poly, weight=2, fillOpacity = 0) %>%
+  addScaleBar(position = "bottomleft") %>%
+  addLayersControl(
+    baseGroups = c("Map", "Topo", "Relief"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+  
+invisible(print(map))
+saveWidget(map, file=paste0(sp,"_map.html"), selfcontained=TRUE)
+}
