@@ -4,7 +4,7 @@ For life history, mention common canopy positions
     - dominant canopy are *Liriondendron tulipifera* (tulip poplar), *Carya* spp., *Quercus* spp., *Fraxinus americana* (white ash), *Nyssa sylvatica* (black gum)
 
 ##Adoxaceae
-### *Sambucus canadensis* (L.) R. Bolli ```American Black Elderberry```
+### *Sambucus canadensis var. canadensis* (L.) R. Bolli ```Common Elderberry```
 ```
 Life history (information will be added by Michael)
 ```
@@ -889,7 +889,7 @@ Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-### *Carya ovalis* (Wangenh.) Sarg.	```Red Hickory```
+### *Carya glabra* (Wangenh.) Sarg.	```Red Hickory```
 ```
 Life history (information will be added by Michael)
 ```
@@ -918,7 +918,6 @@ Graph of species range and distribution within the plot (plot location)
 Picture of tree cores (with a small blurb)
 
 ### *Carya tomentosa* (Lam. ex Pior.) Nutt.	```Mockernut Hickory```
-Modern name is *Carya alba*
 ```
 Life history (information will be added by Michael)
 ```
