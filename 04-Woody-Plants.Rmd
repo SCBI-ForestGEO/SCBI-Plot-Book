@@ -24,9 +24,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/sambucus_canadensis_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -52,9 +50,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/viburnum_acerifolium_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -80,9 +76,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/viburnum_prunifolium_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -109,9 +103,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/viburnum_recognitum_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -138,9 +130,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/asimina_triloba_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -167,9 +157,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/ilex_verticillata_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -196,9 +184,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/berberis_thunbergii_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -225,9 +211,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/carpinus_caroliniana_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -253,9 +237,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/corylus_americana_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -282,9 +264,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/celtis_occidentalis_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -311,9 +291,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/lonicera_maackii_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -341,9 +319,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/euonymus_alatus_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -370,9 +346,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/cornus_alternifolia_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -398,9 +372,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/cornus_florida_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -427,9 +399,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/diospyros_virginiana_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -456,9 +426,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/elaeagnus umbellata_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -485,9 +453,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/cercis_canadensis_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -513,9 +479,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/robinia_pseudoacacia_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -542,9 +506,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/castanea_dentata_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -570,9 +532,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/fagus_grandifolia_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -598,9 +558,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/quercus_alba_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -626,9 +584,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/quercus_coccinea_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -654,9 +610,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/quercus_falcata_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -682,37 +636,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
-
-### *Quercus muehlenbergii* Engelm. ```Chinkapin Oak```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/quercus_michauxii_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -739,9 +663,33 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
+![description](maps_and_figures/range_maps/quercus_montana_map.html)
 ```
-Graph of species range and distribution
+Graph of species range and distribution within the plot (plot location)
 ```
+Picture of tree cores (with a small blurb)
+
+### *Quercus muehlenbergii* Engelm. ```Chinkapin Oak```
+```
+Life history (information will be added by Michael)
+```
+```
+Leaf traits (written about or scanned and labeled)
+```
+```
+Annual Recruitment and Mortality
+# of trees (stems) in 2013 and 2018:
+5-year mortality of trees (stems):
+new tree recuitment:
+max DBH in sample:
+mean DBH in sample:
+```
+```
+Graph of recruiment and mortality
+{r echo=false}
+hist()
+```
+![description](maps_and_figures/range_maps/quercus_muehlenbergii_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -767,9 +715,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/quercus_rubra_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -795,9 +741,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/quercus_velutina_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -824,9 +768,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/hamamelis_virginiana_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -853,9 +795,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/carya_cordiformis_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -881,15 +821,13 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/carya_glabra_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
 
-### *Carya glabra* (Wangenh.) Sarg.	```Red Hickory```
+### *Carya ovalis* (Wangenh.) Sarg.	```Red Hickory```
 ```
 Life history (information will be added by Michael)
 ```
@@ -909,9 +847,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/carya_glabra_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -937,9 +873,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/carya_alba_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -965,9 +899,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/juglans_cinerea_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -993,9 +925,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/juglans_nigra_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1022,9 +952,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/lindera_benzoin_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1050,9 +978,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/sassafras_albidum_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1079,9 +1005,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/liriodendron_tulipifera_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1107,9 +1031,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/tilia_americana_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1136,9 +1058,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/nyssa_sylvatica_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1165,9 +1085,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/chionanthus_virginicus_map.html
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1193,9 +1111,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/fraxinus_americana_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1221,9 +1137,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/fraxinus_nigra_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1249,9 +1163,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/fraxinus_pennsylvanica_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1278,9 +1190,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/paulownia_tomentosa_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1307,9 +1217,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/pinus_pungens_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1335,9 +1243,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/pinus_strobus_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1363,9 +1269,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/pinus_virginiana_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1392,9 +1296,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/platanus_occidentalis_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1421,9 +1323,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/amelanchier_arborea_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1450,9 +1350,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/crataegus_pruinosa_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1479,9 +1377,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/prunus_avium_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1507,9 +1403,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/prunus_persica_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1536,9 +1430,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/prunus_serotina_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1564,9 +1456,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/rosa_multiflora_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1592,9 +1482,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/rubus_allegheniensis_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1621,9 +1509,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/rubus_pensilvanicus_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1649,9 +1535,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/rubus_phoenicolasius_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1679,9 +1563,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![The geological range of Acer negundo spans throughout all of the continental United States, Mexico, and the Southern portion of Canada.](maps_and_figures/range_maps/Acer_negundo_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1707,9 +1589,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![Acer platanoides](maps_and_figures/range_maps/Acer_platanoides_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1735,9 +1615,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![Acer rubrum](maps_and_figures/range_maps/Acer_rubrum_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1764,9 +1642,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![ailanthus altissima](maps_and_figures/range_maps/ailanthus_altissima_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1793,9 +1669,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/ulmus_americana_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
@@ -1822,9 +1696,7 @@ Graph of recruiment and mortality
 {r echo=false}
 hist()
 ```
-```
-Graph of species range and distribution
-```
+![description](maps_and_figures/range_maps/ulmus_rubra_map.html)
 ```
 Graph of species range and distribution within the plot (plot location)
 ```
