@@ -1,12 +1,12 @@
 # creating maps for scbi plotbook
 
 #1 easy range map code for book (plot and regional) ####
+#1a for scbi plot ####
 library(leaflet)
 library(maps)
 library(htmlwidgets)
 library(maptools)
 
-## for scbi plot
 setwd("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures")
 
 dendro <- read.csv("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/dendro_cored_full[sample].csv")
@@ -31,11 +31,17 @@ invisible(print(map))
 saveWidget(map, file="dendro.html", selfcontained=TRUE)
 
 
-## for sp range maps
+#1b for sp range maps ####
+library(leaflet)
+library(maps)
+library(htmlwidgets)
+library(maptools)
+
 library(rgdal)
 
-litu <- readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/liriodendron_tulipifera_range.shp")
+litu <- readOGR("E:/Github_SCBI/SCBI-Plot-Book/maps_and_figures/liriodendron_tulipifera_range.shp")
 
+setwd("E:/Github_SCBI/SCBI-Plot-Book/maps_and_figures")
 
 library(sp)
 ##the below line of code defines the projection as being WGS1984
@@ -46,8 +52,8 @@ map <- leaflet() %>%
   addProviderTiles("CartoDB.Positron", group = "Map") %>%
   addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>% 
   addProviderTiles("Esri.WorldShadedRelief", group = "Relief") %>%
-  addPolygons(data=litu, weight=2, fillOpacity = 0) %>%
-  #addPolygons(data=quru, weight=1, color="#115F", fillOpacity = 0) %>%
+  addPolygons(data=litu, weight=2, fill=TRUE, fillColor="blue", fillOpacity = 0.25) %>%
+  #addPolygons(data=quru, weight=1, color="#115F", fillOpacity = 0 [opacity is between 0 and 1]) %>%
   addScaleBar(position = "bottomleft") %>%
   addLayersControl(
     baseGroups = c("Map", "Topo", "Relief"),
@@ -55,19 +61,9 @@ map <- leaflet() %>%
   )
 
 
-
-map <- get_map(source="osm")
 q <- leaflet() %>%
   addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>%
   addScaleBar(position = "bottomleft")
-
-
-
-
-q + geom_polygon(data=litu, aes(x=long, y=lat, group=group), color="black", fill=NA)
-
-
-
 
 invisible(print(map))
 
@@ -100,7 +96,7 @@ ogrListLayers("Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
 #3a determine the sp and shp files available from BIEN ####
 
 ##read in sp list used for book
-fullsp <- read.csv("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-ForestGEO-Data/species_lists/Tree ecology/SCBI_ForestGEO_sp_ecology.csv")
+fullsp <- read.csv("E:/Github_SCBI/SCBI-ForestGEO-Data/species_lists/Tree ecology/SCBI_ForestGEO_sp_ecology.csv")
 
 subsp <- fullsp[,c(1:3,5)]
 subsp$species <- as.character(subsp$species)
@@ -171,7 +167,7 @@ names(y) <- matches
 
 ##change working directory, then create maps of each shapefile
 
-setwd("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/range_maps")
+setwd("E:/Github_SCBI/SCBI-Plot-Book/maps_and_figures/range_maps")
 
 for (sp in names(y)){
 
@@ -181,7 +177,7 @@ for (sp in names(y)){
   addProviderTiles("CartoDB.Positron", group = "Map") %>%
   addProviderTiles("Esri.WorldTopoMap", group = "Topo") %>% 
   addProviderTiles("Esri.WorldShadedRelief", group = "Relief") %>%
-  addPolygons(data=sp.poly, weight=2, fillOpacity = 0) %>%
+  addPolygons(data=sp.poly, weight=2, fill=TRUE, fillColor="blue", fillOpacity = 0.25) %>%
   addScaleBar(position = "bottomleft") %>%
   addLayersControl(
     baseGroups = c("Map", "Topo", "Relief"),
