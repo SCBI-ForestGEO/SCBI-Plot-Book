@@ -1,7 +1,7 @@
 # Physical Environment
 
 ## Geographic location
-The dynamic plot, first established in 2008 by @bourg_initial_2013, is located at the Smithsonian Conservation Biology Institute (SCBI) in Virginia, U.S.A. (38 degrees 53'36.6"N, 78 degrees 08'43.4"W). Elevations range from 273 to 338 meters above sea level (masl) [@gonzalezakre_patterns_2016], with a topographic relief of 65m [@bourg_initial_2013]. 
+The dynamic plot, first established in 2008 by @bourg_initial_2013, is located at the Smithsonian Conservation Biology Institute (SCBI) in Virginia, U.S.A. (38°53'36.6"N, 78° 08'43.4"W). Elevations range from 273 to 338 meters above sea level (masl) [@gonzalezakre_patterns_2016], with a topographic relief of 65m [@bourg_initial_2013]. 
 
 ![*Map of SCBI site relative to regional topography. Elevation labels in the grid are in masl.*](maps_and_figures/plot_location_regional.jpg)
 
