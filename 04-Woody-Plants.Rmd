@@ -12,14 +12,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
-```
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  5   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.41 |      |
+| Mean DBH Is Sample (cm)                    | 1.72 |      |
+| Max DBH in Sample (cm)                     | 2.33 |      |
 ```
 Graph of recruiment and mortality
 {r echo=false}
@@ -39,13 +39,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |   1  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.01 |      |
+| Mean DBH Is Sample (cm)                    | 1.01 |      |
+| Max DBH in Sample (cm)                     | 1.01 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -66,13 +67,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 244  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.01 |      |
+| Mean DBH Is Sample (cm)                    | 4.85 |      |
+| Max DBH in Sample (cm)                     |13.29 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -94,13 +96,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  1   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.88 |      |
+| Mean DBH Is Sample (cm)                    | 1.88 |      |
+| Max DBH in Sample (cm)                     | 1.88 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -122,13 +125,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.00
-mean DBH in sample (cm): 2.43
-max DBH in sample (cm): 13.28
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 4281 |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    | 2.43 |      |
+| Max DBH in Sample (cm)                     |13.28 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -150,13 +154,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  13  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.04 |      |
+| Mean DBH Is Sample (cm)                    | 2.47 |      |
+| Max DBH in Sample (cm)                     | 5.95 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -178,13 +183,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.12
-mean DBH in sample (cm): 1.34
-max DBH in sample (cm): 1.58
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  4   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.12 |      |
+| Mean DBH Is Sample (cm)                    | 1.34 |      |
+| Max DBH in Sample (cm)                     | 1.58 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -206,13 +212,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.00
-mean DBH in sample (cm): 4.28
-max DBH in sample (cm): 47.20
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 2854 |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    | 4.28 |      |
+| Max DBH in Sample (cm)                     |47.20 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -233,13 +240,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018: 
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 2.58
-mean DBH in sample (cm): 2.58
-max DBH in sample (cm): 2.58
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  1   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 2.58 |      |
+| Mean DBH Is Sample (cm)                    | 2.58 |      |
+| Max DBH in Sample (cm)                     | 2.58 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -261,13 +269,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 2.25
-mean DBH in sample (cm): 10.19
-max DBH in sample (cm): 44.50
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 100  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 2.25 |      |
+| Mean DBH Is Sample (cm)                    |10.19 |      |
+| Max DBH in Sample (cm)                     |44.50 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -289,13 +298,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  13  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.65 |      |
+| Mean DBH Is Sample (cm)                    | 4.18 |      |
+| Max DBH in Sample (cm)                     |26.20 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -318,13 +328,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  1   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.39 |      |
+| Mean DBH Is Sample (cm)                    | 1.39 |      |
+| Max DBH in Sample (cm)                     | 1.39 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -346,13 +357,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.47
-mean DBH in sample (cm): 7.46
-max DBH in sample (cm): 13.45
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  2   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.47 |      |
+| Mean DBH Is Sample (cm)                    | 7.46 |      |
+| Max DBH in Sample (cm)                     |13.45 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -373,13 +385,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.32
-mean DBH in sample (cm): 5.92
-max DBH in sample (cm): 16.82
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 406  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.32 |      |
+| Mean DBH Is Sample (cm)                    | 5.92 |      |
+| Max DBH in Sample (cm)                     |16.82 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -401,13 +414,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  6   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 4.40 |      |
+| Mean DBH Is Sample (cm)                    |10.75 |      |
+| Max DBH in Sample (cm)                     |24.99 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -429,13 +443,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  18  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.01 |      |
+| Mean DBH Is Sample (cm)                    | 2.04 |      |
+| Max DBH in Sample (cm)                     | 4.47 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -457,13 +472,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.00
-mean DBH in sample (cm): 6.21
-max DBH in sample (cm): 32.70
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 769  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    | 6.21 |      |
+| Max DBH in Sample (cm)                     |32.70 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -484,13 +500,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |   8  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.64 |      |
+| Mean DBH Is Sample (cm)                    |22.98 |      |
+| Max DBH in Sample (cm)                     |46.02 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -512,13 +529,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.82
-mean DBH in sample (cm): 6.25
-max DBH in sample (cm): 13.75
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  6   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.82 |      |
+| Mean DBH Is Sample (cm)                    | 6.25 |      |
+| Max DBH in Sample (cm)                     |13.75 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -539,13 +557,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 512  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.05 |      |
+| Mean DBH Is Sample (cm)                    |13.31 |      |
+| Max DBH in Sample (cm)                     |104.68|      |
 ```
 ```
 Graph of recruiment and mortality
@@ -566,13 +585,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 411  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.89 |      |
+| Mean DBH Is Sample (cm)                    |44.63 |      |
+| Max DBH in Sample (cm)                     |103.19|      |
 ```
 ```
 Graph of recruiment and mortality
@@ -593,13 +613,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  1   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |64.47 |      |
+| Mean DBH Is Sample (cm)                    |64.47 |      |
+| Max DBH in Sample (cm)                     |64.47 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -620,13 +641,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  1   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |73.52 |      |
+| Mean DBH Is Sample (cm)                    |73.52 |      |
+| Max DBH in Sample (cm)                     |73.52 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -647,13 +669,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  2   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |44.11 |      |
+| Mean DBH Is Sample (cm)                    |50.45 |      |
+| Max DBH in Sample (cm)                     |56.78 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -675,13 +698,15 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):```
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 276  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.01 |      |
+| Mean DBH Is Sample (cm)                    |30.50 |      |
+| Max DBH in Sample (cm)                     |99.34 |      |
+```
 ```
 Graph of recruiment and mortality
 {r echo=false}
@@ -701,13 +726,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  1   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |16.53 |      |
+| Mean DBH Is Sample (cm)                    |16.53 |      |
+| Max DBH in Sample (cm)                     |16.53 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -728,13 +754,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 403  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    |40.52 |      |
+| Max DBH in Sample (cm)                     |148.30|      |
 ```
 ```
 Graph of recruiment and mortality
@@ -755,13 +782,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 290  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 4.10 |      |
+| Mean DBH Is Sample (cm)                    |51.69 |      |
+| Max DBH in Sample (cm)                     |152.00|      |
 ```
 ```
 Graph of recruiment and mortality
@@ -783,13 +811,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 421  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.03 |      |
+| Mean DBH Is Sample (cm)                    | 4.56 |      |
+| Max DBH in Sample (cm)                     |12.43 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -811,13 +840,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.01
-mean DBH in sample (cm): 15.22
-max DBH in sample (cm): 99.25
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 448  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.01 |      |
+| Mean DBH Is Sample (cm)                    |15.22 |      |
+| Max DBH in Sample (cm)                     |99.25 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -838,13 +868,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.00
-mean DBH in sample (cm): 12.99
-max DBH in sample (cm): 79.35
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 1728 |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    |12.99 |      |
+| Max DBH in Sample (cm)                     |79.35 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -865,13 +896,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.00
-mean DBH in sample (cm): 16.93
-max DBH in sample (cm): 66.22
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 461  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    |16.93 |      |
+| Max DBH in Sample (cm)                     |66.22 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -892,13 +924,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.04
-mean DBH in sample (cm): 12.35
-max DBH in sample (cm): 69.38
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 1369 |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.04 |      |
+| Mean DBH Is Sample (cm)                    |12.35 |      |
+| Max DBH in Sample (cm)                     |69.38 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -919,13 +952,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  3   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 4.58 |      |
+| Mean DBH Is Sample (cm)                    |18.87 |      |
+| Max DBH in Sample (cm)                     |28.29 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -946,13 +980,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 122  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.11 |      |
+| Mean DBH Is Sample (cm)                    |40.71 |      |
+| Max DBH in Sample (cm)                     |90.30 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -974,13 +1009,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |13466 |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    | 1.84 |      |
+| Max DBH in Sample (cm)                     |11.43 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1001,13 +1037,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 155  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.11 |      |
+| Mean DBH Is Sample (cm)                    |10.28 |      |
+| Max DBH in Sample (cm)                     |45.61 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1029,13 +1066,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 2306 |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.07 |      |
+| Mean DBH Is Sample (cm)                    |39.09 |      |
+| Max DBH in Sample (cm)                     |142.23|      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1056,13 +1094,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 132  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 3.15 |      |
+| Mean DBH Is Sample (cm)                    |22.95 |      |
+| Max DBH in Sample (cm)                     |69.05 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1084,13 +1123,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 1309 |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.02 |      |
+| Mean DBH Is Sample (cm)                    |10.43 |      |
+| Max DBH in Sample (cm)                     |65.72 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1112,13 +1152,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 3.04
-mean DBH in sample (cm): 5.57
-max DBH in sample (cm): 9.03
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  8   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 3.04 |      |
+| Mean DBH Is Sample (cm)                    | 5.57 |      |
+| Max DBH in Sample (cm)                     | 9.03 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1139,13 +1180,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 721  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    |19.76 |      |
+| Max DBH in Sample (cm)                     |107.21|      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1166,13 +1208,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  60  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    |16.58 |      |
+| Max DBH in Sample (cm)                     |69.83 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1193,13 +1236,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  51  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.02 |      |
+| Mean DBH Is Sample (cm)                    | 7.91 |      |
+| Max DBH in Sample (cm)                     |35.13 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1221,13 +1265,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  3   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 5.47 |      |
+| Mean DBH Is Sample (cm)                    |35.87 |      |
+| Max DBH in Sample (cm)                     |54.49 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1249,13 +1294,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  1   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |41.61 |      |
+| Mean DBH Is Sample (cm)                    |41.61 |      |
+| Max DBH in Sample (cm)                     |41.61 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1276,13 +1322,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  88  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 7.34 |      |
+| Mean DBH Is Sample (cm)                    |26.90 |      |
+| Max DBH in Sample (cm)                     |68.29 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1303,13 +1350,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  3   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |24.08 |      |
+| Mean DBH Is Sample (cm)                    |31.89 |      |
+| Max DBH in Sample (cm)                     |43.38 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1331,13 +1379,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  27  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.15 |      |
+| Mean DBH Is Sample (cm)                    |41.89 |      |
+| Max DBH in Sample (cm)                     |96.16 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1359,13 +1408,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.01
-mean DBH in sample (cm): 5.49
-max DBH in sample (cm): 22.79
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 212  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.01 |      |
+| Mean DBH Is Sample (cm)                    | 5.49 |      |
+| Max DBH in Sample (cm)                     |22.79 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1387,13 +1437,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  1   |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 2.54 |      |
+| Mean DBH Is Sample (cm)                    | 2.54 |      |
+| Max DBH in Sample (cm)                     | 2.54 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1415,13 +1466,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  88  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.05 |      |
+| Mean DBH Is Sample (cm)                    |12.48 |      |
+| Max DBH in Sample (cm)                     |41.42 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1442,13 +1494,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |      |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |      |      |
+| Mean DBH Is Sample (cm)                    |      |      |
+| Max DBH in Sample (cm)                     |      |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1470,13 +1523,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  62  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.04 |      |
+| Mean DBH Is Sample (cm)                    | 8.91 |      |
+| Max DBH in Sample (cm)                     |93.91 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1497,13 +1551,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  31  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.04 |      |
+| Mean DBH Is Sample (cm)                    | 1.57 |      |
+| Max DBH in Sample (cm)                     | 2.71 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1524,13 +1579,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |      |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |      |      |
+| Mean DBH Is Sample (cm)                    |      |      |
+| Max DBH in Sample (cm)                     |      |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1552,13 +1608,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |      |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |      |      |
+| Mean DBH Is Sample (cm)                    |      |      |
+| Max DBH in Sample (cm)                     |      |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1579,13 +1636,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |      |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |      |      |
+| Mean DBH Is Sample (cm)                    |      |      |
+| Max DBH in Sample (cm)                     |      |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1608,13 +1666,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018: 
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.00
-mean DBH in sample (cm): 4.83
-max DBH in sample (cm): 23.80
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  43  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.00 |      |
+| Mean DBH Is Sample (cm)                    | 4.83 |      |
+| Max DBH in Sample (cm)                     |23.80 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1635,13 +1694,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.81
-mean DBH in sample (cm): 13.46
-max DBH in sample (cm): 32.91
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  12  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.81 |      |
+| Mean DBH Is Sample (cm)                    |13.46 |      |
+| Max DBH in Sample (cm)                     |32.91 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1662,13 +1722,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.16
-mean DBH in sample (cm): 11.24
-max DBH in sample (cm): 71.50
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 314  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.16 |      |
+| Mean DBH Is Sample (cm)                    |11.24 |      |
+| Max DBH in Sample (cm)                     |71.50 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1690,13 +1751,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm): 1.43
-mean DBH in sample (cm): 4.12
-max DBH in sample (cm): 34.10
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  32  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.43 |      |
+| Mean DBH Is Sample (cm)                    | 4.12 |      |
+| Max DBH in Sample (cm)                     |34.10 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1718,13 +1780,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |  25  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.25 |      |
+| Mean DBH Is Sample (cm)                    |11.14 |      |
+| Max DBH in Sample (cm)                     |24.12 |      |
 ```
 ```
 Graph of recruiment and mortality
@@ -1746,13 +1809,14 @@ Life history (information will be added by Michael)
 Leaf traits (written about or scanned and labeled)
 ```
 ```
-Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
-5-year mortality of trees (stems):
-new tree recuitment:
-min DBH in sample (cm):
-mean DBH in sample (cm):
-max DBH in sample (cm):
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems | 378  |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     | 1.04 |      |
+| Mean DBH Is Sample (cm)                    | 8.60 |      |
+| Max DBH in Sample (cm)                     |37.90 |      |
 ```
 ```
 Graph of recruiment and mortality

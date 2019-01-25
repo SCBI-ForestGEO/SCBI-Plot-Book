@@ -16,9 +16,19 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm) in 2013 and 2018:
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
+```
+|                                            | 2013 | 2018 |
+|:------------------------------------------:|------|------|
+| # of Stems in Total                        |      |      |
+| # of Individuals, Including Multiple Stems |      |      |
+| # of New Recruitment                       |      |      |
+| Min DBH in Sample (cm)                     |      |      |
+| Mean DBH Is Sample (cm)                    |      |      |
+| Max DBH in Sample (cm)                     |      |      |
 ```
 Graph of recruiment and mortality
 {r echo=false}
@@ -42,8 +52,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm) in 2013 and 2018: 1.01
+mean DBH in sample (cm) in 2013 and 2018: 1.01
+max DBH in sample (cm) in 2013 and 2018: 1.01
 ```
 ```
 Graph of recruiment and mortality
@@ -68,8 +79,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -95,8 +107,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -122,8 +135,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm) in 2013 and 2018: 1.00
+mean DBH in sample (cm) in 2013 and 2018: 2.43
+max DBH in sample (cm) in 2013 and 2018: 13.28
 ```
 ```
 Graph of recruiment and mortality
@@ -149,8 +163,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -176,8 +191,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.12
+mean DBH in sample (cm): 1.34
+max DBH in sample (cm): 1.58
 ```
 ```
 Graph of recruiment and mortality
@@ -203,8 +219,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.00
+mean DBH in sample (cm): 4.28
+max DBH in sample (cm): 47.20
 ```
 ```
 Graph of recruiment and mortality
@@ -226,11 +243,12 @@ Leaf traits (written about or scanned and labeled)
 ```
 ```
 Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
+# of trees (stems) in 2013 and 2018: 
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 2.58
+mean DBH in sample (cm): 2.58
+max DBH in sample (cm): 2.58
 ```
 ```
 Graph of recruiment and mortality
@@ -256,8 +274,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 2.25
+mean DBH in sample (cm): 10.19
+max DBH in sample (cm): 44.50
 ```
 ```
 Graph of recruiment and mortality
@@ -283,8 +302,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -311,8 +331,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -338,8 +359,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.47
+mean DBH in sample (cm): 7.46
+max DBH in sample (cm): 13.45
 ```
 ```
 Graph of recruiment and mortality
@@ -364,8 +386,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.32
+mean DBH in sample (cm): 5.92
+max DBH in sample (cm): 16.82
 ```
 ```
 Graph of recruiment and mortality
@@ -391,8 +414,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -418,8 +442,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -445,8 +470,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.00
+mean DBH in sample (cm): 6.21
+max DBH in sample (cm): 32.70
 ```
 ```
 Graph of recruiment and mortality
@@ -471,8 +497,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -498,8 +525,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.82
+mean DBH in sample (cm): 6.25
+max DBH in sample (cm): 13.75
 ```
 ```
 Graph of recruiment and mortality
@@ -524,8 +552,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -550,8 +579,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -576,8 +606,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -602,8 +633,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -628,8 +660,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -655,9 +688,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
-```
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):```
 ```
 Graph of recruiment and mortality
 {r echo=false}
@@ -681,8 +714,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -707,8 +741,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -733,8 +768,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -760,8 +796,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -787,8 +824,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.01
+mean DBH in sample (cm): 15.22
+max DBH in sample (cm): 99.25
 ```
 ```
 Graph of recruiment and mortality
@@ -813,8 +851,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.00
+mean DBH in sample (cm): 12.99
+max DBH in sample (cm): 79.35
 ```
 ```
 Graph of recruiment and mortality
@@ -839,8 +878,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.00
+mean DBH in sample (cm): 16.93
+max DBH in sample (cm): 66.22
 ```
 ```
 Graph of recruiment and mortality
@@ -865,8 +905,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.04 (2013) and
+mean DBH in sample (cm): 12.35 (2013) and
+max DBH in sample (cm): 69.38 (2013) and
 ```
 ```
 Graph of recruiment and mortality
@@ -891,8 +932,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -917,8 +959,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -944,8 +987,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -970,8 +1014,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -997,8 +1042,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1023,8 +1069,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1050,8 +1097,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1077,8 +1125,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 3.04 (2013) and
+mean DBH in sample (cm): 5.57 (2013) and
+max DBH in sample (cm): 9.03 (2013) and
 ```
 ```
 Graph of recruiment and mortality
@@ -1103,8 +1152,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1129,8 +1179,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1155,8 +1206,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1182,8 +1234,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1209,8 +1262,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1235,8 +1289,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1261,8 +1316,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1288,8 +1344,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1315,8 +1372,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.01 (2013) and
+mean DBH in sample (cm): 5.49 (2013) and
+max DBH in sample (cm): 22.79 (2013) and
 ```
 ```
 Graph of recruiment and mortality
@@ -1342,8 +1400,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1369,8 +1428,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1395,8 +1455,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1422,8 +1483,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1448,8 +1510,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1474,8 +1537,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1501,8 +1565,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1527,8 +1592,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1552,11 +1618,12 @@ Leaf traits (written about or scanned and labeled)
 ```
 ```
 Annual Recruitment and Mortality
-# of trees (stems) in 2013 and 2018:
+# of trees (stems) in 2013 and 2018: 
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.00 (2013) and
+mean DBH in sample (cm): 4.83 (2013) and
+max DBH in sample (cm): 23.80 (2013) and
 ```
 ```
 Graph of recruiment and mortality
@@ -1581,8 +1648,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.81 (2013) and
+mean DBH in sample (cm): 13.46 (2013) and
+max DBH in sample (cm): 32.91 (2013) and
 ```
 ```
 Graph of recruiment and mortality
@@ -1607,8 +1675,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.16 (2013) and
+mean DBH in sample (cm): 11.24 (2013) and
+max DBH in sample (cm): 71.50 (2013) and
 ```
 ```
 Graph of recruiment and mortality
@@ -1634,8 +1703,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm): 1.43 (2013) and
+mean DBH in sample (cm): 4.12 (2013) and
+max DBH in sample (cm): 34.10 (2013) and
 ```
 ```
 Graph of recruiment and mortality
@@ -1661,8 +1731,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
@@ -1688,8 +1759,9 @@ Annual Recruitment and Mortality
 # of trees (stems) in 2013 and 2018:
 5-year mortality of trees (stems):
 new tree recuitment:
-max DBH in sample:
-mean DBH in sample:
+min DBH in sample (cm):
+mean DBH in sample (cm):
+max DBH in sample (cm):
 ```
 ```
 Graph of recruiment and mortality
