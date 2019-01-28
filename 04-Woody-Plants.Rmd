@@ -24,9 +24,10 @@ Leaf traits (written about or scanned and labeled)
 Graph of recruiment and mortality
 {r echo=false}
 hist()
-```
+
 ![description](maps_and_figures/range_maps/sambucus_canadensis_map.html)
-```
+
+
 Graph of species range and distribution within the plot (plot location)
 ```
 Picture of tree cores (with a small blurb)
