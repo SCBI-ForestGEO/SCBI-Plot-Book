@@ -5,13 +5,11 @@ For life history, mention common canopy positions
 
 ##Adoxaceae
 ### *Sambucus canadensis var. canadensis* (L.) R. Bolli ```Common Elderberry```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -20,26 +18,20 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.41 |      |
 | Mean DBH Is Sample (cm)                    | 1.72 |      |
 | Max DBH in Sample (cm)                     | 2.33 |      |
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
+
+```Graph of recruiment and mortality```
 
 ![description](maps_and_figures/range_maps/sambucus_canadensis_map.html)
 
+```Graph of species range and distribution within the plot (plot location)```
 
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+```Picture of tree cores (with a small blurb)```
 
 ### *Viburnum acerifolium* L. ```Mapleleaf Viburnum```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -48,26 +40,21 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.01 |      |
 | Mean DBH Is Sample (cm)                    | 1.01 |      |
 | Max DBH in Sample (cm)                     | 1.01 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/viburnum_acerifolium_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ###	*Viburnum prunifolium* L. ```Black Haw```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -76,27 +63,21 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.01 |      |
 | Mean DBH Is Sample (cm)                    | 4.85 |      |
 | Max DBH in Sample (cm)                     |13.29 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/viburnum_prunifolium_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ###	*Viburnum recognitum* Fernald ```Southern Arrow-wood```
-```
-Life history (information will be added by Michael)
-***also known as *Virburnum dentatum* L.***
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+```Life history (information will be added by Michael)
+***also known as *Virburnum dentatum* L.**```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -105,27 +86,22 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.88 |      |
 | Mean DBH Is Sample (cm)                    | 1.88 |      |
 | Max DBH in Sample (cm)                     | 1.88 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/viburnum_recognitum_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ## Annonaceae
 ### *Asimina triloba*	(L.) Dunal ```Pawpaw```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -134,27 +110,22 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.00 |      |
 | Mean DBH Is Sample (cm)                    | 2.43 |      |
 | Max DBH in Sample (cm)                     |13.28 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/asimina_triloba_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ##Aquifoliaceae
 ### *Ilex verticillata* (L.) A. Gray ```Common Winterberry```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -163,27 +134,22 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.04 |      |
 | Mean DBH Is Sample (cm)                    | 2.47 |      |
 | Max DBH in Sample (cm)                     | 5.95 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/ilex_verticillata_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ##Berberidaceae
 ### *Berberis thunbergii* DC. ```Japanese Barberry```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -249,17 +215,14 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 2.58 |      |
 | Mean DBH Is Sample (cm)                    | 2.58 |      |
 | Max DBH in Sample (cm)                     | 2.58 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/corylus_americana_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ## Cannabaceae
 ### *Celtis occidentalis*	L. ```Hackberry```

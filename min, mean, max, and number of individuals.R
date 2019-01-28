@@ -5,7 +5,9 @@
 
 ## load csv that is being used into global environment
 
+library(readxl)
 scbi_full2 <- read.csv("C:/Users/Alyssa/Dropbox (Smithsonian)/VNPS_Alyssa Terrell/scbi.full2.csv")
+View(scbi_full2)
 
 ## filter out 'alive' status from 'dead' status (calculations are only needed from species still alive)
 ## to exclude any mishaps, filter out dbh that is 0
@@ -20,3 +22,25 @@ summary.by.sp <- tapply(scbi_full2$dbh, scbi_full2$sp, function(x)
   return(round(data.frame(min = min(x), mean = mean(x), max = max(x), n = length(x)), 2)))
 summary.by.sp <- data.frame(sp = names(summary.by.sp), do.call(rbind, summary.by.sp), row.names = NULL)
 
+
+
+
+## another way to run code if statuses are not available
+## example will be used with 2018 census data
+
+## load csv into global environment
+
+recensus2018 <- read.csv("V:/SIGEO/2-RECENSUS 2018/DATA/CTFS_Backups/recensus2018.csv", stringsAsFactors = F)
+str(recensus2018)
+table(recensus2018$Codes)
+
+## will produce a table that includes "D" aka 'dead' statuses
+## to get rid of 'dead' statuses
+## include ignore.case as an extra measure in case lowercase 'd' is included in data
+
+recensus2018 <- recensus2018[!grepl("D", recensus2018$Codes, ignore.case = T), ]
+table(recensus2018$Codes)
+
+## table should not exclude "D' statuses
+
+tapply(recensus2018$DBH, recensus2018$Mnemonic, summary, DBH > 0)
