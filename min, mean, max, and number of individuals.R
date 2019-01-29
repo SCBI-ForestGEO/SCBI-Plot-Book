@@ -20,6 +20,7 @@ scbi_full2 <- droplevels(scbi_full2[scbi_full2$status %in% "A" & scbi_full2$dbh 
 tapply(scbi_full2$dbh, scbi_full2$sp, summary, dbh > 0)
 summary.by.sp <- tapply(scbi_full2$dbh, scbi_full2$sp, function(x)
   return(round(data.frame(min = min(x), mean = mean(x), max = max(x), n = length(x)), 2)))
+
 summary.by.sp <- data.frame(sp = names(summary.by.sp), do.call(rbind, summary.by.sp), row.names = NULL)
 
 
@@ -34,13 +35,16 @@ recensus2018 <- read.csv("V:/SIGEO/2-RECENSUS 2018/DATA/CTFS_Backups/recensus201
 str(recensus2018)
 table(recensus2018$Codes)
 
-## will produce a table that includes "D" aka 'dead' statuses
-## to get rid of 'dead' statuses
-## include ignore.case as an extra measure in case lowercase 'd' is included in data
+## will produce a table that includes 'dead' statuses and dbh starting at '0'
+## to get rid of this, limit what dbh measurements should be included in data
 
-recensus2018 <- recensus2018[!grepl("D", recensus2018$Codes, ignore.case = T), ]
+recensus2018 <- recensus2018[recensus2018$DBH >= 1, ]
 table(recensus2018$Codes)
 
 ## table should not exclude "D' statuses
 
 tapply(recensus2018$DBH, recensus2018$Mnemonic, summary, DBH > 0)
+summary.by.sp <- tapply(recensus2018$DBH, recensus2018$Mnemonic, function(x)
+  return(round(data.frame(min = min(x), mean = mean(x), max = max(x), n = length(x)), 2)))
+
+summary.by.sp <- data.frame(sp = names(summary.by.sp), do.call(rbind, summary.by.sp), row.names = NULL)
