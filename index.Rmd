@@ -1,8 +1,8 @@
 ---
 title: "SCBI Plot Book"
-author: "William McShea, Kristina Anderson-Teixeira, Erika Gonzalez-Akre, Stuart Davies, Alyssa Terrell, Michael Scott, Caroline Kittle, Ian McGregor"
-date: "2018"
-description: "An overview of SCBI's research plot. This book is still in the process of being written. If there are any suggestions, get in contact with [GitHub](https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/issues/new.)"
+author: "Kristina Anderson-Teixeira, William McShea, Erika Gonzalez-Akre, Stuart Davies, Alyssa Terrell, Michael Scott, Caroline Kittle, Ian McGregor"
+date: "2019"
+description: "An overview of SCBI's research plot, 10 years of data" 
 documentclass: book
 github-repo: SCBI-ForestGEO/SCBI-Plot-Book
 link-citations: yes
@@ -14,3 +14,9 @@ site: bookdown::bookdown_site
 biblio-style: "apa"
 url: http\://SCBI-ForestGEO/SCBI-Plot-Book/
 ---
+
+# Preface {-}
+
+This is the very first part of the book. An introduction to the importance of the book (maybe written by Stuart, Steve, Sean?).
+
+This book is still in progress. Any suggestions or questions get in contact with us through [GitHub](https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/issues/new.)
