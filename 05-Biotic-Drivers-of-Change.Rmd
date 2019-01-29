@@ -1,9 +1,5 @@
----
-output:
-  word_document: default
-  html_document: default
----
 # Biotics Drivers of Change
+
 ## Invasive Plants
 (insert Caroline's information here - should include description/life history, native range, range in US, spread in pot, and data from the Shenandoah paper)
 
