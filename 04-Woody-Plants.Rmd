@@ -1334,26 +1334,21 @@ Picture of tree cores (with a small blurb)
 | Min DBH in Sample (cm)                     |      |      |
 | Mean DBH Is Sample (cm)                    |      |      |
 | Max DBH in Sample (cm)                     |      |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/rubus_pensilvanicus_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 *Rubus phoenicolasius* Maxim.	```Wineberry```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -1362,28 +1357,23 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     |      |      |
 | Mean DBH Is Sample (cm)                    |      |      |
 | Max DBH in Sample (cm)                     |      |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/rubus_phoenicolasius_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ## Sapindaceae
 ### *Acer negundo* L. var negundo ```Boxelder```
-```
-Life history (information will be added by Michael)
-**Second common name is Eastern Boxelder.**
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)
+**Second common name is Eastern Boxelder.**```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -1392,26 +1382,21 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.00 |      |
 | Mean DBH Is Sample (cm)                    | 4.83 |      |
 | Max DBH in Sample (cm)                     |23.80 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![The geological range of Acer negundo spans throughout all of the continental United States, Mexico, and the Southern portion of Canada.](maps_and_figures/range_maps/Acer_negundo_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ### *Acer platanoides* L.	```Norway Maple```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -1420,26 +1405,21 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.81 |      |
 | Mean DBH Is Sample (cm)                    |13.46 |      |
 | Max DBH in Sample (cm)                     |32.91 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![Acer platanoides](maps_and_figures/range_maps/Acer_platanoides_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ### *Acer rubrum*	L. ```Red Maple```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -1448,27 +1428,22 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.16 |      |
 | Mean DBH Is Sample (cm)                    |11.24 |      |
 | Max DBH in Sample (cm)                     |71.50 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![Acer rubrum](maps_and_figures/range_maps/Acer_rubrum_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ## Simaroubaceae
 ### *Ailanthus altissima* (P. Miller) Swingle ```Tree of Heaven```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -1477,27 +1452,22 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.43 |      |
 | Mean DBH Is Sample (cm)                    | 4.12 |      |
 | Max DBH in Sample (cm)                     |34.10 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![ailanthus altissima](maps_and_figures/range_maps/ailanthus_altissima_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ## Ulmaceae
 ### *Ulmus americana*	L. ```American Elm```
-```
-Life history (information will be added by Michael)
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -1506,27 +1476,22 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.25 |      |
 | Mean DBH Is Sample (cm)                    |11.14 |      |
 | Max DBH in Sample (cm)                     |24.12 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/ulmus_americana_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
 
 ### *Ulmus rubra*	Muhl. ```Slippery Elm```
-```
-Life history (information will be added by Michael)
-**Species is also commonly known as Red Elm.**
-```
-```
-Leaf traits (written about or scanned and labeled)
-```
-```
+
+```Life history (information will be added by Michael)
+**Species is also commonly known as Red Elm.**```
+
+```Leaf traits (written about or scanned and labeled)```
+
 |                                            | 2013 | 2018 |
 |:------------------------------------------:|------|------|
 | # of Stems in Total                        |      |      |
@@ -1535,14 +1500,11 @@ Leaf traits (written about or scanned and labeled)
 | Min DBH in Sample (cm)                     | 1.04 |      |
 | Mean DBH Is Sample (cm)                    | 8.60 |      |
 | Max DBH in Sample (cm)                     |37.90 |      |
-```
-```
-Graph of recruiment and mortality
-{r echo=false}
-hist()
-```
+
+```Graph of recruiment and mortality```
+
 ![description](maps_and_figures/range_maps/ulmus_rubra_map.html)
-```
-Graph of species range and distribution within the plot (plot location)
-```
-Picture of tree cores (with a small blurb)
+
+```Graph of species range and distribution within the plot (plot location)```
+
+```Picture of tree cores (with a small blurb)```
