@@ -6,23 +6,25 @@
 ## load csv that is being used into global environment
 
 library(readxl)
-scbi_full2 <- read.csv("C:/Users/Alyssa/Dropbox (Smithsonian)/VNPS_Alyssa Terrell/scbi.full2.csv")
-View(scbi_full2)
+scbi_stem1 <- read.csv("V:/SIGEO/3-RECENSUS 2013/DATA/FINAL DATA to use, to share/scbi.stem1.csv")
+View(scbi_stem1)
 
 ## filter out 'alive' status from 'dead' status (calculations are only needed from species still alive)
 ## to exclude any mishaps, filter out dbh that is 0
 
-scbi_full2 <- droplevels(scbi_full2[scbi_full2$status %in% "A" & scbi_full2$dbh > 0, ])
+scbi_stem1 <- droplevels(scbi_stem1[scbi_stem1$DFstatus %in% "alive" & scbi_stem1$dbh > 0, ])
 
-## from the "scbi_full2" tab created, pick out the information that is needed
+## from the "scbi_stem1" tab created, pick out the information that is needed
 ## in this case min, mean, max, and number of individuals is needed
 
-tapply(scbi_full2$dbh, scbi_full2$sp, summary, dbh > 0)
-summary.by.sp <- tapply(scbi_full2$dbh, scbi_full2$sp, function(x)
+
+tapply(scbi_stem1$dbh, scbi_stem1$sp, summary, dbh > 0)
+summary.by.sp <- tapply(scbi_stem1$dbh, scbi_stem1$sp, function(x)
   return(round(data.frame(min = min(x), mean = mean(x), max = max(x), n = length(x)), 2)))
 
 summary.by.sp <- data.frame(sp = names(summary.by.sp), do.call(rbind, summary.by.sp), row.names = NULL)
 
+acne <- summary.by.sp[which(summary.by.sp$sp == "acne"), ]
 
 
 
@@ -36,15 +38,14 @@ str(recensus2018)
 table(recensus2018$Codes)
 
 ## will produce a table that includes 'dead' statuses and dbh starting at '0'
-## to get rid of this, limit what dbh measurements should be included in data
+## to get rid of this, limit what dbh measurements and statuses should be included in data
 
-recensus2018 <- recensus2018[recensus2018$DBH >= 1, ]
-table(recensus2018$Codes)
+dead <- c("D", "DS", "DC", "DN", "DS;R", "Dc;R")
 
-## table should not exclude "D' statuses
+recensus_sub <- subset(recensus2018, recensus2018$DBH >= 1 & !(recensus2018$Codes %in% dead))
 
-tapply(recensus2018$DBH, recensus2018$Mnemonic, summary, DBH > 0)
-summary.by.sp <- tapply(recensus2018$DBH, recensus2018$Mnemonic, function(x)
+tapply(recensus_sub$DBH, recensus_sub$Mnemonic, summary, DBH > 0)
+summary.by.sp <- tapply(recensus_sub$DBH, recensus_sub$Mnemonic, function(x)
   return(round(data.frame(min = min(x), mean = mean(x), max = max(x), n = length(x)), 2)))
 
 summary.by.sp <- data.frame(sp = names(summary.by.sp), do.call(rbind, summary.by.sp), row.names = NULL)
