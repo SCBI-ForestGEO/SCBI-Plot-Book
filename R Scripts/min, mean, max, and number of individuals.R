@@ -12,19 +12,40 @@ View(scbi_stem1)
 ## filter out 'alive' status from 'dead' status (calculations are only needed from species still alive)
 ## to exclude any mishaps, filter out dbh that is 0
 
-scbi_stem1 <- droplevels(scbi_stem1[scbi_stem1$DFstatus %in% "alive" & scbi_stem1$dbh > 0, ])
-
 ## from the "scbi_stem1" tab created, pick out the information that is needed
 ## in this case min, mean, max, and number of individuals is needed
 
+## enter number of census
+nb.censuses <- 2
 
-tapply(scbi_stem1$dbh, scbi_stem1$sp, summary, dbh > 0)
-summary.by.sp <- tapply(scbi_stem1$dbh, scbi_stem1$sp, function(x)
-  return(round(data.frame(min = min(x), mean = mean(x), max = max(x), n = length(x)), 2)))
+for(census in 1:nb.censuses){
+  stem <- read.csv(file = paste0("scbi.stem", census, ".csv"), header = TRUE)
+  
+  colnames(stem) <- gsub("Mnemonic", "sp", colnames(stem))
+  
+  colnames(stem) <- gsub("DBH", "dbh", colnames(dbh))
+  
+  stem <- stem[stem$DFstatus %in% "alive" & scbi_stem1$dbh > 0, ]
+  tapply(stem$dbh, stem$sp, summary, dbh > 0)
+  summary.by.sp <- tapply(stem$dbh, stem$sp, function(x)
+    return(round(data.frame(min = min(x), mean = mean(x), max = max(x), n = length(x)), 2)))
+  
+  summary.by.sp <- data.frame(sp = names(summary.by.sp), do.call(rbind, summary.by.sp), row.names = NULL)
+  
+  if(census == 1) {
+    summary.by.sp.and.by.census <- summary.by.sp
+  }
+  
+  if(census > 1){
+    summary.by.sp.and.by.census <- merge(summary.by.sp.and.by.census, summary.by.sp, by = "sp", all = TRUE, suffixes = paste(".stem.", c(census-1, census)))
+  }
+}
 
-summary.by.sp <- data.frame(sp = names(summary.by.sp), do.call(rbind, summary.by.sp), row.names = NULL)
+acne <- summary.by.sp.and.by.census[which(summary.by.sp.and.by.census$sp == "acne"), ]
 
-acne <- summary.by.sp[which(summary.by.sp$sp == "acne"), ]
+
+
+
 
 
 
@@ -33,7 +54,7 @@ acne <- summary.by.sp[which(summary.by.sp$sp == "acne"), ]
 
 ## load csv into global environment
 
-recensus2018 <- read.csv("V:/SIGEO/2-RECENSUS 2018/DATA/CTFS_Backups/recensus2018.csv", stringsAsFactors = F)
+recensus2018 <- read.csv("V:/SIGEO/2-RECENSUS 2018/DATA/CTFS_Backups/recensus2018.csv", stringsAsFactors = FALSE)
 str(recensus2018)
 table(recensus2018$Codes)
 
