@@ -4,7 +4,7 @@
 ## this script will also produce the number of individuals from each species are present in the plot during each census
 
 ## load csv that is being used into global environment
-
+setwd("V:/SIGEO/3-RECENSUS 2013/DATA/FINAL DATA to use, to share/")
 library(readxl)
 scbi_stem1 <- read.csv("V:/SIGEO/3-RECENSUS 2013/DATA/FINAL DATA to use, to share/scbi.stem1.csv")
 View(scbi_stem1)
@@ -22,8 +22,6 @@ for(census in 1:nb.censuses){
   stem <- read.csv(file = paste0("scbi.stem", census, ".csv"), header = TRUE)
   
   colnames(stem) <- gsub("Mnemonic", "sp", colnames(stem))
-  
-  colnames(stem) <- gsub("DBH", "dbh", colnames(dbh))
   
   stem <- stem[stem$DFstatus %in% "alive" & scbi_stem1$dbh > 0, ]
   tapply(stem$dbh, stem$sp, summary, dbh > 0)

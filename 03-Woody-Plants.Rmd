@@ -10,14 +10,15 @@ For life history, mention common canopy positions
 
 ```Leaf traits (written about or scanned and labeled)```
 
-|                                            | 2013 | 2018 |
-|:------------------------------------------:|------|------|
-| # of Stems in Total                        |      |      |
-| # of Individuals, Including Multiple Stems |  5   |      |
-| # of New Recruitment                       |      |      |
-| Min DBH in Sample (cm)                     | 1.41 |      |
-| Mean DBH Is Sample (cm)                    | 1.72 |      |
-| Max DBH in Sample (cm)                     | 2.33 |      |
+```{r}
+setwd = "C:/Users/TerrellA3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-Plot-Book/tables_for_chapter_3/"
+library(knitr)
+knitr::kable(
+  head(saca_summary[, 1:2], 7), booktabs = TRUE,
+  caption = 'Saca summary table'
+)
+```
+
 
 ```Graph of recruiment and mortality```
 
