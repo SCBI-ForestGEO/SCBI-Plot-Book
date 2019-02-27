@@ -10,10 +10,8 @@ For life history, mention common canopy positions
 
 ```Leaf traits (written about or scanned and labeled)```
 
-![](C:/Users/TerrellA3/Dropbox%20(Smithsonian)/GitHub_Alyssa/SCBI-Plot-Book/tables_for_chapter_3/saca.png)<!-- -->
-
-
 ```Graph of recruiment and mortality```
+![description](tables_for_chapter_3/saca.html)
 
 ![description](maps_and_figures/range_maps/sambucus_canadensis_map.html)
 

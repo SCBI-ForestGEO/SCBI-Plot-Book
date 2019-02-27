@@ -10,17 +10,8 @@ For life history, mention common canopy positions
 
 ```Leaf traits (written about or scanned and labeled)```
 
-```{r}
-setwd = "C:/Users/TerrellA3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-Plot-Book/tables_for_chapter_3/"
-library(knitr)
-knitr::kable(
-  head(saca_summary[, 1:2], 7), booktabs = TRUE,
-  caption = 'Saca summary table'
-)
-```
-
-
 ```Graph of recruiment and mortality```
+![description](tables_for_chapter_3/saca.html)
 
 ![description](maps_and_figures/range_maps/sambucus_canadensis_map.html)
 

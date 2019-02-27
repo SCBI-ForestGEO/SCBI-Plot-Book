@@ -19,4 +19,4 @@ url: http\://SCBI-ForestGEO/SCBI-Plot-Book/
 
 This is the very first part of the book. An introduction to the importance of the book (maybe written by Stuart, Steve, Sean?).
 
-This book is still in progress. Any suggestions or questions get in contact with us through [GitHub](https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/issues/new.)
+This book is still in progress. Any suggestions or questions get in contact with us through [GitHub](https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/issues/new).
