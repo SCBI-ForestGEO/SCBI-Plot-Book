@@ -11,6 +11,7 @@ For life history, mention common canopy positions
 ```Leaf traits (written about or scanned and labeled)```
 
 ```Graph of recruiment and mortality```
+
 ![description](maps_figures_tables/range_maps_SCBI_plot/saca.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/sambucus_canadensis_map.html)
@@ -35,7 +36,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/viburnum_acerifolium_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/viac.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/viburnum_acerifolium_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -58,7 +61,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/viburnum_prunifolium_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/vipr.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/viburnum_prunifolium_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -81,7 +86,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/viburnum_recognitum_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/vire.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/viburnum_recognitum_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -105,7 +112,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/asimina_triloba_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/astr.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/asimina_triloba_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -129,7 +138,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/ilex_verticillata_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/ilve.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/ilex_verticillata_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -153,7 +164,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/berberis_thunbergii_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/beth.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/berberis_thunbergii_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -177,7 +190,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/carpinus_caroliniana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/caca.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/carpinus_caroliniana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -200,7 +215,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/corylus_americana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/coca.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -224,7 +241,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/celtis_occidentalis_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/ceoc.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -248,7 +267,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/lonicera_maackii_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/loma.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/lonicera_maackii_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -273,7 +294,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/euonymus_alatus_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/eual.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/euonymus_alatus_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -297,7 +320,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/cornus_alternifolia_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/coal.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/cornus_alternifolia_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -320,7 +345,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/cornus_florida_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/cofl.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/cornus_florida_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -344,7 +371,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/diospyros_virginiana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/divi.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/diospyros_virginiana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -368,7 +397,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/elaeagnus umbellata_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/elum.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/elaeagnus umbellata_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -392,7 +423,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/cercis_canadensis_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/ceca.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/cercis_canadensis_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -415,7 +448,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/robinia_pseudoacacia_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/rops.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/robinia_pseudoacacia_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -439,7 +474,9 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/castanea_dentata_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/cade.jpg)
+
+![description](maps_figures_tables/range_maps_SCBI_plot/castanea_dentata_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -462,7 +499,7 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/fagus_grandifolia_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/fagus_grandifolia_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -485,7 +522,7 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/quercus_alba_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/quercus_alba_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -508,7 +545,7 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/quercus_coccinea_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/quercus_coccinea_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -531,7 +568,7 @@ For life history, mention common canopy positions
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/quercus_falcata_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/quercus_falcata_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -554,7 +591,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/quercus_michauxii_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/quercus_michauxii_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -578,7 +615,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/quercus_montana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/quercus_montana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -601,7 +638,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/quercus_muehlenbergii_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/quercus_muehlenbergii_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -624,7 +661,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/quercus_rubra_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/quercus_rubra_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -647,7 +684,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/quercus_velutina_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/quercus_velutina_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -671,7 +708,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/hamamelis_virginiana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/hamamelis_virginiana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -695,7 +732,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/carya_cordiformis_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/carya_cordiformis_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -718,7 +755,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/carya_glabra_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/carya_glabra_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -741,7 +778,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/carya_glabra_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/carya_glabra_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -764,7 +801,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/carya_alba_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/carya_alba_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -787,7 +824,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/juglans_cinerea_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/juglans_cinerea_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -810,7 +847,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/juglans_nigra_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/juglans_nigra_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -834,7 +871,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/lindera_benzoin_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/lindera_benzoin_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -857,7 +894,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/sassafras_albidum_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/sassafras_albidum_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -881,7 +918,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/liriodendron_tulipifera_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/liriodendron_tulipifera_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -905,7 +942,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/tilia_americana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/tilia_americana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -929,7 +966,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/nyssa_sylvatica_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/nyssa_sylvatica_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -953,7 +990,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/chionanthus_virginicus_map.html
+![description](maps_figures_tables/range_maps_SCBI_plot/chionanthus_virginicus_map.html
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -976,7 +1013,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/fraxinus_americana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/fraxinus_americana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -999,7 +1036,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/fraxinus_nigra_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/fraxinus_nigra_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1022,7 +1059,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/fraxinus_pennsylvanica_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/fraxinus_pennsylvanica_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1046,7 +1083,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/paulownia_tomentosa_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/paulownia_tomentosa_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1070,7 +1107,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/pinus_pungens_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/pinus_pungens_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1093,7 +1130,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/pinus_strobus_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/pinus_strobus_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1116,7 +1153,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/pinus_virginiana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/pinus_virginiana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1140,7 +1177,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/platanus_occidentalis_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/platanus_occidentalis_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1164,7 +1201,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/amelanchier_arborea_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/amelanchier_arborea_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1188,7 +1225,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/crataegus_pruinosa_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/crataegus_pruinosa_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1212,7 +1249,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/prunus_avium_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/prunus_avium_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1235,7 +1272,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/prunus_persica_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/prunus_persica_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1259,7 +1296,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/prunus_serotina_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/prunus_serotina_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1282,7 +1319,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/rosa_multiflora_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/rosa_multiflora_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1305,7 +1342,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/rubus_allegheniensis_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/rubus_allegheniensis_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1329,7 +1366,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/rubus_pensilvanicus_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/rubus_pensilvanicus_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1352,7 +1389,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/rubus_phoenicolasius_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/rubus_phoenicolasius_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1377,7 +1414,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![The geological range of Acer negundo spans throughout all of the continental United States, Mexico, and the Southern portion of Canada.](maps_and_figures/range_maps/Acer_negundo_map.html)
+![The geological range of Acer negundo spans throughout all of the continental United States, Mexico, and the Southern portion of Canada.](maps_figures_tables/range_maps_SCBI_plot/Acer_negundo_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1400,7 +1437,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![Acer platanoides](maps_and_figures/range_maps/Acer_platanoides_map.html)
+![Acer platanoides](maps_figures_tables/range_maps_SCBI_plot/Acer_platanoides_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1423,7 +1460,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![Acer rubrum](maps_and_figures/range_maps/Acer_rubrum_map.html)
+![Acer rubrum](maps_figures_tables/range_maps_SCBI_plot/Acer_rubrum_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1447,7 +1484,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![ailanthus altissima](maps_and_figures/range_maps/ailanthus_altissima_map.html)
+![ailanthus altissima](maps_figures_tables/range_maps_SCBI_plot/ailanthus_altissima_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1471,7 +1508,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/ulmus_americana_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/ulmus_americana_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1495,7 +1532,7 @@ Picture of tree cores (with a small blurb)
 
 ```Graph of recruiment and mortality```
 
-![description](maps_and_figures/range_maps/ulmus_rubra_map.html)
+![description](maps_figures_tables/range_maps_SCBI_plot/ulmus_rubra_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
