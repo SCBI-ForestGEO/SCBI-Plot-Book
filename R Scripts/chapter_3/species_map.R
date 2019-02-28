@@ -1,8 +1,5 @@
 here ()
-
-devtools::install_package("forestgeo.data")
 library(fgeo)
-library(fgeo.plot)
 pdf("species.pdf", width=10)
 for (i in seq(along = unique(scbi_census_alive$sp))){
   test <- unique(scbi_census_alive$sp)[[i]]
@@ -11,9 +8,3 @@ for (i in seq(along = unique(scbi_census_alive$sp))){
   ggsave(filename = paste0(test, ".jpg"),  plot=q)
 }
 dev.off()
-
-
-scbi_census_alive <- scbi.stem2[scbi.stem2$DFstatus == "alive", ]
-litu <- scbi_census_alive[scbi_census_alive$sp == "litu", ]
-
-q <- autoplot(sp_elev(change, elevation))
