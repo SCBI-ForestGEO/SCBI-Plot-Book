@@ -977,7 +977,7 @@ Picture of tree cores (with a small blurb)
 
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/chvi.jpg)
 
-![description](maps_figures_tables/range_maps_SCBI_plot/chionanthus_virginicus_map.html
+![description](maps_figures_tables/range_maps_SCBI_plot/chionanthus_virginicus_map.html)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1309,6 +1309,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/range_maps_SCBI_plot/prunus_serotina_map.html)
 
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/prse.jpg)
+
 ```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
@@ -1331,6 +1333,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/range_maps_SCBI_plot/rosa_multiflora_map.html)
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/romu.jpg)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1427,6 +1431,8 @@ Picture of tree cores (with a small blurb)
 
 ![The geological range of Acer negundo spans throughout all of the continental United States, Mexico, and the Southern portion of Canada.](maps_figures_tables/range_maps_SCBI_plot/Acer_negundo_map.html)
 
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/acne.jpg)
+
 ```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
@@ -1450,6 +1456,8 @@ Picture of tree cores (with a small blurb)
 
 ![Acer platanoides](maps_figures_tables/range_maps_SCBI_plot/Acer_platanoides_map.html)
 
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/acpl.jpg)
+
 ```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
@@ -1472,6 +1480,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![Acer rubrum](maps_figures_tables/range_maps_SCBI_plot/Acer_rubrum_map.html)
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/acru.jpg)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
@@ -1497,6 +1507,8 @@ Picture of tree cores (with a small blurb)
 
 ![ailanthus altissima](maps_figures_tables/range_maps_SCBI_plot/ailanthus_altissima_map.html)
 
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/aial.jpg)
+
 ```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
@@ -1521,6 +1533,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/range_maps_SCBI_plot/ulmus_americana_map.html)
 
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ulam.jpg)
+
 ```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
@@ -1544,6 +1558,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/range_maps_SCBI_plot/ulmus_rubra_map.html)
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ulru.jpg)
 
 ```Graph of species range and distribution within the plot (plot location)```
 
