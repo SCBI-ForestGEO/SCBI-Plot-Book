@@ -15,6 +15,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/saca.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/sambucus_canadensis_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Viburnum acerifolium* L. ```Mapleleaf Viburnum```
@@ -36,6 +37,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/viac.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/viburnum_acerifolium_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ###	*Viburnum prunifolium* L. ```Black Haw```
@@ -58,6 +60,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/vipr.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/viburnum_prunifolium_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ###	*Viburnum recognitum* Fernald ```Southern Arrow-wood```
@@ -80,6 +83,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/vire.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/viburnum_recognitum_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Annonaceae
@@ -103,6 +107,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/astr.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/asimina_triloba_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ##Aquifoliaceae
@@ -126,6 +131,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ilve.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/ilex_verticillata_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ##Berberidaceae
@@ -149,6 +155,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/beth.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/berberis_thunbergii_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Betulaceae
@@ -195,6 +202,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/coca.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Cannabaceae
@@ -218,6 +226,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ceoc.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Caprifoliaceae
@@ -241,6 +250,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/loma.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/lonicera_maackii_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Celastracea
@@ -265,6 +275,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/eual.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/euonymus_alatus_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Cornaceae
@@ -288,6 +299,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/coal.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/cornus_alternifolia_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Cornus florida* L. ```Flowering Dogwood```
@@ -310,6 +322,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/cofl.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/cornus_florida_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Ebenaceae
@@ -333,6 +346,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/divi.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/diospyros_virginiana_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Elaeagnaceae
@@ -380,6 +394,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ceca.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/cercis_canadensis_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Robinia pseudoacacia* L. ```Black Locust```
@@ -402,6 +417,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/rops.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/robinia_pseudoacacia_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Fagaceae
@@ -425,6 +441,7 @@ For life history, mention common canopy positions
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/cade.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/castanea_dentata_map.html)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Fagus grandifolia*	Ehrh. ```American Beech```
@@ -447,8 +464,6 @@ For life history, mention common canopy positions
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/fagr.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/fagus_grandifolia_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -473,8 +488,6 @@ For life history, mention common canopy positions
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_alba_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Quercus coccinea* Muenchh. ```Scarlet Oak```
@@ -497,8 +510,6 @@ For life history, mention common canopy positions
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/quco.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_coccinea_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -523,8 +534,6 @@ For life history, mention common canopy positions
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_falcata_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 Picture of tree cores (with a small blurb)
 
 ### *Quercus michauxii* Nutt. ```Swamp Chestnut Oak```
@@ -547,8 +556,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/qumi.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_michauxii_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -574,8 +581,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_montana_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Quercus muehlenbergii* Engelm. ```Chinkapin Oak```
@@ -598,8 +603,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/qumu.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_muehlenbergii_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -624,8 +627,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_rubra_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Quercus velutina* Lam.	```Black Oak```
@@ -648,8 +649,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/quve.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_velutina_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -675,8 +674,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/hamamelis_virginiana_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ## Juglandaceae
@@ -701,8 +698,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carya_cordiformis_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Carya glabra* (P. Mill.) ```Pignut Hickory```
@@ -725,8 +720,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/cagl.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carya_glabra_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -751,8 +744,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carya_glabra_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Carya tomentosa* (Lam. ex Pior.) Nutt.	```Mockernut Hickory```
@@ -775,8 +766,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/cato.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carya_alba_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -801,8 +790,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/juglans_cinerea_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Juglans nigra*	L. ```Black Walnut```
@@ -825,8 +812,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/juni.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/juglans_nigra_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -852,8 +837,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/lindera_benzoin_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Sassafras albidum* (Nutt.) Nees ```Sassafras```
@@ -876,8 +859,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/saal.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/sassafras_albidum_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -903,8 +884,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/liriodendron_tulipifera_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ## Malvaceae
@@ -928,8 +907,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/tiam.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/tilia_americana_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -955,8 +932,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/nyssa_sylvatica_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ## Oleaceae
@@ -981,8 +956,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/chionanthus_virginicus_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 Picture of tree cores (with a small blurb)
 
 ### *Fraxinus americana* L. ```White Ash```
@@ -1005,8 +978,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/fram.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/fraxinus_americana_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -1031,8 +1002,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/fraxinus_nigra_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 Picture of tree cores (with a small blurb)
 
 ### *Fraxinus pennsylvanica* Marsh.	```Green Ash```
@@ -1055,8 +1024,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/frpe.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/fraxinus_pennsylvanica_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -1082,8 +1049,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/paulownia_tomentosa_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ## Pinaceae
@@ -1108,8 +1073,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/pinus_pungens_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 Picture of tree cores (with a small blurb)
 
 ### *Pinus strobus* L. ```Eastern White Pine```
@@ -1133,8 +1096,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/pinus_strobus_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Pinus virginiana* P. Mill.	```Virginia Pine```
@@ -1157,8 +1118,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/pivi.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/pinus_virginiana_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 Picture of tree cores (with a small blurb)
 
@@ -1184,8 +1143,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/platanus_occidentalis_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ## Rosaceae
@@ -1209,8 +1166,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/amar.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/amelanchier_arborea_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -1236,8 +1191,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/crataegus_pruinosa_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Prunus avium* (L.) L. ```Sweet cherry```
@@ -1262,8 +1215,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/prunus_avium_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Prunus persica* (L.) Batsch ```Peach```
@@ -1286,8 +1237,6 @@ Picture of tree cores (with a small blurb)
 ![description](map_figures_table/ch_3_range_maps_SCBI_plot/prpe.jpg)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/prunus_persica_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -1313,8 +1262,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/prse.jpg)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Rosa multiflora* Thunb. ex Murr.	```Multiflora Rose```
@@ -1338,8 +1285,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/romu.jpg)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Rubus allegheniensis* Porter ```Allegheny Blackberry```
@@ -1360,8 +1305,6 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/rubus_allegheniensis_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -1385,8 +1328,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/rubus_pensilvanicus_map.html)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 *Rubus phoenicolasius* Maxim.	```Wineberry```
@@ -1407,8 +1348,6 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/rubus_phoenicolasius_map.html)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -1435,8 +1374,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/acne.jpg)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Acer platanoides* L.	```Norway Maple```
@@ -1460,8 +1397,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/acpl.jpg)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Acer rubrum*	L. ```Red Maple```
@@ -1484,8 +1419,6 @@ Picture of tree cores (with a small blurb)
 ![Acer rubrum](maps_figures_tables/ch_3_US_range_maps/Acer_rubrum_map.html)
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/acru.jpg)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -1511,8 +1444,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/aial.jpg)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ## Ulmaceae
@@ -1537,8 +1468,6 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ulam.jpg)
 
-```Graph of species range and distribution within the plot (plot location)```
-
 ```Picture of tree cores (with a small blurb)```
 
 ### *Ulmus rubra*	Muhl. ```Slippery Elm```
@@ -1562,7 +1491,5 @@ Picture of tree cores (with a small blurb)
 ![description](maps_figures_tables/range_maps_SCBI_plot/ulmus_rubra_map.html)
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ulru.jpg)
-
-```Graph of species range and distribution within the plot (plot location)```
 
 ```Picture of tree cores (with a small blurb)```

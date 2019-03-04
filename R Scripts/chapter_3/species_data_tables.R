@@ -7,7 +7,7 @@ library(dplyr)
 library(tidyverse)
 library(here)
 
-files <- list.files(path = "V:/SIGEO/3-RECENSUS 2013/DATA/FINAL DATA to use, to share/", pattern = "scbi.full")
+files <- list.files(path = "", pattern = "scbi.full")
 
 year <- c(2008, 2013)
 
@@ -49,7 +49,7 @@ for (sp in levels(scbi_all_alive$sp)) {
   x_long <- x_long[which(rownames(x_long) != "year"), ]
   x_long <- as.data.frame(x_long)
   assign(sp_name, x_long)
-  print(write.table(x_long, file = file.path(paste0("C:/Users/TerrellA3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-Plot-Book/tables_for_chapter_3/", sp,
+  print(write.table(x_long, file = file.path(paste0("SCBI-Plot-Book/tables_for_chapter_3/", sp,
             ".html"))))
 }
 
