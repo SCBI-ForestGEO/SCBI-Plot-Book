@@ -7,7 +7,7 @@ library(dplyr)
 library(tidyverse)
 library(here)
 
-files <- list.files(path = "", pattern = "scbi.full")
+files <- list.files(path = "SCBI-ForestGEO_Data/tree_main_census/data/census-csv-files/", pattern = "scbi.full")
 
 year <- c(2008, 2013)
 
@@ -73,7 +73,7 @@ scbi_all_alive <- merge(scbi_all_alive, stems_long)
 
 #set working directory. will make it easier to call and read all of censuses
 setwd("V:/SIGEO/3-RECENSUS 2013/DATA/FINAL DATA to use, to share/")
-scbi_full1 <- read.csv("V:/SIGEO/3-RECENSUS 2013/DATA/FINAL DATA to use, to share/scbi.full1.csv")
+scbi_full1 <- read.csv("SCBI-ForestGEO_Data/tree_main_census/data/census-csv-files/scbi.full1.csv")
 
 # steps for 2008 census
 #extract "alive" statuses and dbhs over 0 cm
@@ -86,7 +86,7 @@ MinMaxSCBI2008 <- data.frame(scbi_full_2008 %>% group_by(sp)%>% summarise(min = 
 MinMaxSCBI2008$year <- 2008
 
 # do the same steps for next census - this example is 2013 census
-scbi_full2 <- read.csv("V:/SIGEO/3-RECENSUS 2013/DATA/FINAL DATA to use, to share/scbi.full2.csv")
+scbi_full2 <- read.csv("SCBI-ForestGEO_Data/tree_main_census/data/census-csv-files/scbi.full2.csv")
 scbi_full_2013 <- scbi_full2[scbi_full2$DFstatus %in% "alive" & scbi_full2$dbh > 0, ]
 MinMaxSCBI2013 <- data.frame(scbi_full_2013 %>% group_by(sp)%>% summarise(min = min(dbh), max = max(dbh), length = max(1:n())))
 MinMaxSCBI2013$year <- 2013
