@@ -310,7 +310,7 @@ For life history, mention common canopy positions
 
 ```{r, echo = TRUE, out.width = "30%"}
 files <- list.files(path = "T:/SIGEO/Pictures SIGEO Plants/Pictures Erika Gonzalez_2013/", pattern = "_cornus florida.jpg", full.names = TRUE)
-include_graphics(files)
+![description](files)
 ```
 
 |                                            | 2013 | 2018 |
