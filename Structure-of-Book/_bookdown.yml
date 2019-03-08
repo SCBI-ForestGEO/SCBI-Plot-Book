@@ -1,0 +1,14 @@
+book_filename: "Plot Book Redo"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+repo: https://github.com/SCBI-ForestGEO/SCBI-Plot-Book
+output_dir: "html"
+rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Physical-Environment.Rmd", "03-Species-Information-A.Rmd",
+            "03-Species-Information-B-C.Rmd", "03-Species-Information-E-F.Rmd", "03-Species-Information-H-M.Rmd",
+            "03-Species-Information-N-P.Rmd", "03-Species-Information-R.Rmd", "03-Species-Information-S-U.Rmd",
+            "04-Carbon-Cycling.Rmd", "05-Biotic-Drivers-Of-Change.Rmd",
+            "06-Methods.Rmd", "07-References.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes

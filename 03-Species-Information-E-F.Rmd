@@ -1,0 +1,174 @@
+## Ebenaceae
+### *Diospyros virginiana* L. ```Persimmon```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/divi.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/diospyros_virginiana_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+## Elaeagnaceae
+### *Elaeagnus umbellata*	Thunb. ```Autumn Olive```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_US_range_maps/elaeagnus_umbellata_map.html)
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/elum.jpg)
+
+```Picture of tree cores (with a small blurb)```
+
+## Fabaceae
+### *Cercis canadensis* L. ```Eastern Redbud```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ceca.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/cercis_canadensis_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Robinia pseudoacacia* L. ```Black Locust```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/rops.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/robinia_pseudoacacia_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+## Fagaceae
+### *Castanea dentata* (Marsh.) Borkh. ```American Chestnut```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/cade.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/castanea_dentata_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Fagus grandifolia*	Ehrh. ```American Beech```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/fagr.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/fagus_grandifolia_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### **It is important to note that most *Quercus* species grow to be part of the dominant canopy.**
+
+### *Quercus alba* L. ```White Oak```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/qual.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/quercus_alba_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Quercus coccinea* Muenchh. ```Scarlet Oak```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/quco.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/quercus_coccinea_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Quercus falcata* Michx. ```Southern Red Oak```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/qufa.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/quercus_falcata_map.html)
+
+Picture of tree cores (with a small blurb)
+
+### *Quercus michauxii* Nutt. ```Swamp Chestnut Oak```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/qumi.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/quercus_michauxii_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Quercus montana* Willd. ```Chestnut Oak```
+**Formally known as *Quercus prinus* L.**
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/qupr.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/quercus_montana_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Quercus muehlenbergii* Engelm. ```Chinkapin Oak```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/qumu.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/quercus_muehlenbergii_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Quercus rubra*	L. ```Northern Red Oak```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/quru.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/quercus_rubra_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Quercus velutina* Lam.	```Black Oak```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/quve.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/quercus_velutina_map.html)
+
+```Picture of tree cores (with a small blurb)```

@@ -1,0 +1,102 @@
+##Berberidaceae
+### *Berberis thunbergii* DC. ```Japanese Barberry```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/beth.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/berberis_thunbergii_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+## Betulaceae
+### *Carpinus caroliniana* Walt. ```American Hornbeam```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/caca.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/carpinus_caroliniana_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+###	*Corylus americana*	Walt. ```American Hazelnut```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/coam.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+## Cannabaceae
+### *Celtis occidentalis*	L. ```Hackberry```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/ceoc.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+## Caprifoliaceae
+### *Lonicera maackii* (Rupr.) Maxim ```Bush Honeysuckle```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/loma.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/lonicera_maackii_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+## Celastracea
+### *Euonymus alatus* (Thunb.) Sieb. ```Burning Bush```
+**Species is also known as Winged Euonymus.**```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/eual.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/euonymus_alatus_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+## Cornaceae
+### *Cornus alternifolia*	L. f. ```Alternate Leaf Dogwood```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/coal.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/cornus_alternifolia_map.html)
+
+```Picture of tree cores (with a small blurb)```
+
+### *Cornus florida* L. ```Flowering Dogwood```
+
+```Leaf traits (written about or scanned and labeled)```
+
+```Graph of recruiment and mortality```
+
+![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/cofl.jpg)
+
+![description](maps_figures_tables/ch_3_US_range_maps/cornus_florida_map.html)
+
+```Picture of tree cores (with a small blurb)```

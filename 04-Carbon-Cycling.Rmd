@@ -7,7 +7,7 @@ Forests make up 45% of terrestrial carbon [@bonan_forests_2008; @stovall_assessi
 
 from core census-- all of the following, for whole forest and by size/ species, potentially in and out of deer exclosure
 - biomass
-    - write (or find?) code to make graph as this one in [@stovall_assessing_2018] ![*sample graph of biomass by species*](maps_and_figures/sample_biomass_graph.PNG)
+    - write (or find?) code to make graph as this one in [@stovall_assessing_2018] ![*sample graph of biomass by species*](maps_figures_tables/ch_4_biomass_graph.PNG)
 
 - ANPP_stem (and potentially its climate sensitivity, from cores)
 - woody mortality 
@@ -16,5 +16,3 @@ from core census-- all of the following, for whole forest and by size/ species, 
 other data
 - litter production?
 - anything from NEON?
-
-
