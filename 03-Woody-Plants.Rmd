@@ -6,11 +6,11 @@ For life history, mention common canopy positions
 ##Adoxaceae
 ### *Sambucus canadensis var. canadensis* (L.) R. Bolli ```Common Elderberry```
 
-```Life history (information will be added by Michael)```
+
 
 ```Leaf traits (written about or scanned and labeled)```
 
-```Graph of recruiment and mortality```
+
 
 ![description](maps_figures_tables/ch_3_range_maps_SCBI_plot/saca.jpg)
 
@@ -19,7 +19,6 @@ For life history, mention common canopy positions
 ```Picture of tree cores (with a small blurb)```
 
 ### *Viburnum acerifolium* L. ```Mapleleaf Viburnum```
-```Life history (information will be added by Michael)```
 
 ```Leaf traits (written about or scanned and labeled)```
 
@@ -42,7 +41,6 @@ For life history, mention common canopy positions
 
 ###	*Viburnum prunifolium* L. ```Black Haw```
 
-```Life history (information will be added by Michael)```
 
 ```Leaf traits (written about or scanned and labeled)```
 
