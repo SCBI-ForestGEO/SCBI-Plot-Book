@@ -87,6 +87,10 @@
 ## Lauraceae
 ### *Lindera benzoin* (L.) Blume	```Spicebush```
 
+![description](plant_photos/lindera_benzoin/Chapman_lindera_benzoin)(plant_photos/lindera_benzoin)
+
+![The seeds of spicebush are approximately 6 millimeters.](plant_photos/lindera_benzoin/Alderman_lindera_benzoin_seed)
+
 ```Leaf traits (written about or scanned and labeled)```
 
 ```Graph of recruiment and mortality```
@@ -98,6 +102,8 @@
 ```Picture of tree cores (with a small blurb)```
 
 ### *Sassafras albidum* (Nutt.) Nees ```Sassafras```
+
+![description](plant_photos/sassafras_albidum/Chapman_sassafras_albidum)
 
 ```Leaf traits (written about or scanned and labeled)```
 

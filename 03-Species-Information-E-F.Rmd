@@ -14,6 +14,8 @@
 ## Elaeagnaceae
 ### *Elaeagnus umbellata*	Thunb. ```Autumn Olive```
 
+![description](plant_photos/elaeagnus_umbellata/Chapman_elaeagnus_umbellata)
+
 ```Leaf traits (written about or scanned and labeled)```
 
 ```Graph of recruiment and mortality```
@@ -26,6 +28,8 @@
 
 ## Fabaceae
 ### *Cercis canadensis* L. ```Eastern Redbud```
+
+![description](plant_photos/cercis_candensis/Chapman_cercis_candensis)
 
 ```Leaf traits (written about or scanned and labeled)```
 
@@ -77,6 +81,8 @@
 ### **It is important to note that most *Quercus* species grow to be part of the dominant canopy.**
 
 ### *Quercus alba* L. ```White Oak```
+
+![White oak seeds can typically be seen having a "capped" upper part, with the lower portion of the seed having an ovalish shape.](plant_photos/quercus_alba/Alderman_quercus_alba_seed)
 
 ```Leaf traits (written about or scanned and labeled)```
 
