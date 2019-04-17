@@ -1,7 +1,7 @@
 ######################################################
 # Purpose: Build US range maps of species present in ForestGEO plot
 # Developed by: Ian McGregor - mcgregori@si.edu
-# R version 3.5.2 
+# R version 3.5.2 - First created October 2018
 ######################################################
 library(RCurl) #1a
 library(data.table) #1a
