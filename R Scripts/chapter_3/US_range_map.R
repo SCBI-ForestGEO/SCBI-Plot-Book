@@ -7,9 +7,7 @@ library(maps)
 library(htmlwidgets)
 library(maptools)
 
-setwd("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures")
-
-dendro <- read.csv("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/dendro_cored_full[sample].csv")
+dendro <- read.csv("maps_and_figures/dendro_cored_full[sample].csv")
 
 dendro$tag <- as.character(dendro$tag)
 
@@ -28,7 +26,7 @@ map <- leaflet(data = dendro) %>%
   )
 
 invisible(print(map))
-saveWidget(map, file="dendro.html", selfcontained=TRUE)
+saveWidget(map, file="maps_and_figures/dendro.html", selfcontained=TRUE)
 
 
 #1b for sp range maps ####
@@ -39,9 +37,7 @@ library(maptools)
 
 library(rgdal)
 
-litu <- readOGR("E:/Github_SCBI/SCBI-Plot-Book/maps_and_figures/liriodendron_tulipifera_range.shp")
-
-setwd("E:/Github_SCBI/SCBI-Plot-Book/maps_and_figures")
+litu <- readOGR("maps_and_figures/liriodendron_tulipifera_range.shp")
 
 library(sp)
 ##the below line of code defines the projection as being WGS1984
@@ -67,16 +63,16 @@ q <- leaflet() %>%
 
 invisible(print(map))
 
-saveWidget(map, file="litumap.html", selfcontained=TRUE)
+saveWidget(map, file="maps_and_figures/litumap.html", selfcontained=TRUE)
 
 #you can have multiple addPolygons lines, with either reading in different shapefiles or reading in actual shapes. Be sure to use ?addPolygons to see all the options (as in, fill color, popup, shape, etc).
 
 
 #2 convert kml to shapefile ####
 #1 first you have to rename the kmz as a zip (bc it's a zipped kml), then unzip it.
-fnm <- c("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/Quercus_prinus_final.dynglobcurrent3.elev.30000.kmz")
+fnm <- c("maps_and_figures/Quercus_prinus_final.dynglobcurrent3.elev.30000.kmz")
 
-quprkml <- unzip(zipfile = "C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/Quercus_prinus_final.dynglobcurrent3.elev.30000.kmz", exdir = "C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures")
+quprkml <- unzip(zipfile = "maps_and_figures/Quercus_prinus_final.dynglobcurrent3.elev.30000.kmz", exdir = "maps_and_figures")
 
 #2 then you open the kml file in R and convert it to a shapefile
 
@@ -85,8 +81,8 @@ quprkml <- unzip(zipfile = "C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/
 
 ## in our case, the maps downloaded from ForeCASTS project don't have standard kmz format. A kmz = a zip kml file. These kmz files only have a basic kml file with a png attached showing the sp range. Current R packages can't work with this (#layers are defined as 0).
 
-readOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures",layer="Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
-writeOGR("C:/Users/mcgregori/Dropbox (Smithsonian)/Github_Ian/SCBI-Plot-Book/maps_and_figures/quercus_prinus_range.shp",driver="ESRI Shapefile",layer=output.shp)
+readOGR("maps_and_figures",layer="Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
+writeOGR("maps_and_figures/quercus_prinus_range.shp",driver="ESRI Shapefile",layer=output.shp)
 
 
 ogrListLayers("Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
@@ -94,9 +90,10 @@ ogrListLayers("Quercus_prinus_final.dynglobcurrent3.elev.30000.kml")
 
 
 #3a determine the sp and shp files available from BIEN ####
+library(RCurl)
 
 ##read in sp list used for book
-fullsp <- read.csv("E:/Github_SCBI/SCBI-ForestGEO-Data/species_lists/Tree ecology/SCBI_ForestGEO_sp_ecology.csv")
+fullsp <- read.csv(text=getURL("https://raw.githubusercontent.com/SCBI-ForestGEO/SCBI-ForestGEO-Data/master/species_lists/Tree%20ecology/SCBI_ForestGEO_sp_ecology.csv"))
 
 subsp <- fullsp[,c(1:3,5)]
 subsp$species <- as.character(subsp$species)
@@ -165,10 +162,7 @@ y <- sapply(URLs, url_shp_to_spdf)
 names(y) <- matches
 
 
-##change working directory, then create maps of each shapefile
-
-setwd("E:/Github_SCBI/SCBI-Plot-Book/maps_and_figures/range_maps")
-
+##create maps of each shapefile
 for (sp in names(y)){
 
   sp.poly <- y[[sp]]
@@ -185,5 +179,5 @@ for (sp in names(y)){
   )
   
 invisible(print(map))
-saveWidget(map, file=paste0(sp,"_map.html"), selfcontained=TRUE)
+saveWidget(map, file=paste0("maps_and_figures/range_maps/", sp,"_map.html"), selfcontained=TRUE)
 }
