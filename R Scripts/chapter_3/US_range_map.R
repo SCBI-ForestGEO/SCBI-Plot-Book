@@ -10,7 +10,7 @@ library(maps) #1b
 library(htmlwidgets) #1b
 library(maptools) #1b
 
-
+#1 Main script
 #1a determine the species and .shp files available from BIEN ####
 ##read in sp list used for book
 fullsp <- read.csv(text=getURL("https://raw.githubusercontent.com/SCBI-ForestGEO/SCBI-ForestGEO-Data/master/species_lists/Tree%20ecology/SCBI_ForestGEO_sp_ecology.csv"))
@@ -98,7 +98,15 @@ saveWidget(map, file=paste0("maps_figures_tables/ch_3_US_range_maps/", sp,"_map.
 }
 
 
-#2 troubleshooting code ####
+#2 troubleshooting code
+#2a RBIEN ####
+##Because the BIEN package was unable to be used on Smithsonian computers, we created a standalone script.
+##That being said, the package has many resources (e.g. downloading range maps) and should be used if the database connection works.
+
+library(BIEN)
+vignette("BIEN")
+
+#2b other troubleshooting ####
 library(leaflet)
 library(maps)
 library(htmlwidgets)
@@ -136,7 +144,7 @@ saveWidget(map, file="~litumap.html", selfcontained=TRUE)
 
 #you can have multiple addPolygons lines, with either reading in different shapefiles or reading in actual shapes. Be sure to use ?addPolygons to see all the options (as in, fill color, popup, shape, etc).
 
-#2a convert kml to shapefile ####
+#2c convert kml to shapefile ####
 ##it is possible to convert kml/kmz files to shapefiles (if a source like BIEN isn't available). The below code is the attempt to use this, and it is being preserved for posterity.
 
 ##first you have to rename the kmz as a zip (bc it's a zipped kml), then unzip it.
