@@ -8,20 +8,21 @@ Citations are can be made in two ways. The easier way is via Zotero.
 
 1. Install [Zotero](https://www.zotero.org/download/) for desktop and the plug-in for Chrome (if not using Chrome, that's ok. It will just take a little bit more effort).
 
-2. Open the book.bib file (from your local path) in Zotero.
-- Zotero will open and you will get a prompt that asks if you want to import the file. Make sure "Import into new collection" is checked and click Ok.
-- **Important**: Because Zotero automatically saves reference lists you make, you must import to a new collection every time you open, and only work out of that collection. Zotero will say you have duplicates, but that's because it's saving your first list you opened, and it doesn't automatically udpate from Github.
-- Once you've imported to a new collection, you can just delete the old collection to avoid confusion when you're working.
+2. Open  Zotero application (not the plugin)
+- Click on 'file' -> 'import' -> 'next >'
+- Select 'book.bibtex' file (extension is 'bibtex document')
+- Make sure to check the 'Place imported collections...' box and click 'next >'
+**Important**: Because Zotero automatically saves reference lists you make, you must import to a new collection every time you open, and only work out of that collection. Zotero will say you have duplicates, but that's because it's saving your first list you opened, and it doesn't automatically udpate from Github.
+- Once you've imported to a new collection, you can just delete the old collection to avoid confusion when you're working
 
 3. Add a citation either from the plug-in (super easy, just click on the icon when you're on the article or web page you wish to cite) or via manual entry.
 
 4. Review the fields to make sure data is correct. Please remove abstract if automatically populated.
 
 5. When done adding citations, order them by "Creator". 
+**IMPORTANT** Select all your items in the collection, right click, and select *Export Items*. Change format to *BibTex* and make sure *Export Notes* is checked.
 
-   5a. **IMPORTANT** Select all your items in the collection, right click, and select *Export Items*. Change format to *BibTex* and make sure *Export Notes* is checked.
-
-6. Save the file as **book.bib** and overwrite existing one.
+6. Save the file as **book.bibtex** and overwrite existing one.
 - When looking to see if the file has been saved, the name of the file may show up as 'book.'
 
 7. If you want to see how Bookdown views the file, open book.bib in RStudio. The file will now have your citation looking like this:

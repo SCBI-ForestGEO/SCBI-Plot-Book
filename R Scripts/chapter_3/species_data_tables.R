@@ -52,6 +52,6 @@ for (sp in levels(scbi_all_alive$sp)) {
   x_long <- x_long[which(rownames(x_long) != "year"), ]
   x_long <- as.data.frame(x_long)
   assign(sp_name, x_long)
-  print(write.table(x_long, file = file.path(paste0("SCBI-Plot-Book/tables_for_chapter_3/", sp,
+  print(write.table(x_long, file = file.path(paste0("SCBI-Plot-Book/maps_figures_tables/chapter_3_data_tables/", sp,
             ".html"))))
 }
