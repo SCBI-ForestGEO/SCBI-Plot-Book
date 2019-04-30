@@ -110,7 +110,7 @@ full_stem_elevation <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_
 
 # if tidy isn't working, can also do: xxx_df <- as(xxx, "data.frame")
 
-scbi_plot_df <- tidy(scbi_plot) ##### Use this option if you want to visualize the plot WITHOUT quadrat/grid lines
+scbi_plot_df <- tidy(scbi_plot) ##### Use this option if you want to visualize the plot WITH quadrat/grid lines
 
 ForestGEO_grid_outline_df <- tidy(ForestGEO_grid_outline) ##### Use this option if you want to visualize the plot WITHOUT quadrat/grid lines
 
@@ -183,34 +183,3 @@ for(i in seq(along = unique(sigeo$sp))){
     # other code ####
   ggsave(filename = paste0("maps_figures_tables/ch_3_distribution_maps/", focus_sp, ".jpg"), plot = ggplot_test)
 }
-
-
-
-
-ggplot_test <- ggplot() +
-  geom_point(data = focus_sp_alive, aes(x = NAD83_X, y = NAD83_Y, color = dbh)) +
-  geom_point(data = focus_sp_dead, aes(x = NAD83_X, y = NAD83_Y)) +
-  geom_path(data = ForestGEO_grid_outline_df, aes(x = long, y = lat, group = group)) +
-  geom_path(data = roads_df, aes(x = long, y = lat, group = group), color = "brown",
-            linetype = 2, size = .8) +
-  geom_path(data = streams_df, aes(x = long, y = lat, group = group), color = "blue", size = 1) +
-  labs() +
-  geom_path(data = deer_df, aes(x = long, y = lat, group = group), size = .7) +
-  geom_path(data = contour_10m_df, aes(x = long, y = lat, group = group), color = "gray", linetype = 1) +
-  # stat_contour(data = contour_full, aes(colour = ..elev..)) +
-  ### scale_fill_brewer(palette = "Spectral") 
-  ### scale_color_distiller(palette = "Spectral") +
-  scale_colour_gradientn(colours=rainbow(3)) +
-  ### scale_fill_continuous(type = "viridis") + ###
-  ### scale_color_viridis_c() + ###
-  theme(plot.title = element_text(vjust=0.1),
-        axis.title.x = element_blank(),
-        axis.text.x = element_blank(),
-        axis.ticks.x = element_blank(),
-        axis.title.y = element_blank(),
-        axis.text.y = element_blank(),
-        axis.ticks.y = element_blank()) +
-  coord_sf(crs = "crs = +proj=merc", xlim = c(747350, 747800), ylim = c(4308500, 4309125)) +
-  theme(panel.grid.major = element_line(colour = 'transparent')) +
-  theme(legend.position = "bottom", legend.box = "horizontal") +
-  theme(panel.background = element_rect(fill = "gray98"))

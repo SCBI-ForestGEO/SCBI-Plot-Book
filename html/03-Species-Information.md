@@ -12,17 +12,18 @@ Common name: Common Elderberry. Species code: saca.
 
 Deciduous shrubs, leaflets sharply serrate, flowers fragant, white, drupes deep purple or black. Infrequent through the plot, in damp soils. Stratum: understory. Native. Conservation status: Least concern.
 
-![This plant can be seen within the SCBI forest plot, especially along the lower gradient area of the stream.]()
-
 ![Common elderberry is common throughout most of the United States, all of Central America, and coastal parts of South America such as Colombia, Ecuador, Peru, and Chile.](maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html)
+
+![This plant can be seen within the SCBI forest plot, especially along the lower gradient area of the stream.](maps_figure_tables/ch_3_distribution_maps/saca.jpg)
 
 ### *Viburnum acerifolium* L.
 Common name: Mapleleaf Viburnum. Species code: viac.
 
 Deciduous shrubs, leaves ovate or orbicular, palmately veined, three lobed, and dentate, flowers white, drupes black or purplish black. Infrequent through the plot, dry soils. Stratum: understory. Native. Conservation status: Least concern. 
 
-
 ![Native to eastern North America, mapleleaf viburnum has a home range going from the southwestern part of Quebec and Ontario to northern Florida, extending to eastern Texas.](maps_figures_tables/ch_3_US_range_maps/viburnum_acerifolium_map.html)
+
+![With respect to its native home range, this species has a very low presence in the plot.](maps_figure_tables/ch_3_distribution_maps/viac.jpg)
 
 ###	*Viburnum prunifolium* L.
 Common name: Black Haw. Species code: vipr. 
@@ -32,11 +33,11 @@ Deciduous shrubs, leaves oval or oblong, serrate margin, flowers white, drupes b
 ![Black haw can be found throughout eastern North American, from Connecticut to eastern Kansas going south to Alabama and Texas.](maps_figures_tables/ch_3_US_range_maps/viburnum_prunifolium_map.html)
 
 ###	*Viburnum recognitum* Fernald
-### = *Virbunum dentatum L. var. lucidum*
+  **= *Virbunum dentatum L. var. lucidum***
+
 Common name: Arrow-wood. Species code: vire.
 
 Deciduous shrubs with reddish bark, leaves ovate, serrate margin, hairs on leaf underside confined to veins axils, flowers white, drupes blue-black. Rare through the plot, in dry areas. Stratum: understory. Native. Conservation status: Least concern. 
-
 
 ![description](maps_figures_tables/ch_3_US_range_maps/viburnum_recognitum_map.html)
 
@@ -48,7 +49,9 @@ Shrubs or trees up to 15 m, bark brown, leaves simple, obovate-oblong to lanceol
 
 ![description](maps_figures_tables/ch_3_US_range_maps/asimina_triloba_map.html)
 
-##Aquifoliaceae
+![description](maps_figure_tables/ch_3_distribution_maps/astr.jpg)
+
+## Aquifoliaceae
 ### *Ilex verticillata* (L.) A. Gray
 Common name: Winterberry. Species code: ilve.
 
@@ -56,7 +59,9 @@ Shrubs up to 8 m, stems glabrous or pubescent, leaves lanceolate to round-ovate 
 
 ![description](maps_figures_tables/ch_3_US_range_maps/ilex_verticillata_map.html)
 
-##Berberidaceae
+![description](maps_figure_tables/ch_3_distribution_maps/ilve.jpg)
+
+## Berberidaceae
 ### *Berberis thunbergii* DC.
 Common name: Japanese Barberry. Species code: beth. 
 
@@ -64,26 +69,36 @@ Shrubs up to 2 m, compact, thorny stems, leaves small (5-15 mm), spatulate to ob
 
 ![description](maps_figures_tables/ch_3_US_range_maps/berberis_thunbergii_map.html)
 
+[description](maps_figure_tables/ch_3_distribution_maps/beth.jpg)
+
 ## Betulaceae
 ### *Carpinus caroliniana* Walt.
 Common name: American Hornbeam. Species code: caca.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carpinus_caroliniana_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/caca.jpg)
+
 ###	*Corylus americana*	Walt.
 Common name: American Hazelnut. Species code: coam.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/coam.jpg)
 
 ## Cannabaceae
 ### *Celtis occidentalis*	L.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/ceoc.jpg)
+
 ## Caprifoliaceae
 ### *Lonicera maackii* (Rupr.) Maxim
 
 ![description](maps_figures_tables/ch_3_US_range_maps/lonicera_maackii_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/loma.jpg)
 
 ## Celastracea
 ### *Euonymus alatus* (Thunb.) Sieb.
@@ -91,44 +106,60 @@ Common name: American Hazelnut. Species code: coam.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/euonymus_alatus_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/eual.jpg)
+
 ## Cornaceae
 ### *Cornus alternifolia*	L. f.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/cornus_alternifolia_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/coal.jpg)
+
 ### *Cornus florida* L.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/cornus_florida_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/cofl.jpg)
 
 ## Ebenaceae
 ### *Diospyros virginiana* L.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/diospyros_virginiana_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/divi.jpg)
+
 ## Elaeagnaceae
 ### *Elaeagnus umbellata*	Thunb.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/elaeagnus_umbellata_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/elum.jpg)
 
 ## Fabaceae
 ### *Cercis canadensis* L.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/cercis_canadensis_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/ceca.jpg)
+
 ### *Robinia pseudoacacia* L.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/robinia_pseudoacacia_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/rops.jpg)
 
 ## Fagaceae
 ### *Castanea dentata* (Marsh.) Borkh.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/castanea_dentata_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/cade.jpg)
+
 ### *Fagus grandifolia*	Ehrh.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/fagus_grandifolia_map.html)
 
-![TESTING](maps_figures_tables/test.jpg)
+![description](maps_figure_tables/ch_3_distribution_maps/fagr.jpg)
 
 ### **It is important to note that most *Quercus* species grow to be part of the dominant canopy.**
 
@@ -136,34 +167,50 @@ Common name: American Hazelnut. Species code: coam.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_alba_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/qual.png)
+
 ### *Quercus coccinea* Muenchh.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_coccinea_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/quco.jpg)
 
 ### *Quercus falcata* Michx.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_falcata_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/qufa.jpg)
+
 ### *Quercus michauxii* Nutt.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_michauxii_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/qumi.jpg)
 
 ### *Quercus montana* Willd.
 **Formally known as *Quercus prinus* L.**
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_montana_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/qupr.jpg)
+
 ### *Quercus muehlenbergii* Engelm.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_muehlenbergii_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/qumu.jpg)
 
 ### *Quercus rubra*	L.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_rubra_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/quru.jpg)
+
 ### *Quercus velutina* Lam.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/quercus_velutina_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/quve.jpg)
 
 ## Hamamelidaceae
 ### *Hamamelis virginiana* L. var. virginiana
@@ -173,6 +220,9 @@ Common name: American Hazelnut. Species code: coam.
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/hamamelis_virginiana_map.html)
+
+
+![description](maps_figure_tables/ch_3_distribution_maps/havi.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -185,6 +235,8 @@ Common name: American Hazelnut. Species code: coam.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carya_cordiformis_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/caco.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Carya glabra* (P. Mill.)
@@ -194,6 +246,8 @@ Common name: American Hazelnut. Species code: coam.
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carya_glabra_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/cagl.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -205,6 +259,8 @@ Common name: American Hazelnut. Species code: coam.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carya_glabra_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/caovl.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Carya tomentosa* (Lam. ex Pior.) Nutt.
@@ -214,6 +270,8 @@ Common name: American Hazelnut. Species code: coam.
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carya_alba_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/cato.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -225,6 +283,8 @@ Common name: American Hazelnut. Species code: coam.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/juglans_cinerea_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/juci/jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Juglans nigra*	L.
@@ -234,6 +294,8 @@ Common name: American Hazelnut. Species code: coam.
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/juglans_nigra_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/juni.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -246,6 +308,8 @@ Common name: American Hazelnut. Species code: coam.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/lindera_benzoin_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/libe.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Sassafras albidum* (Nutt.) Nees
@@ -255,6 +319,8 @@ Common name: American Hazelnut. Species code: coam.
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/sassafras_albidum_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/saal.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -268,6 +334,8 @@ dominant canopy
 
 ![description](maps_figures_tables/ch_3_US_range_maps/liriodendron_tulipifera_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/litu.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Malvaceae
@@ -278,6 +346,8 @@ dominant canopy
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/tilia_americana_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/tiam.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -291,6 +361,8 @@ dominant canopy
 
 ![description](maps_figures_tables/ch_3_US_range_maps/nyssa_sylvatica_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/nysy.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Oleaceae
@@ -301,6 +373,8 @@ dominant canopy
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/chionanthus_virginicus_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/chvi.jpg)
 
 Picture of tree cores (with a small blurb)
 
@@ -313,6 +387,8 @@ dominant canopy
 
 ![description](maps_figures_tables/ch_3_US_range_maps/fraxinus_americana_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/fram.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Fraxinus nigra* Marsh.
@@ -323,6 +399,8 @@ dominant canopy
 
 ![description](maps_figures_tables/ch_3_US_range_maps/fraxinus_nigra_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/frni.jpg)
+
 Picture of tree cores (with a small blurb)
 
 ### *Fraxinus pennsylvanica* Marsh.
@@ -332,6 +410,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/fraxinus_pennsylvanica_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/frpe.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -344,6 +424,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/paulownia_tomentosa_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/pato.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Pinaceae
@@ -355,6 +437,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/pinus_pungens_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/pipu.jpg)
+
 Picture of tree cores (with a small blurb)
 
 ### *Pinus strobus* L.
@@ -365,6 +449,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/pinus_strobus_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/pist.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Pinus virginiana* P. Mill.	
@@ -374,6 +460,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/pinus_virginiana_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/pivi.jpg)
 
 Picture of tree cores (with a small blurb)
 
@@ -386,6 +474,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/platanus_occidentalis_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/ploc.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Rosaceae
@@ -396,6 +486,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/amelanchier_arborea_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/amar.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -408,6 +500,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/crataegus_pruinosa_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/crpr.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Prunus avium* (L.) L.
@@ -419,6 +513,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/prunus_avium_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/prav.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Prunus persica* (L.) Batsch
@@ -428,6 +524,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/prunus_persica_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/prpe.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -440,6 +538,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/prunus_serotina_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/prse.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Rosa multiflora* Thunb. ex Murr.
@@ -450,6 +550,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/rosa_multiflora_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/romu.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Rubus allegheniensis* Porter
@@ -459,6 +561,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/rubus_allegheniensis_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/rual.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -471,6 +575,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/rubus_pensilvanicus_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/rupe.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 *Rubus phoenicolasius* Maxim.
@@ -480,6 +586,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/rubus_phoenicolasius_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/ruph.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -493,6 +601,8 @@ Picture of tree cores (with a small blurb)
 
 ![The geological range of Acer negundo spans throughout all of the continental United States, Mexico, and the Southern portion of Canada.](maps_figures_tables/ch_3_US_range_maps/Acer_negundo_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/acne.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Acer platanoides* L.
@@ -503,6 +613,8 @@ Picture of tree cores (with a small blurb)
 
 ![Acer platanoides](maps_figures_tables/ch_3_US_range_maps/Acer_platanoides_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/acpl.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Acer rubrum*	L.
@@ -512,6 +624,8 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![Acer rubrum](maps_figures_tables/ch_3_US_range_maps/Acer_rubrum_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/acru.jpg)
 
 ```Picture of tree cores (with a small blurb)```
 
@@ -524,6 +638,8 @@ Picture of tree cores (with a small blurb)
 
 ![ailanthus altissima](maps_figures_tables/ch_3_US_range_maps/ailanthus_altissima_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/aial.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ## Ulmaceae
@@ -535,6 +651,8 @@ Picture of tree cores (with a small blurb)
 
 ![description](maps_figures_tables/ch_3_US_range_maps/ulmus_americana_map.html)
 
+![description](maps_figure_tables/ch_3_distribution_maps/ulam.jpg)
+
 ```Picture of tree cores (with a small blurb)```
 
 ### *Ulmus rubra*	Muhl.
@@ -545,5 +663,7 @@ Picture of tree cores (with a small blurb)
 ```Graph of recruiment and mortality```
 
 ![description](maps_figures_tables/ch_3_US_range_maps/ulmus_rubra_map.html)
+
+![description](maps_figure_tables/ch_3_distribution_maps/ulru.jpg)
 
 ```Picture of tree cores (with a small blurb)```
