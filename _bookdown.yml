@@ -4,7 +4,7 @@ language:
   ui:
     chapter_name: "Chapter "
 repo: https://github.com/SCBI-ForestGEO/SCBI-Plot-Book
-output_dir: "html"
+output_dir: "_book"
 rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Physical-Environment.Rmd", "03-Species-Information.Rmd",
             "04-Carbon-Cycling.Rmd", "05-Biotic-Drivers-Of-Change.Rmd", "06-Methods.Rmd", "07-References.Rmd"]
 clean: [packages.bib, bookdown.bbl]
