@@ -1,4 +1,4 @@
-# A Look at the Plants that make up the Smithsonian's Blue Ridge Ecoregion
+# SCBI Temperate Forest Dynamics Plot
 Repository for ForestGEO-SCBI plot book.
 
 ## Organization
