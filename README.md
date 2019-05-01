@@ -4,7 +4,7 @@ Repository for ForestGEO-SCBI plot book.
 ## Organization
 - Chapters: Each chapter is represented by its own, numbered .Rmd file, and this is where editing takes place. Instructions on how to do this are below. Chapters are in numerical order, so 01-Introduction = Chapter 1: Introduction.
 
-- [\_book folder](https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/tree/master/_book): This is where the html (web) files of the book are stored when R renders the .Rmd files together.
+- [docs folder](https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/tree/master/docs): This is where the html (web) files of the book are stored when R renders the .Rmd files together.
 
 - All other files: Other files including .yml and .bib are important for the overall structure of the book in the R code.
 
