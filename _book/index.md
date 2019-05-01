@@ -1,7 +1,8 @@
 --- 
 title: "A Look at the Plants that make up the Smithsonian's Blue Ridge Ecoregion"
 author: "Kristina Anderson-Teixeira, William McShea, Erika Gonzalez-Akre, Stuart Davies, Alyssa Terrell, Ian McGregor, Caroline Kittle"
-date: "2019-04-30"
+date: "2019-05-01"
+output: html_document
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bibtex, packages.bib]
