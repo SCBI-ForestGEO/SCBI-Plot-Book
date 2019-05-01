@@ -5,6 +5,6 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       before: |
-        <li><a href="./">A Look into the Smithsonian's Blue Ridge Ecoregion</a></li>
+        <li><a href="./">SCBI Temperate Forest Dynamics Plot</a></li>
       after: |
         <li><a href="https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/" target="blank">Published with bookdown</a></li>
