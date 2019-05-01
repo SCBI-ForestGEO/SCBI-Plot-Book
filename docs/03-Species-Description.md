@@ -5,17 +5,24 @@ output:
 ---
 # Species Description
 
-3 Woody Plants
 In this chapter we present botanical and ecological aspects for all species within the SCBI plot. Species scientific and common names follow the Flora of Virginia conventions (Weakly et al, 2012). If a synonym for the name is given, then it is written after the symbol "=", below the species name used in the plot. The following are the main descriptors used, per species.
-Botanical descriptions: All species in the plot were given a less technical plant description summarized from the Flora of Virginia (Weakly et al, 2012). Ecological aspects were subtracted from various sources (Weakly et al, 2012, Missouri Botanical Garden, www.missouribotanicalgarden.org). Habitat and distribution refer to those within the plot. 
-Stratum: Indicates the main canopy position of the species based on the diameter of the species measured at the SCBI plot and by qualitative observations within the forest.
-Native status: Indicates if the plant species is native or introduced to Virginia (source Weakly et al, 2012).
-Conservation status: Categories are from the IUCN Red List categories (IUCN Standards and Petitions Subcommittee, 2017): Least Concern: populations stable or taxon that do not qualify as threatened. Near threatened: taxon close to qualifying as threatened category in the near future). Vulnerable:  A taxon considered to be facing a high risk of extinction in the wild. Endangered: A taxon considered to be facing a very high risk of extinction in the wild. Critically endangered: A taxon considered to be facing an extremely high risk of extinction in the wild. 
-Field code: Species code used in the field and data files (first two letters of genus and first two letters of species).
-Summary statistics: A table summarizing basic statistics per species per census within the plot, include:  number of individual (stems), new stems (total stems recruited and recruitment rate), stems dead and annual mortality rates, minimum and maximum DBH, mean growth rate for stems < and > 10 cm.
-Species distribution maps within plot: Distribution of each species within the 25.6 ha plot is illustrated in an individual topographic map (10-m contour lines). The blue lines represent 2 streams running S-N and W-E, the dotted line represents a gravel road, and the black line represents a 4ha deer exclusion stablished in 1990 (Bourg et al, 2013). Diameter for live stems are symbolized by a gradient color scale, dead stems are represent by a black dot. 
-Species regional range: In the online version of this book, we present species range map for all species within the plot, except Elaeagnus umbellata. Maps were sourced from the Botanical Information and Ecology Network (BIEN, version 4.1, http://bien.nceas.ucsb.edu/bien) and depicts the distribution of the species within the American continent.  
-Pictures and graphs: Leaves were collected and scanned flat and images enhanced using the software GIMP 2.10.8. A scale is given in the lower right corner. Pictures of tree cores are shown when available. Those pictures were taken using xxxxx scanner. Climate sensitivity graphs built from cores show the relationship between multiple climate variables and tree growth, those graphs are only shown for 12 species. 
+
+*Botanical descriptions*: All species in the plot were given a less technical plant description summarized from the Flora of Virginia (Weakly et al, 2012). Ecological aspects were subtracted from various sources (Weakly et al, 2012, Missouri Botanical Garden, www.missouribotanicalgarden.org). Habitat and distribution refer to those within the plot. 
+
+*Stratum*: Indicates the main canopy position of the species based on the diameter of the species measured at the SCBI plot and by qualitative observations within the forest.
+
+*Native status*: Indicates if the plant species is native or introduced to Virginia (source Weakly et al, 2012).
+
+*Conservation status*: Categories are from the IUCN Red List categories (IUCN Standards and Petitions Subcommittee, 2017): Least Concern: populations stable or taxon that do not qualify as threatened. Near threatened: taxon close to qualifying as threatened category in the near future). Vulnerable:  A taxon considered to be facing a high risk of extinction in the wild. Endangered: A taxon considered to be facing a very high risk of extinction in the wild. Critically endangered: A taxon considered to be facing an extremely high risk of extinction in the wild.
+
+*Field code*: Species code used in the field and data files (first two letters of genus and first two letters of species).
+
+*Summary statistics*: A table summarizing basic statistics per species per census within the plot, include:  number of individual (stems), new stems (total stems recruited and recruitment rate), stems dead and annual mortality rates, minimum and maximum DBH, mean growth rate for stems < and > 10 cm.
+Species distribution maps within plot: Distribution of each species within the 25.6 ha plot is illustrated in an individual topographic map (10-m contour lines). The blue lines represent 2 streams running S-N and W-E, the dotted line represents a gravel road, and the black line represents a 4ha deer exclusion stablished in 1990 (Bourg et al, 2013). Diameter for live stems are symbolized by a gradient color scale, dead stems are represent by a black dot.
+
+*Species regional range*: In the online version of this book, we present species range map for all species within the plot, except Elaeagnus umbellata. Maps were sourced from the Botanical Information and Ecology Network (BIEN, version 4.1, http://bien.nceas.ucsb.edu/bien) and depicts the distribution of the species within the American continent.
+
+*Pictures and graphs*: Leaves were collected and scanned flat and images enhanced using the software GIMP 2.10.8. A scale is given in the lower right corner. Pictures of tree cores are shown when available. Those pictures were taken using xxxxx scanner. Climate sensitivity graphs built from cores show the relationship between multiple climate variables and tree growth, those graphs are only shown for 12 species. 
 
 
 
@@ -23,8 +30,6 @@ References
 Bourg et al, 2013
 IUCN Standards and Petitions Subcommittee. 2017. Guidelines for Using the IUCN Red List Categories and Criteria. Version 13.
 Weakly et al, 2012.
-
-
 
 ## Adoxaceae
 
