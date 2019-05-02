@@ -2,6 +2,7 @@
 output:
   pdf_document: default
   html_document: default
+fontsize: 12pt
 ---
 # Species Description
 
@@ -18,29 +19,23 @@ In this chapter we present botanical and ecological aspects for all species with
 *Field code*: Species code used in the field and data files (first two letters of genus and first two letters of species).
 
 *Summary statistics*: A table summarizing basic statistics per species per census within the plot, include:  number of individual (stems), new stems (total stems recruited and recruitment rate), stems dead and annual mortality rates, minimum and maximum DBH, mean growth rate for stems < and > 10 cm.
-Species distribution maps within plot: Distribution of each species within the 25.6 ha plot is illustrated in an individual topographic map (10-m contour lines). The blue lines represent 2 streams running S-N and W-E, the dotted line represents a gravel road, and the black line represents a 4ha deer exclusion stablished in 1990 (Bourg et al, 2013). Diameter for live stems are symbolized by a gradient color scale, dead stems are represent by a black dot.
+Species distribution maps within plot: Distribution of each species within the 25.6 ha plot is illustrated in an individual topographic map (10-m contour lines). The blue lines represent 2 streams running S-N and W-E, the dotted line represents a gravel road, and the black line represents a 4ha deer exclusion stablished in 1990 (@bourg_initial_2013). Diameter for live stems are symbolized by a gradient color scale, dead stems are represent by a black dot.
 
 *Species regional range*: In the online version of this book, we present species range map for all species within the plot, except Elaeagnus umbellata. Maps were sourced from the Botanical Information and Ecology Network (BIEN, version 4.1, http://bien.nceas.ucsb.edu/bien) and depicts the distribution of the species within the American continent.
 
 *Pictures and graphs*: Leaves were collected and scanned flat and images enhanced using the software GIMP 2.10.8. A scale is given in the lower right corner. Pictures of tree cores are shown when available. Those pictures were taken using xxxxx scanner. Climate sensitivity graphs built from cores show the relationship between multiple climate variables and tree growth, those graphs are only shown for 12 species. 
 
-
-
 References 
-Bourg et al, 2013
 IUCN Standards and Petitions Subcommittee. 2017. Guidelines for Using the IUCN Red List Categories and Criteria. Version 13.
 Weakly et al, 2012.
 
 ## Adoxaceae
-
 ### *Sambucus canadensis* L.
 Common name: Common Elderberry. Species code: saca.
 
 Deciduous shrubs, leaflets sharply serrate, flowers fragant, white, drupes deep purple or black. Infrequent through the plot, in damp soils. Stratum: understory. Native. Conservation status: Least concern.
 
-![Common elderberry is common throughout most of the United States, all of Central America, and coastal parts of South America such as Colombia, Ecuador, Peru, and Chile.](maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html)
-
-![This plant can be seen within the SCBI forest plot, especially along the lower gradient area of the stream.](maps_figure_tables/ch_3_distribution_maps/saca.jpg)
+knitr::include_graphics(rep("maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html", out.width = "50%"), ("maps_figure_tables/ch_3_distribution_maps/saca.jpg"))
 
 ### *Viburnum acerifolium* L.
 Common name: Mapleleaf Viburnum. Species code: viac.
