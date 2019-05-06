@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 fontsize: 12pt
 ---
 # Species Description
@@ -35,7 +35,8 @@ Common name: Common Elderberry. Species code: saca.
 
 Deciduous shrubs, leaflets sharply serrate, flowers fragant, white, drupes deep purple or black. Infrequent through the plot, in damp soils. Stratum: understory. Native. Conservation status: Least concern.
 
-knitr::include_graphics(rep("maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html", out.width = "50%"), ("maps_figure_tables/ch_3_distribution_maps/saca.jpg"))
+![text](maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html)![text](maps_figure_tables/ch_3_distribution_maps/saca.jpg)
+```
 
 ### *Viburnum acerifolium* L.
 Common name: Mapleleaf Viburnum. Species code: viac.
