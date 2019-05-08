@@ -153,12 +153,12 @@ for(i in seq(along = unique(sigeo$sp))){
   
   #ggplot code ####
   ggplot_test <- ggplot() +
-    geom_point(data = focus_sp_alive, aes(x = NAD83_X, y = NAD83_Y, color = dbh)) +
-    geom_point(data = focus_sp_dead, aes(x = NAD83_X, y = NAD83_Y)) +
+    geom_point(data = focus_sp_alive, aes(x = NAD83_X, y = NAD83_Y, color = dbh), size = 1) +
+    geom_point(data = focus_sp_dead, aes(x = NAD83_X, y = NAD83_Y), size = 1) +
     geom_path(data = ForestGEO_grid_outline_df, aes(x = long, y = lat, group = group)) +
     geom_path(data = roads_df, aes(x = long, y = lat, group = group), color = "brown",
               linetype = 2, size = .8) +
-    geom_path(data = streams_df, aes(x = long, y = lat, group = group), color = "blue", size = 1) +
+    geom_path(data = streams_df, aes(x = long, y = lat, group = group), color = "blue", size = 0.5) +
     labs() +
     geom_path(data = deer_df, aes(x = long, y = lat, group = group), size = .7) +
     geom_path(data = contour_10m_df, aes(x = long, y = lat, group = group), color = "gray", linetype = 1) +
