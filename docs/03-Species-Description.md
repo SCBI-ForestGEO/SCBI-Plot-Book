@@ -36,7 +36,6 @@ Common name: Common Elderberry. Species code: saca.
 Deciduous shrubs, leaflets sharply serrate, flowers fragant, white, drupes deep purple or black. Infrequent through the plot, in damp soils. Stratum: understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html)![text](maps_figure_tables/ch_3_distribution_maps/saca.jpg)
-```
 
 ### *Viburnum acerifolium* L.
 Common name: Mapleleaf Viburnum. Species code: viac.
@@ -95,14 +94,16 @@ Shrubs up to 2 m, compact, thorny stems, leaves small (5-15 mm), spatulate to ob
 
 ## Betulaceae
 ### *Carpinus caroliniana* Walt.
-Common name: American Hornbeam. Species code: caca.
+Common name: American Hornbeam, Ironwood, Muscle tree. Species code: caca.
+Shrubby tree up to 10 m, trucks with irregular, longitudinal ridges, bark smooth and tight, leaves ovate to elliptic, serrate margin, flowers yellow-green, fruit catkins. Abundant in wet areas and inside deer exclosure. Stratum: understory. Native. Conservation status: Least concern.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/carpinus_caroliniana_map.html)
 
 ![description](maps_figure_tables/ch_3_distribution_maps/caca.jpg)
 
 ###	*Corylus americana*	Walt.
-Common name: American Hazelnut. Species code: coam.
+Common name: American Hazelnut, American Filbert. Species code: coam.
+Shrubs up to 3.5 m, growing in colonies, leaves broadly ovate, margins finely serrate, male flowers green-yellow catkins or female flowers inconspicuous with red styles of the pistils protruding, fruits a small nut, covered by bracts. Very rare through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html)
 
@@ -110,6 +111,8 @@ Common name: American Hazelnut. Species code: coam.
 
 ## Cannabaceae
 ### *Celtis occidentalis*	L.
+Common name: Common Hackberry, Northern Hackberry. Species code: ceoc.
+Tree or thick shrubs up to 30 m, leaves rounded or truncate 3-nerved, margins toothed, flowers greenish, fruit drupes, dark red to black. Infrequent through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html)
 
@@ -117,6 +120,8 @@ Common name: American Hazelnut. Species code: coam.
 
 ## Caprifoliaceae
 ### *Lonicera maackii* (Rupr.) Maxim
+Common name: Amur honeysuckle. Species code: loma.
+Shrubs up to 5 m, twigs pubescent, leaves ovate to lance-ovate, pubescent on veins, flowers whites, fruit globose red berries. Infrequent through the plot. Stratum: understory. Introduced. Conservation status: Least concern.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/lonicera_maackii_map.html)
 
@@ -124,7 +129,8 @@ Common name: American Hazelnut. Species code: coam.
 
 ## Celastracea
 ### *Euonymus alatus* (Thunb.) Sieb.
-**Species is also known as Winged Euonymus.**```
+Common name: Winged Euonymus, Burning Bush. Species code: eual.
+Shrubs up to 2.5 m, twigs 4-angled with 2-4 conspicuous wings, leaves elliptical to obovate, sharply serrate, flowers small, green, fruits capsules. Rare through the plot. Stratum: understory. Introduced. Conservation status: Least concern.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/euonymus_alatus_map.html)
 
@@ -132,12 +138,16 @@ Common name: American Hazelnut. Species code: coam.
 
 ## Cornaceae
 ### *Cornus alternifolia*	L. f.
+Common name: Alternate-leaf Dogwood, Pagoda Cornel, Pagoda Dogwood. Species code: coal.
+Shrub or small tree up to 8 m, leaves ovate to oblong to elliptic, crowded at the end of branchlets, flowers small, white, fruits globose drupes blue. Rare through the plot (only 2 living individuals). Stratum: understory. Native. Conservation status: Least concern.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/cornus_alternifolia_map.html)
 
 ![description](maps_figure_tables/ch_3_distribution_maps/coal.jpg)
 
 ### *Cornus florida* L.
+Common name: Flowering Dogwood. Species code: cofl.
+Large shrub or small tree up to 15 m, leaves ovate or elliptic to obovate, flowers white, creamy or rarely pink subtended by bracts, fruits globose dark to bright red. Common through the plot although evidence of Anthracnose fungus is evident. Stratum: understory. Native. Conservation status: Least concern.
 
 ![description](maps_figures_tables/ch_3_US_range_maps/cornus_florida_map.html)
 
