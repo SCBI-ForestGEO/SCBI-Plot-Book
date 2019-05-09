@@ -36,7 +36,7 @@ Common name: Common Elderberry. Species code: saca.
 Deciduous shrubs, leaflets sharply serrate, flowers fragant, white, drupes deep purple or black. Infrequent through the plot, in damp soils. Stratum: understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html
-plot(maps_figure_tables/ch_3_distribution_maps/saca.jpg)
+plot(maps_figures_tables/ch_3_distribution_maps/saca.jpg)
 
 ### *Viburnum acerifolium* L.
 Common name: Mapleleaf Viburnum. Species code: viac.
@@ -45,7 +45,7 @@ Deciduous shrubs, leaves ovate or orbicular, palmately veined, three lobed, and 
 
 ![Native to eastern North America, mapleleaf viburnum has a home range going from the southwestern part of Quebec and Ontario to northern Florida, extending to eastern Texas.](maps_figures_tables/ch_3_US_range_maps/viburnum_acerifolium_map.html)
 
-![With respect to its native home range, this species has a very low presence in the plot.](maps_figure_tables/ch_3_distribution_maps/viac.jpg)
+![With respect to its native home range, this species has a very low presence in the plot.](maps_figures_tables/ch_3_distribution_maps/viac.jpg)
 
 ###	*Viburnum prunifolium* L.
 Common name: Black Haw. Species code: vipr. 
