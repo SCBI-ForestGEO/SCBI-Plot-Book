@@ -42,16 +42,14 @@ Common name: Mapleleaf Viburnum. Species code: viac.
 
 Deciduous shrubs, leaves ovate or orbicular, palmately veined, three lobed, and dentate, flowers white, drupes black or purplish black. Infrequent through the plot, dry soils. Stratum: understory. Native. Conservation status: Least concern. 
 
-![Native to eastern North America, mapleleaf viburnum has a home range going from the southwestern part of Quebec and Ontario to northern Florida, extending to eastern Texas.](maps_figures_tables/ch_3_US_range_maps/viburnum_acerifolium_map.html)
-
-![With respect to its native home range, this species has a very low presence in the plot.](maps_figures_tables/ch_3_distribution_maps/viac.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/viburnum_acerifolium_map.html, "maps_figures_tables/ch_3_distribution_maps/viac.jpg")
 
 ###	*Viburnum prunifolium* L.
 Common name: Black Haw. Species code: vipr. 
 
 Deciduous shrubs, leaves oval or oblong, serrate margin, flowers white, drupes blue-black. Common through the plot, in wet to dry areas. Stratum: understory. Native. Conservation status: Least concern. 
 
-![Black haw can be found throughout eastern North American, from Connecticut to eastern Kansas going south to Alabama and Texas.](maps_figures_tables/ch_3_US_range_maps/viburnum_prunifolium_map.html)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/viburnum_prunifolium_map.html, maps_figures_tables/ch_3_distribution_maps/vipr.jpg")
 
 ###	*Viburnum recognitum* Fernald
   **= *Virbunum dentatum L. var. lucidum***
@@ -60,7 +58,7 @@ Common name: Arrow-wood. Species code: vire.
 
 Deciduous shrubs with reddish bark, leaves ovate, serrate margin, hairs on leaf underside confined to veins axils, flowers white, drupes blue-black. Rare through the plot, in dry areas. Stratum: understory. Native. Conservation status: Least concern. 
 
-![description](maps_figures_tables/ch_3_US_range_maps/viburnum_recognitum_map.html)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/viburnum_recognitum_map.html", "maps_figures_tables/ch_3_distribution_maps/vire.jpg)
 
 ## Annonaceae
 ### *Asimina triloba*	(L.) Dunal
@@ -68,9 +66,7 @@ Common name: Pawpaw, Common Pawpaw. Species code: astr.
 
 Shrubs or trees up to 15 m, bark brown, leaves simple, obovate-oblong to lanceolate, acute tip, glabrous above, pubescent below, flower dark purple to brown, fruit green berries. Growing in semi-wet areas in the plot, evident clonal patch distribution. Stratum: understory. Native. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/asimina_triloba_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/astr.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/asimina_triloba_map.html", "maps_figure_tables/ch_3_distribution_maps/astr.jpg")
 
 ## Aquifoliaceae
 ### *Ilex verticillata* (L.) A. Gray
@@ -78,9 +74,7 @@ Common name: Winterberry. Species code: ilve.
 
 Shrubs up to 8 m, stems glabrous or pubescent, leaves lanceolate to round-ovate to elliptic, lustrous above, pubescent below, margin serrate, flowers white, drupes bright red to yellow. Rare through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/ilex_verticillata_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/ilve.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/ilex_verticillata_map.html, "maps_figure_tables/ch_3_distribution_maps/ilve.jpg")
 
 ## Berberidaceae
 ### *Berberis thunbergii* DC.
@@ -88,35 +82,27 @@ Common name: Japanese Barberry. Species code: beth.
 
 Shrubs up to 2 m, compact, thorny stems, leaves small (5-15 mm), spatulate to obovate, flowers yellow, berries ellipsoid to globose, showy red. Rare through the plot. Stratum: understory. Introduced (problematic exotic invasive). Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/berberis_thunbergii_map.html)
-
-[description](maps_figure_tables/ch_3_distribution_maps/beth.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/berberis_thunbergii_map.html", "maps_figure_tables/ch_3_distribution_maps/beth.jpg")
 
 ## Betulaceae
 ### *Carpinus caroliniana* Walt.
 Common name: American Hornbeam, Ironwood, Muscle tree. Species code: caca.
 Shrubby tree up to 10 m, trucks with irregular, longitudinal ridges, bark smooth and tight, leaves ovate to elliptic, serrate margin, flowers yellow-green, fruit catkins. Abundant in wet areas and inside deer exclosure. Stratum: understory. Native. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/carpinus_caroliniana_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/caca.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/carpinus_caroliniana_map.html", "maps_figure_tables/ch_3_distribution_maps/caca.jpg")
 
 ###	*Corylus americana*	Walt.
 Common name: American Hazelnut, American Filbert. Species code: coam.
 Shrubs up to 3.5 m, growing in colonies, leaves broadly ovate, margins finely serrate, male flowers green-yellow catkins or female flowers inconspicuous with red styles of the pistils protruding, fruits a small nut, covered by bracts. Very rare through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/coam.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html", "maps_figure_tables/ch_3_distribution_maps/coam.jpg")
 
 ## Cannabaceae
 ### *Celtis occidentalis*	L.
 Common name: Common Hackberry, Northern Hackberry. Species code: ceoc.
 Tree or thick shrubs up to 30 m, leaves rounded or truncate 3-nerved, margins toothed, flowers greenish, fruit drupes, dark red to black. Infrequent through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/ceoc.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html", "maps_figure_tables/ch_3_distribution_maps/ceoc.jpg")
 
 ## Caprifoliaceae
 ### *Lonicera maackii* (Rupr.) Maxim
