@@ -66,7 +66,7 @@ Common name: Pawpaw, Common Pawpaw. Species code: astr.
 
 Shrubs or trees up to 15 m, bark brown, leaves simple, obovate-oblong to lanceolate, acute tip, glabrous above, pubescent below, flower dark purple to brown, fruit green berries. Growing in semi-wet areas in the plot, evident clonal patch distribution. Stratum: understory. Native. Conservation status: Least concern.
 
-knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/asimina_triloba_map.html", "maps_figure_tables/ch_3_distribution_maps/astr.jpg")
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/asimina_triloba_map.html", "maps_figures_tables/ch_3_distribution_maps/astr.jpg")
 
 ## Aquifoliaceae
 ### *Ilex verticillata* (L.) A. Gray
@@ -74,7 +74,7 @@ Common name: Winterberry. Species code: ilve.
 
 Shrubs up to 8 m, stems glabrous or pubescent, leaves lanceolate to round-ovate to elliptic, lustrous above, pubescent below, margin serrate, flowers white, drupes bright red to yellow. Rare through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
-knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/ilex_verticillata_map.html, "maps_figure_tables/ch_3_distribution_maps/ilve.jpg")
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/ilex_verticillata_map.html, "maps_figures_tables/ch_3_distribution_maps/ilve.jpg")
 
 ## Berberidaceae
 ### *Berberis thunbergii* DC.
@@ -82,116 +82,92 @@ Common name: Japanese Barberry. Species code: beth.
 
 Shrubs up to 2 m, compact, thorny stems, leaves small (5-15 mm), spatulate to obovate, flowers yellow, berries ellipsoid to globose, showy red. Rare through the plot. Stratum: understory. Introduced (problematic exotic invasive). Conservation status: Least concern.
 
-knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/berberis_thunbergii_map.html", "maps_figure_tables/ch_3_distribution_maps/beth.jpg")
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/berberis_thunbergii_map.html", "maps_figures_tables/ch_3_distribution_maps/beth.jpg")
 
 ## Betulaceae
 ### *Carpinus caroliniana* Walt.
 Common name: American Hornbeam, Ironwood, Muscle tree. Species code: caca.
 Shrubby tree up to 10 m, trucks with irregular, longitudinal ridges, bark smooth and tight, leaves ovate to elliptic, serrate margin, flowers yellow-green, fruit catkins. Abundant in wet areas and inside deer exclosure. Stratum: understory. Native. Conservation status: Least concern.
 
-knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/carpinus_caroliniana_map.html", "maps_figure_tables/ch_3_distribution_maps/caca.jpg")
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/carpinus_caroliniana_map.html", "maps_figures_tables/ch_3_distribution_maps/caca.jpg")
 
 ###	*Corylus americana*	Walt.
 Common name: American Hazelnut, American Filbert. Species code: coam.
 Shrubs up to 3.5 m, growing in colonies, leaves broadly ovate, margins finely serrate, male flowers green-yellow catkins or female flowers inconspicuous with red styles of the pistils protruding, fruits a small nut, covered by bracts. Very rare through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
-knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html", "maps_figure_tables/ch_3_distribution_maps/coam.jpg")
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/corylus_americana_map.html", "maps_figures_tables/ch_3_distribution_maps/coam.jpg")
 
 ## Cannabaceae
 ### *Celtis occidentalis*	L.
 Common name: Common Hackberry, Northern Hackberry. Species code: ceoc.
 Tree or thick shrubs up to 30 m, leaves rounded or truncate 3-nerved, margins toothed, flowers greenish, fruit drupes, dark red to black. Infrequent through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
-knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html", "maps_figure_tables/ch_3_distribution_maps/ceoc.jpg")
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/celtis_occidentalis_map.html", "maps_figures_tables/ch_3_distribution_maps/ceoc.jpg")
 
 ## Caprifoliaceae
 ### *Lonicera maackii* (Rupr.) Maxim
 Common name: Amur honeysuckle. Species code: loma.
 Shrubs up to 5 m, twigs pubescent, leaves ovate to lance-ovate, pubescent on veins, flowers whites, fruit globose red berries. Infrequent through the plot. Stratum: understory. Introduced. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/lonicera_maackii_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/loma.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/lonicera_maackii_map.html, "maps_figures_tables/ch_3_distribution_maps/loma.jpg")
 
 ## Celastracea
 ### *Euonymus alatus* (Thunb.) Sieb.
 Common name: Winged Euonymus, Burning Bush. Species code: eual.
 Shrubs up to 2.5 m, twigs 4-angled with 2-4 conspicuous wings, leaves elliptical to obovate, sharply serrate, flowers small, green, fruits capsules. Rare through the plot. Stratum: understory. Introduced. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/euonymus_alatus_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/eual.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/euonymus_alatus_map.html", "maps_figures_tables/ch_3_distribution_maps/eual.jpg")
 
 ## Cornaceae
 ### *Cornus alternifolia*	L. f.
 Common name: Alternate-leaf Dogwood, Pagoda Cornel, Pagoda Dogwood. Species code: coal.
 Shrub or small tree up to 8 m, leaves ovate to oblong to elliptic, crowded at the end of branchlets, flowers small, white, fruits globose drupes blue. Rare through the plot (only 2 living individuals). Stratum: understory. Native. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/cornus_alternifolia_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/coal.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/cornus_alternifolia_map.html", "maps_figures_tables/ch_3_distribution_maps/coal.jpg")
 
 ### *Cornus florida* L.
 Common name: Flowering Dogwood. Species code: cofl.
 Large shrub or small tree up to 15 m, leaves ovate or elliptic to obovate, flowers white, creamy or rarely pink subtended by bracts, fruits globose dark to bright red. Common through the plot although evidence of Anthracnose fungus is evident. Stratum: understory. Native. Conservation status: Least concern.
 
-![description](maps_figures_tables/ch_3_US_range_maps/cornus_florida_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/cofl.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/cornus_florida_map.html", "maps_figures_tables/ch_3_distribution_maps/cofl.jpg")
 
 ## Ebenaceae
 ### *Diospyros virginiana* L.
 
-![description](maps_figures_tables/ch_3_US_range_maps/diospyros_virginiana_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/divi.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/diospyros_virginiana_map.html", "maps_figures_tables/ch_3_distribution_maps/divi.jpg")
 
 ## Elaeagnaceae
 ### *Elaeagnus umbellata*	Thunb.
 
-![description](maps_figures_tables/ch_3_US_range_maps/elaeagnus_umbellata_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/elum.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/elaeagnus_umbellata_map.html", "maps_figures_tables/ch_3_distribution_maps/elum.jpg")
 
 ## Fabaceae
 ### *Cercis canadensis* L.
 
-![description](maps_figures_tables/ch_3_US_range_maps/cercis_canadensis_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/ceca.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/cercis_canadensis_map.html", "maps_figures_tables/ch_3_distribution_maps/ceca.jpg")
 
 ### *Robinia pseudoacacia* L.
 
-![description](maps_figures_tables/ch_3_US_range_maps/robinia_pseudoacacia_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/rops.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/robinia_pseudoacacia_map.html", "maps_figures_tables/ch_3_distribution_maps/rops.jpg")
 
 ## Fagaceae
 ### *Castanea dentata* (Marsh.) Borkh.
 
-![description](maps_figures_tables/ch_3_US_range_maps/castanea_dentata_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/cade.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/castanea_dentata_map.html", "maps_figures_tables/ch_3_distribution_maps/cade.jpg")
 
 ### *Fagus grandifolia*	Ehrh.
 
-![description](maps_figures_tables/ch_3_US_range_maps/fagus_grandifolia_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/fagr.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/fagus_grandifolia_map.html", "maps_figures_tables/ch_3_distribution_maps/fagr.jpg")
 
 ### **It is important to note that most *Quercus* species grow to be part of the dominant canopy.**
 
 ### *Quercus alba* L.
 
-![description](maps_figures_tables/ch_3_US_range_maps/quercus_alba_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/qual.png)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/quercus_alba_map.html", "maps_figures_tables/ch_3_distribution_maps/qual.png")
 
 ### *Quercus coccinea* Muenchh.
 
-![description](maps_figures_tables/ch_3_US_range_maps/quercus_coccinea_map.html)
-
-![description](maps_figure_tables/ch_3_distribution_maps/quco.jpg)
+knitr::include_graphics("maps_figures_tables/ch_3_US_range_maps/quercus_coccinea_map.html", "maps_figures_tables/ch_3_distribution_maps/quco.jpg)
 
 ### *Quercus falcata* Michx.
 
