@@ -42,14 +42,14 @@ Common name: Mapleleaf Viburnum. Species code: viac.
 
 Deciduous shrubs, leaves ovate or orbicular, palmately veined, three lobed, and dentate, flowers white, drupes black or purplish black. Infrequent through the plot, dry soils. Stratum: understory. Native. Conservation status: Least concern. 
 
-knitr::include_graphics("maps_figures_tables/ch_3_distribution_maps/viac.jpg", "maps_figures_tables/ch_3_US_range_maps/viburnum_acerifolium_map.html)
+knitr::include_graphics("maps_figures_tables/ch_3_distribution_maps/viac.jpg", "maps_figures_tables/ch_3_US_range_maps/viburnum_acerifolium_map.html")
 
 ###	*Viburnum prunifolium* L.
 Common name: Black Haw. Species code: vipr. 
 
 Deciduous shrubs, leaves oval or oblong, serrate margin, flowers white, drupes blue-black. Common through the plot, in wet to dry areas. Stratum: understory. Native. Conservation status: Least concern. 
 
-knitr::include_graphics(maps_figures_tables/ch_3_distribution_maps/vipr.jpg", "maps_figures_tables/ch_3_US_range_maps/viburnum_prunifolium_map.html)
+knitr::include_graphics(maps_figures_tables/ch_3_distribution_maps/vipr.jpg", "maps_figures_tables/ch_3_US_range_maps/viburnum_prunifolium_map.html")
 
 ###	*Viburnum recognitum* Fernald
   **= *Virbunum dentatum L. var. lucidum***
