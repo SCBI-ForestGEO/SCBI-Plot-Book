@@ -5,10 +5,11 @@
 ###############################################
 
 # install needed packages
-install.packages("fgeo")
-install.packages("ggplot2")
-install.packages("rgdal")
-install.packages("sf")
+library(fgeo)
+library(ggplot2)
+library(rgdal)
+library(sf)
+library(RCurl)
 
 # Script to go from SIGEO quadrat coordinates to SIGEO grid coordinates to NAD83 coordinates #####
 # Following chunk of code is sourced from the original found within the 'spatial_data' folder located in the SCBI-ForestGEO-Data repo on GitHub
@@ -24,18 +25,18 @@ install.packages("sf")
 # Read full data or stem data files, bring them from 'Github/SCBI-ForestGEO-Data/tree_main_census/data/census-csv-files'
 # Here we will use stem2, where all stems measured in 2013 (including dead stems) are included
 
-sigeo <- read.csv("C:/Users/terrella3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-ForestGEO-Data/tree_main_census/data/census-csv-files/scbi.stem2.csv", stringsAsFactors = FALSE)
+sigeo <- read.csv(text=getURL("https://raw.githubusercontent.com/SCBI-ForestGEO/SCBI-ForestGEO-Data/master/tree_main_census/data/census-csv-files/scbi.stem2.csv"), stringsAsFactors = FALSE)
 
-# plot grid coordinates to see if they make sense
+# Plot grid coordinates to see if they make sense
 plot(sigeo$gx, sigeo$gy)
 
-## get local coordinates by calculating based on grid coordinates.
+## Get local coordinates by calculating based on grid coordinates.
 ## To replicate, you subtract gx by (20*(quadrat divided by 100) minus 1).
 ## For gy, it's the same thing but the remainder of the quadrat divided by 100.
 sigeo$lx <- sigeo$gx - 20*((sigeo$quadrat %/% 100) - 1)
 sigeo$ly <- sigeo$gy - 20*((sigeo$quadrat %% 100) - 1)
 
-#round local coordinates to nearest tenth
+# Round local coordinates to nearest tenth
 sigeo$lx <- round(sigeo$lx, digits = 1)
 sigeo$ly <- round(sigeo$ly, digits = 1)
 
@@ -60,24 +61,24 @@ grid2nad83 <- function(x, y) {
   nad83
 }
 
-## add NAD83 coordinate columns to SIGEO data table
+## Add NAD83 coordinate columns to SIGEO data table
 sigeo <- data.frame(sigeo, grid2nad83(sigeo$gx, sigeo$gy))
 
 # Add lat lon to the file, first run these 2 lines
 utmcoor <- SpatialPoints(cbind(sigeo$NAD83_X, sigeo$NAD83_Y), proj4string=CRS("+proj=utm +zone=17N"))
 longlatcoor <- spTransform(utmcoor, CRS("+proj=longlat"))
 
-# add the results ('latlongcoor' output) as two new columns in original dataframe 
+# Add the results ('latlongcoor' output) as two new columns in original dataframe 
 sigeo$lat <- coordinates(longlatcoor)[,2]
 sigeo$lon <- coordinates(longlatcoor)[,1]
 plot(sigeo$lon, sigeo$lat)
 
-# following part of script is to create maps species within the plot ####
+# Following part of script is to create maps species within the plot ####
 
-# load in needed programs
-# not all programs are loaded to avoid any masking
+# Load in needed programs
+# Not all programs are loaded to avoid any masking
 
-# information will first be pulled from "scbi.stem2.csv" to see if one species can be done before creating a for loop to do all species
+# Information will first be pulled from "scbi.stem2.csv" to see if one species can be done before creating a for loop to do all species
 
 library(fgeo)
 library(ggplot2)
@@ -86,58 +87,48 @@ library(broom) # for the tidy function
 library(sf) # for mapping
 library(ggthemes) # needed for plot theme
 
-## files can be found in the ForestGEO-Data repo on GitHub
+## Files can be found in the ForestGEO-Data repo on GitHub
 
-scbi_plot <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/20m_grid.shp")
+scbi_plot <- readOGR("/spatial_data/shapefiles/20m_grid.shp")
 
-ForestGEO_grid_outline <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/ForestGEO_grid_outline.shp")
+ForestGEO_grid_outline <- readOGR("/spatial_data/shapefiles/ForestGEO_grid_outline.shp")
 
-deer <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/deer_exclosure_2011.shp")
+deer <- readOGR("/spatial_data/shapefiles/deer_exclosure_2011.shp")
 
-roads <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/SCBI_roads_edits.shp")
+roads <- readOGR("/spatial_data/shapefiles/SCBI_roads_edits.shp")
 
-streams <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/SCBI_streams_edits.shp")
+streams <- readOGR("/spatial_data/shapefiles/SCBI_streams_edits.shp")
 
-contour_10m <- readOGR("T:/SIGEO/GIS_data/dendroband surveys/dendroband intraannual/contour10m_SIGEO_clipped.shp")
+contour_10m <- readOGR("/spatial_data/shapefiles/contour10m_SIGEO_clipped.shp")
 
-survey_areas <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/Dendrobands/resources/maps/shapefiles/biannual_survey_areas.shp")
+# Convert all shp to dataframe so that it can be used by ggplot ####
 
-NS_divide <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/Dendrobands/resources/maps/shapefiles/NS_divide1.shp")
-
-full_stem_elevation <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/full_stem_elevation_2013.shp")
-
-# convert all shp to dataframe so that it can be used by ggplot ####
-
-# if tidy isn't working, can also do: xxx_df <- as(xxx, "data.frame")
+# If tidy isn't working, can also do: xxx_df <- as(xxx, "data.frame")
 
 scbi_plot_df <- tidy(scbi_plot) ##### Use this option if you want to visualize the plot WITH quadrat/grid lines
-
 ForestGEO_grid_outline_df <- tidy(ForestGEO_grid_outline) ##### Use this option if you want to visualize the plot WITHOUT quadrat/grid lines
-
 deer_df <- tidy(deer)
 roads_df <- tidy(roads)
 streams_df <- tidy(streams)
-survey_areas_df <- tidy(survey_areas)
-NS_divide_df <- tidy(NS_divide)
 contour_10m_df <- tidy(contour_10m)
 
-contour_full <- read.csv("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/elevation/contour10m_SIGEO_coords.csv")
+#### contour_full <- read.csv("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/elevation/contour10m_SIGEO_coords.csv")
 
 # x and y give the x/yposition on the plot; sprintf says to add 0 for single digits, the x/y=seq(...,length.out) says fit the label within these parameters, fitting the length of the label evenly.
 
-## this code adds the row and column numbers based on coordinates
+## This code adds the row and column numbers based on coordinates
 
 rows <- annotate("text", x = seq(747350, 747365, length.out = 32), y = seq(4309125, 4308505, length.out = 32), label = sprintf("%02d", 32:1), size = 5.25, color = "black")
 
 cols <- annotate("text", x = seq(747390, 747765, length.out = 20), y = seq(4308495, 4308505, length.out = 20), label = sprintf("%02d", 1:20), size = 5.4, color = "black")
 
-# this will be the foundation of where the data points from each species within each census will go ####
+# This will be the foundation of where the data points from each species within each census will go ####
 
-### needed to add contour lines - online research says that function needed to do this is upgraded to current R version yet
+### Needed to add contour lines - online research says that function needed to do this isn't upgraded to current R version yet
 # library(directlabels)
 # direct.label.ggplot(ggplot_test, method="bottom.pieces")
 
-# make a for loop for all species
+# Make a for loop for all species
 
 sigeo$DFstatus[sigeo$DFstatus %in% c("dead")] <- "dead"
 sigeo$DFstatus[sigeo$DFstatus %in% c("alive", "prior", "lost_stem")] <- "alive"
@@ -145,9 +136,7 @@ sigeo$DFstatus[sigeo$DFstatus %in% c("alive", "prior", "lost_stem")] <- "alive"
 # for loop for making maps for all species
 for(i in seq(along = unique(sigeo$sp))){
   focus_sp <- unique(sigeo$sp)[[i]]
-  
   focus_sp_df <- sigeo[sigeo$sp == focus_sp, ]
-  
   focus_sp_alive <- subset(focus_sp_df, DFstatus == "alive")
   focus_sp_dead <- subset(focus_sp_df, DFstatus == "dead")
   
@@ -178,7 +167,9 @@ for(i in seq(along = unique(sigeo$sp))){
     coord_sf(crs = "crs = +proj=merc", xlim = c(747350, 747800), ylim = c(4308500, 4309125)) +
     theme(panel.grid.major = element_line(colour = 'transparent')) +
     theme(legend.position = "bottom", legend.box = "horizontal") +
-    theme(panel.background = element_rect(fill = "gray98"))
+    theme(panel.background = element_rect(fill = "gray98")) +
+    rows +
+    cols
   
     # other code ####
   ggsave(filename = paste0("maps_figures_tables/ch_3_distribution_maps/", focus_sp, ".jpg"), plot = ggplot_test)
