@@ -4,26 +4,25 @@
 # R version 3.5.2 - First created April 2019
 ###############################################
 
-# install needed packages
+# install needed packages and call the libraries
 library(fgeo)
 library(ggplot2)
 library(rgdal)
 library(sf)
 library(RCurl)
 
-# Script to go from SIGEO quadrat coordinates to SIGEO grid coordinates to NAD83 coordinates #####
+# Here we will use a fomrer script to go from SIGEO quadrat coordinates to SIGEO grid coordinates to NAD83 coordinates #####
 # Following chunk of code is sourced from the original found within the 'spatial_data' folder located in the SCBI-ForestGEO-Data repo on GitHub
 
-# Need code to convert coordinates before making map for each species
+# We need code to convert coordinates before making map for each species
 
-## Written by Dunbar Carpenter, edited by J.Thompson ##
-## 2/1/2011
+## Written by Dunbar Carpenter, edited by J.Thompson 2/1/2011
 ## Modified by Erika Gonzalez 03/01/2017 and Ian McGregor 04/08/2019
 
-### Overall modification done by Alyssa Terrell as it pertains to the project being done
+### Overall modification done by Alyssa Terrell as it pertains to the RBookdown SCBI project
 
 # Read full data or stem data files, bring them from 'Github/SCBI-ForestGEO-Data/tree_main_census/data/census-csv-files'
-# Here we will use stem2, where all stems measured in 2013 (including dead stems) are included
+# Here we will use scbi.stem2 (census 2=2013, including dead stems)
 
 sigeo <- read.csv(text=getURL("https://raw.githubusercontent.com/SCBI-ForestGEO/SCBI-ForestGEO-Data/master/tree_main_census/data/census-csv-files/scbi.stem2.csv"), stringsAsFactors = FALSE)
 
@@ -80,10 +79,9 @@ plot(sigeo$lon, sigeo$lat)
 
 # Information will first be pulled from "scbi.stem2.csv" to see if one species can be done before creating a for loop to do all species
 
-library(fgeo)
 library(ggplot2)
-library(rgdal)
-library(broom) # for the tidy function
+library(rgdal)library(broom) # for the tidy function
+# install.packages("sf")
 library(sf) # for mapping
 library(ggthemes) # needed for plot theme
 
