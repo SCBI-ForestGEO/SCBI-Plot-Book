@@ -167,9 +167,7 @@ for(i in seq(along = unique(sigeo$sp))){
     coord_sf(crs = "crs = +proj=merc", xlim = c(747350, 747800), ylim = c(4308500, 4309125)) +
     theme(panel.grid.major = element_line(colour = 'transparent')) +
     theme(legend.position = "bottom", legend.box = "horizontal") +
-    theme(panel.background = element_rect(fill = "gray98")) +
-    rows +
-    cols
+    theme(panel.background = element_rect(fill = "gray98")) 
   
     # other code ####
   ggsave(filename = paste0("maps_figures_tables/ch_3_distribution_maps/", focus_sp, ".jpg"), plot = ggplot_test)
