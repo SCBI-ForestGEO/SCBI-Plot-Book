@@ -80,24 +80,25 @@ plot(sigeo$lon, sigeo$lat)
 # Information will first be pulled from "scbi.stem2.csv" to see if one species can be done before creating a for loop to do all species
 
 library(ggplot2)
-library(rgdal)library(broom) # for the tidy function
+library(rgdal)
+library(broom) # for the tidy function
 # install.packages("sf")
 library(sf) # for mapping
 library(ggthemes) # needed for plot theme
 
 ## Files can be found in the ForestGEO-Data repo on GitHub
 
-scbi_plot <- readOGR("/spatial_data/shapefiles/20m_grid.shp")
+scbi_plot <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/20m_grid.shp")
 
-ForestGEO_grid_outline <- readOGR("/spatial_data/shapefiles/ForestGEO_grid_outline.shp")
+ForestGEO_grid_outline <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/ForestGEO_grid_outline.shp")
 
-deer <- readOGR("/spatial_data/shapefiles/deer_exclosure_2011.shp")
+deer <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/deer_exclosure_2011.shp")
 
-roads <- readOGR("/spatial_data/shapefiles/SCBI_roads_edits.shp")
+roads <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/SCBI_roads_edits.shp")
 
-streams <- readOGR("/spatial_data/shapefiles/SCBI_streams_edits.shp")
+streams <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/SCBI_streams_edits.shp")
 
-contour_10m <- readOGR("/spatial_data/shapefiles/contour10m_SIGEO_clipped.shp")
+contour_10m <- readOGR("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/shapefiles/contour10m_SIGEO_clipped.shp")
 
 # Convert all shp to dataframe so that it can be used by ggplot ####
 
@@ -109,6 +110,8 @@ deer_df <- tidy(deer)
 roads_df <- tidy(roads)
 streams_df <- tidy(streams)
 contour_10m_df <- tidy(contour_10m)
+
+elevation_labels <- read.csv(text=getURL("https://raw.githubusercontent.com/SCBI-ForestGEO/SCBI-ForestGEO-Data/master/spatial_data/elevation/contour10m_SIGEO_coords.csv"), stringsAsFactors = FALSE)
 
 #### contour_full <- read.csv("C:/Users/terrella3/Dropbox (Smithsonian)/Github_Alyssa/SCBI-ForestGEO-Data/spatial_data/elevation/contour10m_SIGEO_coords.csv")
 
@@ -148,7 +151,9 @@ for(i in seq(along = unique(sigeo$sp))){
     geom_path(data = streams_df, aes(x = long, y = lat, group = group), color = "blue", size = 0.5) +
     labs() +
     geom_path(data = deer_df, aes(x = long, y = lat, group = group), size = .7) +
-    geom_path(data = contour_10m_df, aes(x = long, y = lat, group = group), color = "gray", linetype = 1) +
+    geom_path(data = elevation_labels, aes(x = x, y = y, group = group), color = "gray", linetype = 1) +
+    geom_text(data = elevation_labels, aes(x = x, y = y, label = elev), check_overlap = TRUE) +
+    stat_unique(geom = "point") +
     # stat_contour(data = contour_full, aes(colour = ..elev..)) +
     ### scale_fill_brewer(palette = "Spectral") 
     ### scale_color_distiller(palette = "Spectral") +
@@ -165,8 +170,10 @@ for(i in seq(along = unique(sigeo$sp))){
     coord_sf(crs = "crs = +proj=merc", xlim = c(747350, 747800), ylim = c(4308500, 4309125)) +
     theme(panel.grid.major = element_line(colour = 'transparent')) +
     theme(legend.position = "bottom", legend.box = "horizontal") +
-    theme(panel.background = element_rect(fill = "gray98")) 
-  
-    # other code ####
+    theme(panel.background = element_rect(fill = "gray98"))
+}
+ggplot_test
+
+    # saving ggplot code ####
   ggsave(filename = paste0("maps_figures_tables/ch_3_distribution_maps/", focus_sp, ".jpg"), plot = ggplot_test)
 }

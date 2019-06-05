@@ -1,55 +1,53 @@
 #########################################
 # Purpose: Create table of all species within the SCBI plot
 # Developed by: Alyssa Terrell - terrella3@si.edu
-# R version 3.5.2 - First created February 2019, rewritten April 2019, modified May 2019
+# R version 3.5.2 - First created February 2019, rewritten April 2019, modified May 2019, used June 2019
 ##########################################
 
-# Install and load needed packages
-library(devtools)
-library(plyr)
-library(tidyverse)
+# Load needed packages
+# Call data from local drive
 
-# Here we will use 'stem2.csv' - the 2013 census
+scbi_stem1<- read.csv("C:/Users/TerrellA3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-ForestGEO-Data/tree_main_census/data/census-csv-files/scbi.stem1.csv")
 
-## files can be found in the ForestGEO-Data repo on GitHub
+species <- levels(scbi_stem1$sp)
+censuses <- 1:2
+years <- c(2008, 2013)
 
-# create empty data table
-# will fill in with extracted data
-## the hope is to create a for loop that will create an empty datatable for each species and then automatically fill in the information
-## end goal: have separate and filled data tables for all species
+all_sp_test <- list()
 
-table_test <-  matrix(nrow = 9, ncol = 3)
-# will need to add a column each time a new census is added (example: 2023 wil be ncol = 4)
+# Create a nested for loop
+## Outer loop: separates out each species within species list and transforms dataframe from long to wide before converting it to a datatable
+## Inner loop: subsets alive stems and creates a dataframe for each species
+for(sp in species) {
+  
+  test <- list()
+  
+  for(census in censuses) {
+    
+    stem <- read.csv(paste0("C:/Users/TerrellA3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-ForestGEO-Data/tree_main_census/data/census-csv-files/scbi.stem", census, ".csv"))
+    stem <- stem[stem$DFstatus %in% "alive" & stem$dbh > 0,]
+    
+    dat <- stem[stem$sp %in% sp, ]
+    
+    test[[census]] <- data.frame("Total stems" = nrow(dat),
+                                 "New stems (recruit rate)" = NA,
+                                 "Dead stems (mortality rate)" = NA,
+                                 "Min dbh" = min(dat$dbh, na.rm = TRUE),
+                                 "Max dbh" = max(dat$dbh, na.rm = TRUE),
+                                 "Mean growth rate < 10cm" = NA,
+                                 "Mean growth rate > 10cm" = NA,
+                                 "p95 growth rate < 10cm" = NA,
+                                 "p95 growth rate > 10cm" = NA
+    )
+  }
+  
+  test <- as.data.frame(t(do.call(rbind, test)))
+  colnames(test) <- years
+  
+  all_sp_test[[sp]] <- as.data.table(test)
+}
 
-rownames(table_test) <- c("Total stems", "New stems (recruit rate)", "Dead stems (mortality rate)", "Min dbh", "Max dbh", "Mean growth rate < 10cm", "Mean growth rate > 10cm", "p95 growth rate < 10cm", "p95 growth rate > 10cm")
+# Takes datatables that were made and puts them into global environment
+list2env(all_sp_test, envir=.GlobalEnv)  
 
-year <- c("2008", "2013", "2018")
-
-colnames(table_test) <- c(year)
-
-# Read in data, bring them from 'GitHub/SCBI-ForestGEO-Data/tree_main_census/data/census-csv-files'
-scbi_stem2 <- read.csv("C:/Users/TerrellA3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-ForestGEO-Data/tree_main_census/data/census-csv-files/scbi.stem2.csv")
-
-scbi_stem2_alive <- scbi_stem2[scbi_stem2$DFstatus %in% "alive" & scbi_stem2$dbh > 0,]
-
-dbh_test_2013 <- ddply(scbi_stem2_alive, c("sp"), summarise, min = min(dbh), max = max(dbh), length = length(dbh))
-
-view(dbh_test_2013)
-
-names(dbh_test_2013)[names(dbh_test_2013) == "min"] <- "Min dbh"
-names(dbh_test_2013)[names(dbh_test_2013) == "max"] <- "Max dbh"
-names(dbh_test_2013)[names(dbh_test_2013) == "length"] <- "Total stems"
-
-###################
-test <- table_test[, 2]
-test <- data.frame(test)
-view(test)
-
-fram_data <- subset(dbh_test_2013, sp == "fram")
-fram_t <- t(fram_data)
-view(fram_t)
-
-fram_data_joined <- join_all(test, fram_t)
-view(fram_data_joined)
-
-#############################
+write.csv()
