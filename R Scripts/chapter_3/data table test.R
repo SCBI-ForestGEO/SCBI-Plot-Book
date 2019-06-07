@@ -7,17 +7,22 @@
 # Load needed packages
 # Call data from local drive
 
+library(data.table)
 scbi_stem1<- read.csv("C:/Users/TerrellA3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-ForestGEO-Data/tree_main_census/data/census-csv-files/scbi.stem1.csv")
-
 species <- levels(scbi_stem1$sp)
+
 censuses <- 1:2
+## Will need to change number with each added census
+## Example: when 2018 census is added, change '1:2' to '1:3'
+
 years <- c(2008, 2013)
+## Will need to add subsequent census years before running code
 
 all_sp_test <- list()
 
 # Create a nested for loop
 ## Outer loop: separates out each species within species list and transforms dataframe from long to wide before converting it to a datatable
-## Inner loop: subsets alive stems and creates a dataframe for each species
+## Inner loop: subsets alive stems and creates a dataframe for each species with labeled rows
 for(sp in species) {
   
   test <- list()
@@ -47,7 +52,7 @@ for(sp in species) {
   all_sp_test[[sp]] <- as.data.table(test)
 }
 
-# Takes datatables that were made and puts them into global environment
-list2env(all_sp_test, envir=.GlobalEnv)  
-
-write.csv()
+# Create 
+for (i in seq(along=(all_sp_test))){
+  write.csv(all_sp_test[[i]], paste0("C:/Users/terrella3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-Plot-Book/R Scripts/test_df/", names(all_sp_test)[[i]], ".csv"), row.names=TRUE)
+}
