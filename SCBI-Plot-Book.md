@@ -1,3 +1,63 @@
+--- 
+title: "SCBI Temperate Forest Dynamics Plot"
+author: "Erika Gonzalez-Akre, Kristina Anderson-Teixeira, William McShea, Alyssa Terrell, Ian McGregor, Caroline Kittle"
+date: "2019-05-30"
+output: html_document
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bibtex, packages.bib]
+biblio-style: apalike
+link-citations: yes
+link-as-notes: true
+description: "An overview of the Smithsonian Conservation Biology Institute's research plot."
+url: https://github.com/SCBI-ForestGEO/SCBI-Plot-Book
+---
+--- 
+title: "SCBI Temperate Forest Dynamics Plot"
+author: "Erika Gonzalez-Akre, Kristina Anderson-Teixeira, William McShea, Alyssa Terrell, Ian McGregor, Caroline Kittle"
+date: "2019-05-30"
+output: html_document
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bibtex, packages.bib]
+biblio-style: apalike
+link-citations: yes
+link-as-notes: true
+description: "An overview of the Smithsonian Conservation Biology Institute's research plot."
+url: https://github.com/SCBI-ForestGEO/SCBI-Plot-Book
+---
+
+# Preface {-}
+
+This is the very first part of the book. An introduction to the importance of the book (maybe written by Stuart, Steve, Sean?).
+
+This book is still in progress. For any questions of suggestion, get in contact with us through [GitHub](https://github.com/SCBI-ForestGEO/SCBI-Plot-Book/issues/new).
+
+
+
+<!--chapter:end:index.Rmd-->
+
+# Introduction
+
+The [Smithsonian Conservation Biology Institute](https://nationalzoo.si.edu/conservation) (SCBI) Large Forest Dynamics Plot is a part of the [Forest Global Earth Observatory](https://forestgeo.si.edu/) (ForestGEO), a worldwide initiative established from a global networking of scientists and forest research sites.
+
+In 1974, the Smithsonian purchased a piece of land, known as the Remount Depot. Shortly after the purchase, the land became the Conservation Research Center. The Front Royal site of the National Zoological Park is ~1,296 hectares (3,500 acres) and combined with research and academic facilities, forestry, pastures, and animal enclosures (ASK ERIKA OR KRISTA HOW TO CITE THE CULTURAL RESOUCE ASSESSMENT - Ayers et al. 2007).
+
+<!--chapter:end:01-Introduction.Rmd-->
+
+
+# Physical Environment
+
+Placeholder
+
+
+## Geographic location
+## Climate
+## Soils
+## Hydrology?
+
+<!--chapter:end:02-Physical-Environment.Rmd-->
+
 ---
 output:
   html_document: default
@@ -348,3 +408,63 @@ Large shrub or small tree up to 15 m, leaves ovate or elliptic to obovate, flowe
 ### *Ulmus rubra*	Muhl. {-#Ulmus-rubra}
 
 ![text](maps_figures_tables/ch_3_distribution_maps/ulru.jpg){width=75%}![text](maps_figures_tables/ch_3_US_range_maps/ulmus_rubra_map.html){width=25%}
+
+<!--chapter:end:03-Species-Description.Rmd-->
+
+# Carbon Cycling
+
+Forests make up 45% of terrestrial carbon [bonan_forests_2008; @stovall_assessing_2018]. The amount of carbon held in by trees can have a negative impact due to the emissions that are released into the air caused by deforestation. The rise in carbon emissions is attributed to the rise in tree mortality.
+
+
+
+
+from core census-- all of the following, for whole forest and by size/ species, potentially in and out of deer exclosure
+- biomass
+    - write (or find?) code to make graph as this one in [@stovall_assessing_2018] ![*sample graph of biomass by species*](maps_figures_tables/ch_4_biomass_graph.PNG)
+
+- ANPP_stem (and potentially its climate sensitivity, from cores)
+- woody mortality 
+- downed woody debris
+
+other data
+- litter production?
+- anything from NEON?
+
+<!--chapter:end:04-Carbon-Cycling.Rmd-->
+
+# Biotics Drivers of Change
+
+## Invasive Plants
+(insert Caroline's information here - should include description/life history, native range, range in US, spread in pot, and data from the Shenandoah paper)
+
+## Invasive Species and Pathogens
+(expand on data found in Shenandoah paper)
+
+## Impact of Deer and Plant Ecology
+(Bill's section - include that the deer exclosure has also led to greater numbers of species)
+
+## Interspecies Competition
+(could talk about how different species fight for available space, i.e. tree fall gaps)
+
+<!--chapter:end:05-Biotic-Drivers-Of-Change.Rmd-->
+
+# Methods
+
+This survey was conducted in the Center for Tropical Forest Science-Forest Global Earth Observatory's (CTFS-ForestGEO) dynamic forest plot. The plot, itself, is located at the Smithsonian Conservation Biology Institute in Front Royal, Virginia, USA. SCBI is 3.1 miles (5 kilometers) from the Shenandoah National Park and roughly 80 miles (~130 kilometers) from the Smithsonian National Zoological Park.
+
+The research was conducted by a team of interns under the labs of William McShea, Ph.D and Kristina Anderson-Teixeira, Ph.D. On average, 3.3 people/day participated in the census with 3.7 field days/week. A single person logged an average of 29 hours/week, resulting in 97 hours/week being done. Roughly 3,200 total amount of work hours - including data collection, review, entry, and analysis - was completed.
+
+The survey team utilized methods set by the Center for Tropical Forest Science - Forest Global Earth Observatory, also known as CTFS-ForestGEO [condit_tropical_1998; @gonzalezakre_patterns_2016]. Measurements of old, new multi-, and new plant stems are either measured or recruited at greater than or equal to 1 cm DBH [@bourg_initial_2013]. "Old stems" are considered to be stems that existed in the previous census. These measurements also include old multistemed species. "New multi stems" are new stems that have grown on the same woody species as the old stem. Once their information is recorded, each stem is given a different colored wire/combination of colored wires to signify which stem it is. "New plant stems" are the new growth of species that have not been tagged in the plot yet. "Tagging" is when a woody species is marked with a specific identification number. These numbers are compiled within a spread sheet and logged into the global CTFS database.
+
+With the recruitment of new growth comes the acknowledgement of stem death. According to @gonzalezakre_patterns_2016, dead stems are considered to be dead due to the following criteria: (1) stems that are broken below DBH; (2) loosened or detached bark; (3) lack of development in regards to flower or leaf buds and; (4) signs of pests or pathogens such as fungus and insects.
+
+Four hectares of the plot is located in a fenced in area designed to keep *Odocoileus virginianus* (white-tailed deer) from entering the environment [@ramage_sapling_2017]. This fencing is locally known as the 'deer exclosure.'
+
+<!--chapter:end:06-Methods.Rmd-->
+
+
+
+# References {-}
+
+<!--chapter:end:07-References.Rmd-->
+
