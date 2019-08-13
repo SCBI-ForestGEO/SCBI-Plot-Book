@@ -20,6 +20,7 @@ subsp$species <- as.character(subsp$species)
 subsp$sp <- c(paste0(fullsp$genus, sep="_", fullsp$species))
 
 ##change species names if need be (synonyms in BIEN, as determined from http://vaplantatlas.org/index.php?do=start&search=Search)
+##this is done because sometimes the species names that we use are synonyms for the data that BIEN has
 subsp$sp <- gsub("Carya_ovalis", "Carya_glabra", subsp$sp)
 subsp$sp <- gsub("Carya_tomentosa", "Carya_alba", subsp$sp)
 subsp$sp <- gsub("Sambucus_canadensis var. canadensis", "Sambucus_canadensis", subsp$sp)
