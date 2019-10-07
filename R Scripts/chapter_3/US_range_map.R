@@ -37,7 +37,7 @@ test$mapsource <- "BIEN"
 ##species in the BIEN database will be marked
 subsp$mapsource <- test$mapsource[match(subsp$sp, test$sp)]
 
-##this creates a vector of species that match between the fullsp list and the secies available on the BIEN website.
+##this creates a vector of species that match between the fullsp list and the species available on the BIEN website.
 matches <- unique (grep(paste(splist,collapse="|"), 
                         test$sp, value=TRUE))
 
