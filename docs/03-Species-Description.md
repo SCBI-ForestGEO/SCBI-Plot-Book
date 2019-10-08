@@ -6,15 +6,15 @@ fontsize: 12pt
 ---
 # Species Descriptions
 
-This chapter consist of botanical descriptions and ecological information on the 65 woody species measured within the 25.6- ha SCBI-ForstGEO plot. Species names are arranged alphabetically by family and species; species scientific name, authorship, and common names follow the Flora of Virginia conventions (Weakley et al, 2012). If a synonym for a species name is given, then it is written after the symbol "=" below the species name used in the plot. The following are the main descriptors used for each species.
+This chapter consist of botanical descriptions and ecological information on the 65 woody species measured within the 25.6- ha SCBI-ForstGEO plot. Species names are arranged alphabetically by family and species; species scientific name, authorship, and common names follow the Flora of Virginia conventions [@weakley_flora_2012]. If a synonym for a species name is given, then it is written after the symbol "=" below the species name used in the plot. The following are the main descriptors used for each species.
 
-*Botanical descriptions*: All species in the plot were given a brief technical plant description summarized from the Flora of Virginia (Weakley et al, 2012) and the “Common Native Trees of Virginia” guide (Devoy et at, 2007). Ecological aspects were subtracted from various sources (Weakly et al, 2012, Missouri Botanical Garden, www.missouribotanicalgarden.org). Local habitat and species distribution refer to those within the plot.
+*Botanical descriptions*: All species in the plot were given a brief technical plant description summarized from the Flora of Virginia [@weakley_flora_2012] and the “Common Native Trees of Virginia” guide [@powell_common_2007]. Ecological aspects were subtracted from various sources [@weakley_flora_2012, noauthor_missouri_nodate]. Local habitat and species distribution refer to those within the plot.
 
 *Stratum*: Indicates the main canopy position of the species based on the diameter of the species measured at the SCBI plot and by qualitative observations within the forest.
 
-*Native status*: Indicates if the plant species is native or introduced to Virginia (source Weakley et al, 2012).
+*Native status*: Indicates if the plant species is native or introduced to Virginia [@weakley_flora_2012].
 
-*Conservation status*: Conservation status follows the standards from the IUCN Red List categories (IUCN Standards and Petitions Subcommittee, 2017): Least Concern: populations stable or taxon that do not qualify as threatened. Near threatened: taxon close to qualifying as threatened category in the near future). Vulnerable:  A taxon considered to be facing a high risk of extinction in the wild. Endangered: A taxon considered to be facing a very high risk of extinction in the wild. Critically endangered: A taxon considered to be facing an extremely high risk of extinction in the wild.
+*Conservation status*: Conservation status follows the standards from the IUCN Red List categories [@noauthor_standards_2016]: Least Concern: populations stable or taxon that do not qualify as threatened. Near threatened: taxon close to qualifying as threatened category in the near future). Vulnerable:  A taxon considered to be facing a high risk of extinction in the wild. Endangered: A taxon considered to be facing a very high risk of extinction in the wild. Critically endangered: A taxon considered to be facing an extremely high risk of extinction in the wild.
 
 *Field code*: Species code used in the field and data sets (first two letters of genus and first two letters of species).
 
@@ -22,9 +22,9 @@ This chapter consist of botanical descriptions and ecological information on the
 
 *Species distribution maps within plot*: Distribution of each species within the 25.6 ha plot is illustrated in an individual topographic map (10-m contour lines). The blue lines represent 2 streams running South-North-N and West-East within the plot, the dotted red line represents a gravel road, and the black thick line represents a 4ha deer exclusion stablished in 1990 [@bourg_initial_2013]. Diameter for live and dead stems stems are symbolized as follow:by a gradient color scale 1-10 cm DBH, green dot; 10.1-50 cm DBH, yellow dot, and 50.1 cm DBH and above, blue dot; dead stems of any size, are represented by a black dot. The maps illustrate the species as surveyed in 2018. 
 
-*Species regional range*: In the online version of this book, we present species range map for all species within the plot, except for *Elaeagnus umbellata*. Maps were sourced from the Botanical Information and Ecology Network (BIEN, version 4.1, http://bien.nceas.ucsb.edu/bien) and depicts the distribution of the species globally.
+*Species regional range*: In the online version of this book, we present species range map for all species within the plot, except for *Elaeagnus umbellata*. Maps were sourced from the Botanical Information and Ecology Network [@noauthor_botanical_nodate] and depicts the distribution of the species globally.
 
-*Pictures and graphs*: A leaf or group of leaves images are shown for each species. Leaves were collected fresh, scanned flat and images enhanced using the software GIMP 2.10.8. A 2-cm scale is given in the lower right corner. Pictures of tree cores are shown when available. Those pictures were produced using an Epson Expression 12000XL Photo Scanner. Climate sensitivity graphs built from tree cores show the relationship between multiple climate variables and tree growth, those graphs are only shown for 12 species (see Helckoski et al, 2019 for methods to build graphs).
+*Pictures and graphs*: A leaf or group of leaves images are shown for each species. Leaves were collected fresh, scanned flat and images enhanced using the software GIMP 2.10.8. A 2-cm scale is given in the lower right corner. Pictures of tree cores are shown when available. Those pictures were produced using an Epson Expression 12000XL Photo Scanner. Climate sensitivity graphs built from tree cores show the relationship between multiple climate variables and tree growth, those graphs are only shown for 12 species (see @helcoski_growing_2019 for methods to build graphs).
 
 
 
@@ -139,49 +139,82 @@ Large shrub or small tree up to 10 m, bark reddish brown to black, branches wide
 
 ## Ebenaceae
 ### *Diospyros virginiana* L. {-#Diospyros-virginiana}
+Common name: Common Persimmon, American Persimmon. Species code: divi.
+
+Trees up to 10 m, bark distinctive dark grey, deeply furrowed forming semi-square blocks; leaves simple, alternate, 5-15 cm long, ovate to oblong, slightly thick; flowers usually solitary and dioecious (separate male and female trees), yellow to greenish-yellow flowers, fragrant; fruits a globose berry 2-4 cm, green and astringent while ripening then pulpy and sweet when ripe, edible. Uncommon through the plot. Stratum: sub-canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/divi.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/diospyros_virginiana_map.html){width=50%}
 
 ## Elaeagnaceae
 ### *Elaeagnus umbellata*	Thunb. {-#Elaeagnus-umbellata}
+Common name: Autumn Olive. Species code: elum.
+
+Shrubby trees up to 5 m; leaves simple, alternate, 3-8 cm long, elliptic to ovate, slightly undulate, shiny, silvery on undersides of leaves, pale green on top; flowers in clusters of 5-10, pale white to yellow and heavily fragrant; fruits a small berry 8-10 mm, bright red. Rare through the plot. Stratum: understory. Introduced, highly invasive. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/elum.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/elaeagnus_umbellata_map.html){width=50%}
 
 ## Fabaceae
 ### *Cercis canadensis* L. {-#Cercis-canadensis}
+Common name: Eastern Redbud. Species code: ceca.
+
+Small trees up to 12 m, stem widely branched, bark with shallow grooves, twigs reddish-brown; leaves simple, alternate, 6-11 cm long, broad with heart shape base, pubescent below; flowers in clusters, growing on trunk, flowers 10-12 mm, reddish or pink; fruits a small legume (5-8 cm), conspicuously veined, flatten when dry. Common through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/ceca.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/cercis_canadensis_map.html){width=50%}
 
 ### *Robinia pseudoacacia* L. {-#Robinia-pseudoacacia}
+Common name: Black Locust. Species code: rops.
+
+Trees up to 30 m, trunk deeply furrowed, bark coarse, branches and twigs sometimes pubescent, thorns on stems and twigs, rugged bark; leaves compound, alternate, 15-30 cm long, leaflet elliptic to oblong, 1.5-6 cm long, with or without minute hair; flowers on drooping racemes with 3-20 flowers of 8 -10 mm, white with yellow patches, fragrant; fruits a legume, flat purple-brown seed pods (to 13-15 cm long). Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/rops.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/robinia_pseudoacacia_map.html){width=50%}
 
 ## Fagaceae
 ### *Castanea dentata* (Marsh.) Borkh. {-#Castanea-dentata}
+Common name: American Chestnut. Species code: cade.
+
+Trees up to 30 m, bark dark, mostly smooth, shallowly fissured into broad in flat ridges in mature individuals, twigs chestnut brown, puberulent or glabrous; leaves simple, alternate, 10-30 cm long, elliptic to oblanceolate, coarsely serrate with forward pointing incurved teeth, glabrate to glabrous; inflorescences unisexual, flowers many, very small, pale green to cream colored, male flowers found tightly occurring along 10-15 cm catkins; females found near base of catkins (near twig); fruits a spiny covered husk splitting into 4-sections enclosing 2-5 nuts; nuts 18-25 mm diameter. Rare through the plot. Stratum: canopy and sub-canopy. Native. Conservation status: Critically endangered.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/cade.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/castanea_dentata_map.html){width=50%}
 
 ### *Fagus grandifolia*	Ehrh. {-#Fagus-grandifolia}
+Common name: American Beech. Species code: fagr.
+
+Large trees up to 33 m, bark gray and smooth, twigs slender and glabrous, in zigzag with buds slender and sharply pointy (notable in the winter); leaves simple, alternate, 5-15 cm long, elliptic to ovate, sharply serrate, mostly glabrous; light brown leaves persistent through winter; inflorescences unisexual, flowers many, very small, yellow-cream colored, male flowers occurring along 5-10 cm catkins; female flowers found near base of catkins; fruits a spiny covered husk splitting into 3-sections 1-10 mm, enclosing 1 nut; nuts sharp with 3 angles. Abundant through the plot. Stratum: from understory to canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/fagr.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/fagus_grandifolia_map.html){width=50%}
 
 ### *Quercus alba* L. {-#Quercus-alba}
 
 ![text](maps_figures_tables/ch_3_distribution_maps/qual.png){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_alba_map.html){width=50%}
+Common name: White oak. Species code: qual.
+
+Trees up to 38 m, bark light gray, flaky, with ridges or sometimes checked, twigs glabrous, red-brown; leaves simple, alternate, 5-25 cm long, oblong to obovate, with 7-10 rounded finger-like lobes, sinus depth varies from deep to shallow, margin smooth, glabrous above, pale to slightly white below; inflorescences unisexual, flowers many, male flowers yellow-green, occurring in slender catkins 5-10 cm; females flowers reddish-green and appear as very small single spikes; fruits an ovoid to oblong acorn 1.5-3 cm, caps bowl-shaped covering ¼ of the fruit, cap detach at maturity. Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ### *Quercus coccinea* Muenchh. {-#Quercus-coccinea}
+Common name: Scarlet oak. Species code: quco.
+
+Trees up to 35 m, bark gray, with slightly paler ridges, inner bark reddish-brown, twigs glabrous; leaves simple, alternate, 7-20 cm long, ovate to obovate with 2-3 pairs of deeply cut lobes, margin smooth but with bristled tips, glabrous and shiny above with clusters of hair in vein axes below, bright red in the fall; inflorescences unisexual, flowers many, male flowers yellow-green, occurring in slender catkins 5-10 cm; females flowers reddish-green and appear as very small single spikes; fruits an ovoid acorn 1.3-2.7 cm, caps bowl-shaped covering ½ of the nut, scales tightly appressed, shiny. Very rare through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/quco.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_coccinea_map.html){width=50%}
 
 ### *Quercus falcata* Michx. {-#Quercus-falcata}
+Common name: Southern Red Oak, Spanish Oak. Species code: qufa.
+
+Trees up to 35 m, bark very dark, shallowly furrowed, inner bark pale yellow, twigs pubescent; leaves simple, alternate, 8-20 cm long, ovate to obovate with a bell-shaped at the base with 1-3 pair of lobes, the primary-central lobes long and narrow, margin smooth but with bristled tips, shiny above and paler and fuzzy below; inflorescences unisexual, flowers many, male flowers yellow-green, occurring in catkins 5-10 cm; females flowers reddish born on short spikes; fruits a subglobose to ovoid acorn 1-1.5 cm, pubescent, caps thin and saucer-shaped covering ½ of the nut, with orange-brown scales tightly appressed. Very rare through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figure_tables/ch_3_distribution_maps/qufa.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_falcata_map.html){width=50%}
 
 ### *Quercus michauxii* Nutt. {-#Quercus-michauxii}
+Common name: Swamp Chestnut Oak, Basket Oak. Species code: qufa.
+
+Trees up to 40 m, bark pale gray, flaky or with ridges; leaves simple, alternate, 6-18 cm long, oval to obovate, margin with large round blunt ascending teeth, lamina dark green and shiny above and pubescent below; inflorescences unisexual, male flowers yellow-green, occurring in catkins 5-10 cm; females flowers green to reddish, very small in leaf axils; fruits an ovoid acorn 2.5-3.5 cm, caps bawl-shaped covering ½ of the nut, caps rough scaly. Rare through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/qumi.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_michauxii_map.html){width=50%}
 
 ### *Quercus montana* Willd. {-#Quercus-montana}
+Common name: Chestnut Oak, Rock Chestnut Oak. Species code: qupr.
+
+Trees up to 35 m, bark dark, thick, tight and deeply furrowed, twigs hairless; leaves simple, alternate, 10-30 cm long, obovate to oblong or elliptic, margin crenate, shiny green above and fine pubescent and paler below; inflorescences unisexual, male flowers yellow-green, occurring in catkins 5-10 cm; females flowers reddish born on short spikes; fruits an ovoid acorn 2.5-4 cm, caps thin and funnel-shaped covering ½ of the nut. Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/qupr.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_montana_map.html){width=50%}
 
@@ -190,20 +223,32 @@ Large shrub or small tree up to 10 m, bark reddish brown to black, branches wide
 ![text](maps_figures_tables/ch_3_distribution_maps/qumu.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_muehlenbergii_map.html){width=50%}
 
 ### *Quercus rubra*	L. {-#Quercus-rubra}
+Common name: Northern Red Oak. Species code: quru.
+
+Trees up to 40 m, bark smooth in young stems then broken into light gray, flat ridges separated by darker, broad and shallow furrows when maturing, inner bark reddish, twigs hairless and reddish brown; leaves simple, alternate, 10-24 cm long, widely obovate, with 3-5 pair of bristle-tipped lobes, sinuses extending 1/3 to 1/2 of the way to midvein; margin smooth, lamina dull green to blue-green and hairless above, often with small turf of hairs in the vein axils below; inflorescences unisexual, flowers many, male flowers yellow-green, borne in catkins 5-10 cm; females flowers born on short spikes; fruits an ovoid to ellipsoid acorn 2-3 cm, caps saucer-shaped covering 1/4 of the nut. Common and dominant through the plot. Stratum: canopy and subcanopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/quru.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_rubra_map.html){width=50%}
 
 ### *Quercus velutina* Lam. {-#Quercus-velutina}
+Common name: Black Oak. Species code: quve.
+
+Trees up to 35 m, bark very dark, rough and scaly, with low ridges, inner bark orange-yellow, twigs hairless; leaves simple, alternate, 10-25 cm long, ovate-oblong to obovate, with 2-3 pair of lobes, with sinuses from shallow to deep, lamina thick, dull green slightly pubescent above, star-shape pubescence below; inflorescences unisexual, flowers many, male flowers yellow-green, borne in catkins 5-10 cm; females flowers born on short spikes; fruits an ovoid acorn 1-2.5 cm, caps bowl shaped, covering ½ of the nut, scales pubescent. Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/quve.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_velutina_map.html){width=50%}
 
 ## Hamamelidaceae
 ### *Hamamelis virginiana* L. var. virginiana {-#Hamamelis-virginiana}
+Common name: Witch hazel. Species code: havi.
+
+Shrub or small trees, 5-8 m tall, bark smooth, gray to gray-brown, twigs hairless or fine pubescent; leaves simple, alternate, 7-15 cm long, broadly ovate to obovate, inequilateral, coarsely lobed to toothed, lamina densely pubescent when young, hairless when mature, paler below; inflorescences in cluster of 3 flowers, pale yellow and very slender petals; fruits a capsule 1-1.5 cm, oblong to ovoid, densely pubescent. Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/havi.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/hamamelis_virginiana_map.html){width=50%}
 
 ## Juglandaceae
 ### *Carya cordiformis* (Wangenh.) K. Koch {-#Carya-cordiformis}
+Common name: Bitternut Hickory. Species code: caco.
+
+Trees up to 40 m, bark tight, shallowly ridged when mature, twigs slender with a bright sulfur-yellow terminal bud; leaves compound, alternate, 17-25 cm long, leaflets 7-11, lanceolate, margin serrate, dark green above, paler and pubescent beneath; inflorescences unisexual, male flowers yellow-green in drooping catkins with 3 hanging from one stalk, 7-10 cm long; female flowers short and solitary; fruits a subglobose to ovoid nut 2-3.5 cm, slightly flattened, splitting incomplete from the middle to the sharp-pointed tip; husk 4-winged above the middle, often dusty-yellow looking. Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/caco.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/carya_cordiformis_map.html){width=5%}
 
