@@ -172,7 +172,7 @@ Trees up to 30 m, trunk deeply furrowed, bark coarse, branches and twigs sometim
 ### *Castanea dentata* (Marsh.) Borkh. {-#Castanea-dentata}
 Common name: American Chestnut. Species code: cade.
 
-Trees up to 30 m, bark dark, mostly smooth, shallowly fissured into broad in flat ridges in mature individuals, twigs chestnut brown, puberulent or glabrous; leaves simple, alternate, 10-30 cm long, elliptic to oblanceolate, coarsely serrate with forward pointing incurved teeth, glabrate to glabrous; inflorescences unisexual, flowers many, very small, pale green to cream colored, male flowers found tightly occurring along 10-15 cm catkins; females found near base of catkins (near twig); fruits a spiny covered husk splitting into 4-sections enclosing 2-5 nuts; nuts 18-25 mm diameter. Rare through the plot. Stratum: canopy and sub-canopy. Native. Conservation status: Critically endangered.
+Trees up to 30 m, bark dark, mostly smooth, shallowly fissured into broad in flat ridges in mature individuals, twigs chestnut brown, puberulent or glabrous; leaves simple, alternate, 10-30 cm long, elliptic to oblanceolate, coarsely serrate with forward pointing incurved teeth, glabrate to glabrous; inflorescences unisexual, flowers many, very small, pale green to cream colored, male flowers found tightly occurring along 10-15 cm catkins; females found near base of catkins (near twig); fruits a spiny covered husk splitting into 4-sections enclosing 2-5 nuts; nuts 18-25 mm diameter. Rare through the plot. Stratum: canopy and sub-canopy. Native. Conservation status: <p style="color:red"> Critically endangered</p>.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/cade.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/castanea_dentata_map.html){width=50%}
 
