@@ -274,56 +274,92 @@ Trees up to 42 m, bark tight, eventually deeply furrowed, twigs stout; leaves co
 ![text](maps_figures_tables/ch_3_distribution_maps/cato.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/carya_alba_map.html){width=50%}
 
 ### *Juglans cinerea* L. {-#Juglans-cinerea}
+Common name: Butternut, White Walnut. Species code: juci.
+
+Trees up to 30 m, bark flat with gray ridges separated by dark fissures, developing diamond shaped patterns at maturity, twigs stout; leaf scars not notched on top; leaves compound, alternate, 30-60 cm long, leaflets 7-17, oblong-lanceolate, margin serrate, green above and paler beneath; inflorescences unisexual, male flowers densely arranged, yellow-green in drooping catkins 7-12 cm near apex of 2-nd year twigs; female flowers short, solitary or in groups at the end of the branch; fruits a nut, oblong (lemon shaped), 4-8 x 2.5-3 cm, husk thick, non-splitting. Very rare through the plot. Stratum: canopy. Native. Conservation status: Endangered.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/juci.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/juglans_cinerea_map.html){width=50%}
 
 ### *Juglans nigra*	L. {-#Juglans-nigra}
+Common name: Black Walnut. Species code: juni.
+
+Trees up to 35 m, bark thick, rough, deeply ridged with a rough diamond pattern, dark brown to nearly black, twigs stout; leaf scars notched on top; leaves compound, alternate, 30-60 cm long, leaflets 9-23, ovate-lanceolate, terminal leaflet usually missing, margin finely serrate, yellow-green to green above and paler below; inflorescences unisexual, dense male flowers clusters, yellow-green in drooping catkins 7-12 cm near apex of 2-nd year twigs; female flowers short, solitary or in groups at the end of the branch; fruits a nut, globose to subglobose, 3.5-8 cm diameter, husk thick, irregularly furrowed, non-splitting. Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/juni.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/juglans_nigra_map.html){width=50%}
 
 ## Lauraceae
 ### *Lindera benzoin* (L.) Blume {-#Lindera-benzoin}
+Common name: Spicebush. Species code: libe.
+
+Shrub 1-5 m, multi-stemmed, aromatic, twigs slender with numerous dot- lenticels; leaves simple, alternate, 6-12 cm long, obovate to elliptical, strong and spicy odor when crushed, green above and slightly paler below; inflorescences 2-cm wide, flowers small, 5-7 mm, in small clusters appearing before the leaves, yellow petals; fruits a bright red drupe when ripe, 6-10 x 5-7 mm, ellipsoid. Very abundant through the southern part of the plot. Stratum: understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/libe.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/lindera_benzoin_map.html){width=50%}
 
 ### *Sassafras albidum* (Nutt.) Nees {-#Sassafras-albidum}
+Common name: Sassafras. Species code: saal.
+
+Shrub or trees to 30 m, bark becoming furrowed at maturity, twigs yellowish, hairless or pubescent when young; leaves simple, alternate, 5-18 cm long, obovate to elliptical, leaves may be unlobed or 2-5 lobed (resemble a mitten), green above and densely pubescent below, fragrant when crushed; flowers small, clustered axillary or at branch tips, 6-7 mm wide, yellow petals; fruits a dark shiny blue drupe, 6-13 mm, ellipsoid to ovoid, borne in a red cup attached to a red stalks. Common through the southern part of the plot. Stratum: Subcanopy to understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/saal.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/sassafras_albidum_map.html){width=50%}
 
 ## Magnoliaceae
 ### *Liriodendron tulipifera*	L. {-#Liriodendron-tulipifera}
+Common name: Tulip-Poplar, Yellow Poplar, Tuliptree. Species code: litu.
+
+Trees up to 50 m, bark soft, light gray-green and smooth when young, developing flat-topped ridges white colored furrows in diamond shaped at maturity, twigs stout; leaves simple, alternate, 4-20 x 5-28 cm, mostly orbicular, 4-lobed with, lamina notched or flat at apex, shiny green above and paler below; flowers showy, large and solitary at end of branches, petals greenish yellow, orange at base; fruits an oblong (cone-like) aggregate of samaras, 5-6 cm long,  each samara is 1-winged, 2.5-3 cm long. Occurs widely through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/litu.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/liriodendron_tulipifera_map.html){width=50%}
 
 ## Malvaceae
 ### *Tilia americana* L. {-#Tilia-americana}
+Common name: American basswood. Species code: tiam.
+
+Trees up to 25 m, bark smooth and gray-green when young becoming ridged and furrowed at maturity, twigs stout, in zigzag, green or red; leaves simple, alternate, 10-15 cm long, ovate to cordate, margin serrate, green above and densely pubescent below; flowers small, 10-15 mm, borne in clusters below a long, curving leafy wing (5-12 cm), petals pale yellow; fruits a round nutlet, 4-6 mm, covered with gray-brown hair, hanging in clusters. Only common in wet areas. Stratum: Subcanopy to understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/tiam.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/tilia_americana_map.html){width=50%}
 
 ## Nyssaceae
 ### *Nyssa sylvatica* Marsh. {-#Nyssa-sylvatica}
+Common name: Black Gum, Sour Gum. Species code: nysy.
+
+Trees up to 25 m, bark gray-brown and irregularly furrowed, becoming blocky at maturity, twigs stout, red-brown to red; leaves simple, alternate, very thing, 3-15 cm long, oblong to obovate, dark green shinny above and paler below; flowers very small, 10-15 mm, hanging in clusters, light green; fruits a drupe, 6-12 mm, ellipsoid to globose, hanging in clusters, blue to blue-black. Only common in wet areas. Stratum: Subcanopy to understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/nysy.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/nyssa_sylvatica_map.html){width=50%}
 
 ## Oleaceae
 ### *Chionanthus virginicus* L. {-#Chionanthus-virginicus}
+Common name: Fringetree, Old Man's Beard. Species code: chvi.
+
+Shrub or small tree up to 10 m, bark dark gray-brown, becoming furrowed with reddish scales at maturity, twigs stout, ashy-gray; leaves simple, opposite, 10-20 cm long, ovate to elliptical, green above and paler below; flowers very showy, 20-25 mm, borne in clusters, petals linear, white, very fragrant; fruits an ovoid drupe, 1-1.5 cm, dark-blue to black, hanging in clusters. Very uncommon in the plot. Stratum: Understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/chvi.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/chionanthus_virginicus_map.html){width=50%}
 
 ### *Fraxinus americana* L. {-#Fraxinus-americana}
+Common name: White Ash. Species code: fram.
+
+Trees up to 40 m, bark gray furrowed or finely ridged, with interlacing corky ridges forming diamonds, twigs stout, gray to olive-green; leaves compound, opposite, 5-20 cm long, leaflets 5-9, oblong to ovate or obovate to lanceolate, rounded at base, mostly hairless, margin serrate to smooth, green above and slightly paler below; flowers small, light green to purplish, lacking petals, females occurring in loose panicles, males in tighter clusters; fruits a one-winged, dry, flattened samara, 3-4 cm, with a full, rounded, seed cavity, hanging in clusters. Abundant through the plot. Stratum: Canopy. Native. Conservation status: Critically endangered.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/fram.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/fraxinus_americana_map.html){width=50%}
 
 ### *Fraxinus nigra* Marsh. {-#Fraxinus-nigra}
+Common name: Black Ash. Species code: frni.
+
+Trees up to 25 m, bark pale gray, flaky, scaly to corky at maturity, twigs stout, light brown to gray, opposite buds are nearly black; leaves compound, opposite, 7-12 cm long, leaflets 7-12, sessile, lanceolate to oblong, margin serrate, dark green above, lighter below with tufts of brown hair; flowers small, light green to purplish, lacking petals, females occurring in loose panicles, males in very tight rounded clusters; fruits a samara, one-winged, 2.5-4 cm, with an indistinct seed cavity, hanging in clusters. Sparse through the plot, grown only close to wet areas. Stratum: Canopy. Native. Conservation status: Critically endangered.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/frni.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/fraxinus_nigra_map.html){width=50%}
 
 ### *Fraxinus pennsylvanica* Marsh. {-#Fraxinus-pennsylvanica}
+Common name: Green Ash. Species code: frpe.
+
+Trees up to 25 m, bark dark gray to brown, furrowed, twigs stout, gray to green-brown, hairless or pubescent; leaves compound, opposite, 7-18 cm long, leaflets 5-11, ovate or oblong to elliptic, margin serrate or entire, green above and hairless to silky-pubescent below; flowers small, light green to purplish, lacking petals, females occurring in loose panicles, males in tight clusters; fruits a samara, one-winged, 2.5-4 cm, with a slender, thin seed cavity, hanging in clusters. Rare through the plot Stratum: Canopy. Native. Conservation status: Critically endangered.
 
 ![text](maps_figures_tables/ch_3_distribution/maps/frpe.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/fraxinus_pennsylvanica_map.html){width=50%}
 
 ## Paulowniaceae
 ### *Paulownia tomentosa*	(Thunb.) Sieb. & Zucc. ex Steud. {-#Paulownia-tomentosa}
+Common name: Royal Paulownia, Princess Tree, Empress Tree. Species code: pato.
+
+Trees up to 20 m, bark dark to brownish-gray, with shallow fissures, twigs stout, light brown with prominent white lenticels; leaves simple, opposite, 10-30 cm long, broadly ovate with a heart shape base, margin entire, green above and paler below, typically velvety; inflorescences in clusters, flowers large, 5-7 cm, violet to light purple with yellow stripes within, very fragrant; fruits an oval capsule, 3-4 cm, woody with minute and abundant seeds. Uncommon through the plot Stratum: Canopy. Introduced. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/pato.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/paulownia_tomentosa_map.html){width=50%}
 
@@ -342,27 +378,45 @@ Trees up to 42 m, bark tight, eventually deeply furrowed, twigs stout; leaves co
 
 ## Platanaceae
 ### *Platanus occidentalis* L. {-#Platanus-occidentalis}
+Common name: Sycamore, American Sycamore. Species code: ploc.
+
+Trees up to 40 m, bark pale gray-green to white, gray-brown and scaly at maturity, twigs in zigzag, orange-brown; leaves simple, alternate, 10-20 cm wide, broadly ovate with a truncate base, palmately veined, with 3-5 broad lobes, margins coarsely toothed, green above and paler and slightly pubescent below; inflorescences solitary, globose, 1-4 cm diameter, male and female flowers very small, 2-3 mm, light green; fruits a spherical cluster of achenes, 7-9 mm, borne on a 7-15 cm stalk. Rare through the plot Stratum: Canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/ploc.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/platanus_occidentalis_map.html){width=50%}
 
 ## Rosaceae
 ### *Amelanchier arborea*	(Michx. f.) Fern. {-#Amelanchier-arborea}
+Common name: Downy Serviceberry. Species code: amar.
+
+Shrubs or small trees up to 10 m, bark smooth when young, ashy-gray with darker stripes, becoming rough with long vertical splits at maturity, twigs slender, flexible, red-brown to gray, with very short hair when young; leaves simple, alternate, 4-12 cm long, elliptic or obovate, mostly rounded at base, margins finely serrate, green above and paler below, slightly pubescent below when young; inflorescences racemose, pending, 3-5 cm long, showy white petals 2-2.5 cm long, occurring in drooping clusters; fruits a globose berry-like pome, 6-10 mm in diameter, dark purple to reddish purple or red, hanging in clusters. Abundant through the plot. Stratum: Understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/amar.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/amelanchier_arborea_map.html){width=50%}
 
 ### *Crataegus pruinosa* (Wendl. f.) K. Koch var. pruinosa {-#Crataegus-pruinosa}
+Common name: Frosted Hawthorn, Waxyfruit hawthorn. Species code: crpr.
+
+Shrubs or small trees up to 5 m, bark smooth and gray-brown when young, becoming darker and scaly at maturity, twigs slender, gray, growing a 2-2.5 cm long thorn at random intervals; leaves simple, alternate, 3-6 cm long, ovate to deltoid, sometimes deeply lobed, born compactly in clusters of 2-3 leaves, margins sharply serrate, dark green to blue-green above and paler below, hairless; flowers small, 5-25 mm in diameter, growing in groups of 5-10, erect, white; fruits a small pome, 5-6 mm in diameter, yellow to red, hanging in short clusters. Rare in the plot. Stratum: Understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/crpr.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/crataegus_pruinosa_map.html){width=50%}
 
 ### *Prunus avium* (L.) L. {-#Prunus-avium}
+Common name: Sweet Cherry, Bird Cherry. Species code: prav.
+
+Trees up to 20 m, bark reddish to brown, with prominent, long horizontal lenticels, often peels, branches not thorny, twigs irregular, textured, with a bitter almond taste; leaves simple, alternate, 7-15 cm long, ovate to obovate, margin double serrate, green above and paler below with two conspicuous red glands on petiole; inflorescences crowded with 3-5 flowers, flowers showy, 2-3 cm diameter, white; fruits a red/orange drupe, 1.5-2.5 cm, borne in clusters of 2-3. Common through the plot. Stratum: Subcanopy to understory. Introduced. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/prav.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/prunus_avium_map.html){width=50%}
 
 ### *Prunus persica* (L.) Batsch {-#Prunus-persica}
+Common name: Peach. Species code: prpe.
+
+Trees up to 10 m, bark reddish brown, becoming scaly at maturity, branches not thorny, twigs irregular, red or green; leaves simple, alternate, 8-15 cm long, lanceolate or oblanceolate, margin finely serrate, shiny dark green above and paler below; flowers solitary or in clusters, flowers showy, 2.5-4 cm wide, pink to lavender; fruits a drupe, 5-9.5 cm, subglobose, fuzzy, yellow and red. Only one specimen in the plot. Stratum: Understory. Introduced. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/prpe.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/prunus_persica_map.html){width=50%}
 
 ### *Prunus serotina* Ehrh. var serotina {-#Prunus-serotina}
+Common name: Black Cherry, Wild Black Cherry. Species code: prse.
+
+Trees up to 30 m, bark smooth when young with numerous horizontal lenticels, dark to nearly black, breaking into small plates and becoming scaly at maturity, branches not thorny, twigs slender, reddish brown; leaves simple, alternate, 6-15 cm long, lanceolate or oblong, margin finely serrate, dark green and shiny above and paler below with dense brown minute hair along the midrib; inflorescences a hanging raceme, 10-16 cm long, flowers small, 7-13mm wide, white; fruits a small drupe, 0.7-1.2 cm, globose, red becoming purple-black or black. Common thought the plot. Stratum: Understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/prse.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/prunus_serotina_map.html){width=50%}
 
@@ -397,6 +451,9 @@ Trees up to 42 m, bark tight, eventually deeply furrowed, twigs stout; leaves co
 
 ## Simaroubaceae
 ### *Ailanthus altissima* (P. Miller) Swingle {-#Ailanthus-altissima}
+Common name: Tree-of-heaven. Species code: aial.
+
+Trees up to 25 m, bark light brown to gray, turning darker gray and rough at maturity, twigs stout, yellow to red-brown, with fine-short hairs when young; leaves compound, alternate, 30-90 cm long, leaflets 11-41, oblong to lanceolate, pointed at the tip with large, glandular teeth near the base, 8-18 cm long, margin entire, green above and below; inflorescences pyramidal, 10-30 cm, flowers small, 5-6 cm wide, greenish to yellow-green, in long 15-30 cm clusters, males have a strong odor; fruits an oblong, twisted samara, 2.4 cm long, hanging in clusters. Stratum: Canopy. Introduced. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/aial.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/ailanthus_altissima_map.html){width=50%}
 
