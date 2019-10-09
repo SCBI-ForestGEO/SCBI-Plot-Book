@@ -253,14 +253,23 @@ Trees up to 40 m, bark tight, shallowly ridged when mature, twigs slender with a
 ![text](maps_figures_tables/ch_3_distribution_maps/caco.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/carya_cordiformis_map.html){width=5%}
 
 ### *Carya glabra* (P. Mill.) {-#Carya-glabra}
+Common name: Pignut Hickory. Species code: cagl.
+
+Trees up to 45 m, bark tight, deeply furrowed at maturity, twigs slender; leaves compound, alternate, 20-30 cm long, leaflets 5 but sometimes 3-7,  lanceolate and serrate margin, dark green above, paler and pubescent beneath; inflorescences unisexual, male flowers yellow-green in drooping catkins with 3 hanging from one stalk, 7-10 cm long; female flowers short and solitary, found in clusters at the end of branches; fruits a nut, pear-shaped to ellipsoid 2-4 cm, slightly flattened, husk thick usually splitting incomplete from the middle towards the base;. Very common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/cagl.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/carya_glabra_map.html){width=50%}
 
 ### *Carya ovalis* (Wangenh.) Sarg. {-#Carya-ovalis}
+Common name: Red Hickory, Sweet Pignut Hickory. Species code: caovl.
+
+Trees up to 40 m, bark Initially smooth then deeply furrowed when mature, sometimes scaly at bottom or top, twigs slender; leaves compound, alternate, 20-30 cm long, leaflets mostly 7 (sometimes 5), lanceolate and serrate margin, dark green above, with scattered hair confine to veins beneath; inflorescences unisexual, male flowers yellow-green in drooping catkins with 3 hanging from one stalk, 7-10 cm long; female flowers short found in clusters at the end of branches; fruits an ellipsoid nut 2-4.5 cm in diameter, sutures sometimes winged, husk splitting almost complete from top to base. Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/caovl.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/carya_glabra_map.html){width=50%}
 
 ### *Carya tomentosa* (Lam. ex Pior.) Nutt. {-#Carya-tomentosa}
+Common name: Mockernut Hickory. Species code: cato.
+
+Trees up to 42 m, bark tight, eventually deeply furrowed, twigs stout; leaves compound, alternate, 20-35 cm long, leaflets 5-11, lanceolate to obovate, margin serrate, dark green above, paler and pubescent beneath, fragrant; inflorescences unisexual, male flowers yellow-green in drooping catkins with 3 hanging from one stalk; female flowers short and solitary, found in clusters at the end of branches; fruits a nut, obovoid to ellipsoid 3.5-5 cm diameter, husk thick usually splitting almost complete from top to base. Very common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/cato.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/carya_alba_map.html){width=50%}
 
