@@ -238,7 +238,7 @@ Trees up to 35 m, bark very dark, rough and scaly, with low ridges, inner bark o
 
 ## Hamamelidaceae
 ### *Hamamelis virginiana* L. var. virginiana {-#Hamamelis-virginiana}
-Common name: Witch hazel. Species code: havi.
+Common name: Witch Hazel. Species code: havi.
 
 Shrub or small trees, 5-8 m tall, bark smooth, gray to gray-brown, twigs hairless or fine pubescent; leaves simple, alternate, 7-15 cm long, broadly ovate to obovate, inequilateral, coarsely lobed to toothed, lamina densely pubescent when young, hairless when mature, paler below; inflorescences in cluster of 3 flowers, pale yellow and very slender petals; fruits a capsule 1-1.5 cm, oblong to ovoid, densely pubescent. Common through the plot. Stratum: canopy. Native. Conservation status: Least concern.
 
@@ -312,7 +312,7 @@ Trees up to 50 m, bark soft, light gray-green and smooth when young, developing 
 
 ## Malvaceae
 ### *Tilia americana* L. {-#Tilia-americana}
-Common name: American basswood. Species code: tiam.
+Common name: American Basswood. Species code: tiam.
 
 Trees up to 25 m, bark smooth and gray-green when young becoming ridged and furrowed at maturity, twigs stout, in zigzag, green or red; leaves simple, alternate, 10-15 cm long, ovate to cordate, margin serrate, green above and densely pubescent below; flowers small, 10-15 mm, borne in clusters below a long, curving leafy wing (5-12 cm), petals pale yellow; fruits a round nutlet, 4-6 mm, covered with gray-brown hair, hanging in clusters. Only common in wet areas. Stratum: subcanopy to understory. Native. Conservation status: Least concern.
 
@@ -393,7 +393,7 @@ Shrubs or small trees up to 10 m, bark smooth when young, ashy-gray with darker 
 ![text](maps_figures_tables/ch_3_distribution_maps/amar.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/amelanchier_arborea_map.html){width=50%}
 
 ### *Crataegus pruinosa* (Wendl. f.) K. Koch var. pruinosa {-#Crataegus-pruinosa}
-Common name: Frosted Hawthorn, Waxyfruit hawthorn. Species code: crpr.
+Common name: Frosted Hawthorn, Waxyfruit Hawthorn. Species code: crpr.
 
 Shrubs or small trees up to 5 m, bark smooth and gray-brown when young, becoming darker and scaly at maturity, twigs slender, gray, growing a 2-2.5 cm long thorn at random intervals; leaves simple, alternate, 3-6 cm long, ovate to deltoid, sometimes deeply lobed, born compactly in clusters of 2-3 leaves, margins sharply serrate, dark green to blue-green above and paler below, hairless; flowers small, 5-25 mm in diameter, growing in groups of 5-10, erect, white; fruits a small pome, 5-6 mm in diameter, yellow to red, hanging in short clusters. Rare in the plot. Stratum: understory. Native. Conservation status: Least concern.
 
@@ -451,7 +451,7 @@ Trees up to 30 m, bark smooth when young with numerous horizontal lenticels, dar
 
 ## Simaroubaceae
 ### *Ailanthus altissima* (P. Miller) Swingle {-#Ailanthus-altissima}
-Common name: Tree-of-heaven. Species code: aial.
+Common name: Tree-of-Heaven. Species code: aial.
 
 Trees up to 25 m, bark light brown to gray, turning darker gray and rough at maturity, twigs stout, yellow to red-brown, with fine-short hairs when young; leaves compound, alternate, 30-90 cm long, leaflets 11-41, oblong to lanceolate, pointed at the tip with large, glandular teeth near the base, 8-18 cm long, margin entire, green above and below; inflorescences pyramidal, 10-30 cm, flowers small, 5-6 cm wide, greenish to yellow-green, in long 15-30 cm clusters, males have a strong odor; fruits an oblong, twisted samara, 2.4 cm long, hanging in clusters. Stratum: canopy. Introduced. Conservation status: Least concern.
 
