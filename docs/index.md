@@ -1,7 +1,7 @@
 --- 
 title: "SCBI Temperate Forest Dynamics Plot"
 author: "Erika Gonzalez-Akre, Kristina Anderson-Teixeira, William McShea, Alyssa Terrell, Ian McGregor, Caroline Kittle"
-date: "2019-10-09"
+date: "2019-10-24"
 output: html_document
 site: bookdown::bookdown_site
 documentclass: book
