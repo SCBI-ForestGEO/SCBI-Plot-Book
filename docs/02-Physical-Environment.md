@@ -3,7 +3,7 @@
 ## Geographic location
 The SCBI ForestGEO Large Forest Dynamics Plot is located within the Smithsonian Conservation Biology Institute (SCBI) in Virginia, USA (38 degrees 53'36.6"N, 78 degrees 08'43.4"W). Elevations range from 273 to 338 meters above sea level (masl) with a topographic relief of 65m [@bourg_initial_2013]. 
 
-![*Map of SCBI site relative to regional topography. Elevation in insert are in meters.*](maps_figures_tables/ch_2_maps/plot_location.jpg)
+![text](maps_figures_tables/ch_2_maps/plot_location.jpg)
 
 The SCBI is within a region encompassing the northern section of the Blue Ridge Mountains and the Appalachian Mountain range. The Shenandoah National Park (elevation range ~171 to ~1,234 masl) [@noauthor_park_nodate] lies directly to the southwest while smaller hills (of which the site is comprised) extend to the northwest. To the east of the site, the smaller hills give way to the lower Piedmont region, while in the west, they give way to the Shenandoah Valley under the Massanutten Mountains.
 
