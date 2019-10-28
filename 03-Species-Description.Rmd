@@ -464,7 +464,11 @@ Common name: Eastern Boxelder. Species code: acne.
 
 Trees up to 25 m, bark pale gray, becoming fissured throughout maturity; twigs glabrous and glossy green; leaves compound, leaflets 3-7 (-9), 4-15 cm long and up to 11 cm wide, ovate to elliptic or obovate, irregularly serrate or lobed, pubescent to hairless beneath; buds white, fuzzy, encapsulated by petiole base; flowers minute, male flowers in clusters, female flowers in narrow drooping racemes, yellow to brownish; fruits a double samara, 2-5 cm. Stratum: understory to subcanopy. Native. Conservation status: Least concern.
 
+![text](maps_figures_tables/ch_3_leaf/acne_172071_2_edit.jpg)
 ![text](maps_figures_tables/ch_3_distribution_maps/acne.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/Acer_negundo_map.html){width=50%}
+![text](maps_figures_tables/ch_3_distribution_maps/acne.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/Acer_negundo_map.html){width=50%}
+
+
 
 ### *Acer platanoides* L. {-#Acer-platanoides}
 Common name: Norway Maple. Species code: acpl.
