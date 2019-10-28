@@ -365,14 +365,24 @@ Trees up to 20 m, bark dark to brownish-gray, with shallow fissures, twigs stout
 
 ## Pinaceae
 ### *Pinus pungens*	Lamb. {-#Pinus-pungens}
+Common name: Table-Mountain Pine. Species code: pipu.
+
+Trees up to 20 m, bark nearly smooth to flaky, in plates; leaves 3-7 cm, 2 (3) per fascicle; females cones 5-9 cm, conic-ovoid, 3-8 mm stout spines. Stratum: subcanopy. Native.
+Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/pipu.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/pinus_pungens_map.html){width=50%}
 
 ### *Pinus strobus* L. {-#Pinus-strobus}
+Common name: Eastern White Pine. Species code: pist.
+
+Trees up to 50 m, rarely more than 60 m, bark and branches dark gray and smooth when young thick and rectangle blocks on mature trees; leaves 5-13 cm, 5 needles per fascicle, pale green; female cones 6-25 cm, slender, curved, spines lacking. Stratum: subcanopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/pist.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/pinus_strobus_map.html){width=50%}
 
 ### *Pinus virginiana* P. Mill.	{-#Pinus-virginiana}
+Common name: Virginia Pine. Species code: pivi.
+
+Trees up to 20 m, rarely up to 30 m, bark thin and scaly with red-brown fissures; lower branches hold longer than other Pinus; leaves 2-13 cm, needles short, slender, 2 per fascicle, twisted; female cones 3-7 cm, ovoid, with curved spines, cones persistent. Stratum: subcanopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/pivi.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/pinus_virginiana_map.html){width=50%}
 
@@ -421,31 +431,52 @@ Trees up to 30 m, bark smooth when young with numerous horizontal lenticels, dar
 ![text](maps_figures_tables/ch_3_distribution_maps/prse.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/prunus_serotina_map.html){width=50%}
 
 ### *Rosa multiflora* Thunb. ex Murr. {-#Rose-multiflora}
+Common name: Multiflora Rose. Species code: romu.
+
+Shrubs up to 3 m, arching or climbing, stems glabrous with prickles curved, flattened, broad-based; leaflets 5-11 obovate to oblong or elliptic, acute to slightly acuminate, serrate, glabrous above, pubescent or hairless underneath; inflorescences paniculate, pyramidal; adnate to petioles; flowers small, petals 1-2.5 cm, white, red, or pink; fruits a small fleshy ‘hip’ (6-12 mm), ellipsoids, red. Common through the plot. Stratum: understory. Introduced, highly invasive. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/romu.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/rosa_multiflora_map.html){width=50%}
 
 ### *Rubus allegheniensis* Porter {-#Rubus-alleghiensis}
+Common name: Allegheny Blackberry. Species code: rual.
+
+Shrubs up to 3 m, stems erect or highly arching, rigid or angled when young, hairless, pubescence or with minute glands, usually armed with straight prickles; leaves  3- or 5-foliate, soft and short pubescent beneath; leaflets ovate to ovate-oblong, lateral leaflets narrower, terminal leaflets up to 20 cm; inflorescences racemiform, commonly elongate, multi flowered, flowers white; fruits a drupe, globose, 2.5 x 1.5 cm, black. Common through the plot. Stratum: understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/rual.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/rubus_allegheniensis_map.html){width=50%}
 
 ### *Rubus pensilvanicus*	Poir. {-#Rubus-pensilvanicus}
+Common name: Pennsylvania Blackberry. Species code: rupe.
+
+Shrubs up to 3 m, stems erect or ascending, 4-sided, glabrous or finely pubescent, purple when mature; leaves 3- or 5-foliate; leaflets oblong or oblong-lanceolate to ovate, serrate or doubly serrate, terminal leaflets up to 20 cm; petals 1.2-2.5 mm, white; fruits a small drupelet, 1-3 x 0.9-1.5 cm, globose to thick-cylindric, black. Stratum: understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/rupe.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/rubus_pensilvanicus_map.html){width=50%}
 
 ### *Rubus phoenicolasius* Maxim. {-#Rubus-phoenicolasius}
+Common name: Wineberry. Species code: ruph.
+
+Shrubs up to 2 m, stems arching, not angled; leaves 3-foliate, densely white-tomentose beneath; leaflets narrowly to broadly ovate, coarsely serrate, terminal leaflets 5-8 cm; petals 0.9-1.1 cm, pink or rose; fruits a small drupelet, 1-1.5 cm long and wide, purplish red. Stratum: understory. Introduced, highly invasive. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/ruph.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/rubus_phoenicolasius_map.html){width=50%}
 
 ## Sapindaceae
 ### *Acer negundo* L. var negundo {-#Acer-negundo}
+Common name: Eastern Boxelder. Species code: acne.
+
+Trees up to 25 m, bark pale gray, becoming fissured throughout maturity; twigs glabrous and glossy green; leaves compound, leaflets 3-7 (-9), 4-15 cm long and up to 11 cm wide, ovate to elliptic or obovate, irregularly serrate or lobed, pubescent to hairless beneath; buds white, fuzzy, encapsulated by petiole base; flowers minute, male flowers in clusters, female flowers in narrow drooping racemes, yellow to brownish; fruits a double samara, 2-5 cm. Stratum: understory to subcanopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/acne.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/Acer_negundo_map.html){width=50%}
 
 ### *Acer platanoides* L. {-#Acer-platanoides}
+Common name: Norway Maple. Species code: acpl.
+
+Trees up to 30 m; bark tight with interlacing, diamondlike pattern; leaves simple, shallow to deeply 3-5 (-7) lobed, 8-16 x 10-18 cm, glabrous, teeth few, irregular, sharp; erect inflorescences of 15-20 flowers, minute, yellow to pale-green; fruits a double samara, 3.5-5 cm. Stratum: subcanopy to understory. Introduced. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/acpl.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/Acer_platanoides_map.html){width=50%}
 
 ### *Acer rubrum*	L. {-#Acer-rubrum}
+Common name: Red Maple. Species code: acru.
+
+Trees up to 40 m, bark gray and smooth when young, mature trunks rough and platelike, twigs and buds reddish; leaves 5-15 x 3-18 cm, 3-5 lobed, margin coarsely serrate or irregularly dentate, red petioles; inflorescences semi globose, male flowers sessile, and female flowers short stalked, born in hanging clusters; petals red; fruits a double samara, 1-3 cm. Stratum: understory. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/acru.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/Acer_rubrum_map.html){width=50%}
 
@@ -459,9 +490,15 @@ Trees up to 25 m, bark light brown to gray, turning darker gray and rough at mat
 
 ## Ulmaceae
 ### *Ulmus americana*	L. {-#Ulmus-americana}
+Common name: American Elm. Species code: ulam.
+
+Trees 20-40 m, dichotomously forked, arching, vase-shaped, bark gray and flaky with whitish and brown cross sections; twigs drooping, glabrous or slightly hairy; buds brown, glabrous to lightly hairy; leaves 5-18 x 4-9 cm, ovate-oblong to obovate or oval, abruptly pointed, margin double serrate; flowers minute, green to pinkish-brown in compact semi globose clusters, fruit a single elliptical to ellipsoid samara, deeply notched at apex, 8-12 mm, ciliate margins. Stratum: subcanopy. Native. Conservation status: Least concern.
 
 ![text](maps_figures_tables/ch_3_distribution_maps/ulam.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/ulmus_americana_map.html){width=50%}
 
 ### *Ulmus rubra*	Muhl. {-#Ulmus-rubra}
+Common name: Red Elm, Slippery Elm. Species code: ulru.
+
+Trees up to 15-30 m, arching, bark gray and rough on outer surface, reddish wood, twigs stout; leaves 10-20 x 5-9 cm, oblong to obovate, very rough above, margins finely toothed; flowers minute, in born in subglobose clusters pink or red, densely ciliate; fruit a single nearly orbicular samara, 1.5-2 cm, slightly pubescent or glabrous. Stratum: understory. Native. Conservation status: Least concern. In the US, populations of Ulmus spp. has decline over the past 40 years due to Dutch Elm Disease fungi (Ophiostoma ulmi).
 
 ![text](maps_figures_tables/ch_3_distribution_maps/ulru.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/ulmus_rubra_map.html){width=50%}
