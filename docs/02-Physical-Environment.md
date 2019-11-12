@@ -7,23 +7,6 @@ The SCBI ForestGEO Large Forest Dynamics Plot is located within the Smithsonian 
 
 
 ## Climate
-The SBI plot is located in a mature (> 100 year) and young (< 40 year) secondary secondary mixed deciduous forest, with a mean annual temperature of 12$^\circ$C and a mean annual precipitation of 1001 mm (data from 2009-2014 based on a local weather station located just outside the plot). According to the Koppen-Geiger biome classifcation, the plot falls within the Cfa zone, characterized as humid subtropical/midlatitude with significant precipitation year-round.Primary natural disturbances at the plot consist of wind and ice storms [@andersonteixeira_ctfs-forestgeo:_2015]. 
-
-
-*Potential data to include:*
-- SCBI weather tower
-- NEON
-
+The SBI plot is located in a mature (> 100 year) and young (< 40 year) secondary secondary mixed deciduous forest, with a mean annual temperature of 12$^\circ$C and a mean annual precipitation of 1001 mm (data from 2009-2014 based on a local weather station located just outside the plot). According to the Koppen-Geiger biome classifcation, the plot falls within the Cfa zone, characterized as humid subtropical/midlatitude with significant precipitation year-round.Primary natural disturbances at the plot consist of wind and ice storms [@andersonteixeira_ctfs-forestgeo:_2015].
 
 Climate data from the weather tower adjancet to the plot and managed by primary investigators can be access through a public GitHub repository [here](https://github.com/forestgeo/Climate/tree/master/Met_Station_Data/SCBI). Other multiple climatic data products are also available in the NEON website for the SCBI core site [here](https://data.neonscience.org/browse-data?siteCode=SCBI)
-
-## Soils
-*Potential data to include:*
-- Data collected by Ben Turner
-- NEON data
-
-## Hydrology?
-*Potential data to include:*
-- NEON has relevant data (Posey STREON site)
-
-[Teixeira et al. 2015](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.12712)

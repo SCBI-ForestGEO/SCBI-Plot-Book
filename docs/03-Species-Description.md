@@ -185,11 +185,11 @@ Large trees up to 33 m, bark gray and smooth, twigs slender and glabrous, in zig
 ![text](maps_figures_tables/ch_3_distribution_maps/fagr.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/fagus_grandifolia_map.html){width=50%}
 
 ### *Quercus alba* L. {-#Quercus-alba}
-
-![text](maps_figures_tables/ch_3_distribution_maps/qual.png){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_alba_map.html){width=50%}
 Common name: White Oak. Species code: qual. Stratum: canopy. Native. Conservation status: Least concern.
 
 Trees up to 38 m, bark light gray, flaky, with ridges or sometimes checked, twigs glabrous, red-brown; leaves simple, alternate, 5-25 cm long, oblong to obovate, with 7-10 rounded finger-like lobes, sinus depth varies from deep to shallow, margin smooth, glabrous above, pale to slightly white below; inflorescences unisexual, flowers many, male flowers yellow-green, occurring in slender catkins 5-10 cm; females flowers reddish-green and appear as very small single spikes; fruits an ovoid to oblong acorn 1.5-3 cm, cups bowl-shaped covering ¼ of the fruit, cup detach at maturity. Common through the plot.
+
+![text](maps_figures_tables/ch_3_distribution_maps/qual.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_alba_map.html){width=50%}
 
 ### *Quercus coccinea* Muenchh. {-#Quercus-coccinea}
 Common name: Scarlet Oak. Species code: quco. Stratum: canopy. Native. Conservation status: Least concern.
@@ -220,8 +220,12 @@ Trees up to 35 m, bark dark, thick, tight and deeply furrowed, twigs hairless; l
 ![text](maps_figures_tables/ch_3_distribution_maps/qupr.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_montana_map.html){width=50%}
 
 ### *Quercus muehlenbergii* Engelm. {-#Quercus-muehlenbergii}
+Common name: Chinquapin Oak, Chinkapin Oak, Yellow Oak. Species code: qumu. Stratum: canopy. Native. Conservation status: Least concern.
 
-![text](maps_figures_tables/ch_3_distribution_maps/qumu.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_muehlenbergii_map.html){width=50%}
+Trees up to 30 m, bark thin, gray, flaky, twigs hairy; leaves simple, alternate, 8-20 cm long, lanceolate to oblong, margin coarsely and regularly toothed, glandular-tipped teeth, lamina dark, shinny above and pubescent below; inflorescences unisexual, male flowers yellow-green in long catkins 7-10 cm; females flowers green to reddish, very small in leaf axils; acorns globose to ovoid 1-2 cm, caps thin, enclosing ½ of the nut. Rare through the plot.
+
+
+![text](maps_figures_tables/ch_3_US_range_maps/quercus_muehlenbergii_map.html){width=50%}
 
 ### *Quercus rubra*	L. {-#Quercus-rubra}
 Common name: Northern Red Oak. Species code: quru. Stratum: canopy to subcanopy. Native. Conservation status: Least concern.

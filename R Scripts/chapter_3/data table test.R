@@ -78,11 +78,14 @@ summary.by.sp <- tapply(recensus_sub$DBH, recensus_sub$Mnemonic, function(x)
 
 summary.by.sp <- data.frame(sp = names(summary.by.sp), do.call(rbind, summary.by.sp), row.names = NULL)
 
-summary.by.sp$newcolumn <- c("New Stems", "Dead Stems")
+summary.by.sp$newcolumn <- ""
 
+test <- subset(summary.by.sp, select = c("sp", "min", "max", "n", "newcolumn"))
 
+colnames(test) <- c("Species", "Min DBH", "Max DBH", "Total Stems", "New Stems")
 
+summary.by.sp$newcolumn <- ""
 
-test <- subset(summary.by.sp, select = c("sp", "min", "max", "n"))
+test <- subset(test, select = c("Species", "Min DBH", "Max DBH", "Total Stems", "New Stems", "newcolumn"))
 
-colnames(test) <- c("Species", "Min DBH", "Max DBH", "Total Stems")
+colnames(test) <- c("Species", "Min DBH", "Max DBH", "Total Stems", "New Stems", "Dead Stems")

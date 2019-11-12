@@ -1,10 +1,10 @@
-"","2008","2013"
-"1",42,63
-"2",NA,NA
-"3",NA,NA
-"4",10.1999998092651,10.3999996185303
-"5",931,939.099975585938
-"6",NA,NA
-"7",NA,NA
-"8",NA,NA
-"9",NA,NA
+"","2008","2013","2018"
+"Total Stems",24649,24649,24649
+"New Stems (recruit rate)",NA,NA,NA
+"Dead Stems (mortality rate)",34032,27189,21301
+"Min DBH",1,1,1
+"Max DBH",913,913,913
+"Mean Growth Rate <10cm",1,1,1
+"Mean Growth Rate >10cm",127.95958295791,127.95958295791,127.95958295791
+"95% Growth Rate <10cm",NA,NA,NA
+"95% Growth Rate >10cm",NA,NA,NA

@@ -1,0 +1,9 @@
+# Community and Ecosystem Ecology
+
+Forests make up 45% of terrestrial carbon [@bonan_forests_2008; @stovall_assessing_2018]. The amount of carbon held in by trees can have a negative impact due to the emissions that are released into the air caused by deforestation. The rise in carbon emissions is attributed to the rise in tree mortality.
+
+## Carbon Cycling
+
+## Tree Mortality Dynamics
+
+## Climate Sensitivity
