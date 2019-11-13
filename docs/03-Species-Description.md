@@ -203,7 +203,7 @@ Common name: Southern Red Oak, Spanish Oak. Species code: qufa. Stratum: canopy.
 
 Trees up to 35 m, bark very dark, shallowly furrowed, inner bark pale yellow, twigs pubescent; leaves simple, alternate, 8-20 cm long, ovate to obovate with a bell-shaped at the base with 1-3 pair of lobes, the primary-central lobes long and narrow, margin smooth but with bristled tips, shiny above and paler and fuzzy below; inflorescences unisexual, flowers many, male flowers yellow-green, occurring in catkins 5-10 cm; females flowers reddish born on short spikes; fruits a subglobose to ovoid acorn 1-1.5 cm, pubescent, cups thin and saucer-shaped covering ½ of the nut, with orange-brown scales tightly appressed. Very rare through the plot.
 
-![text](maps_figure_tables/ch_3_distribution_maps/qufa.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_falcata_map.html){width=50%}
+![text](maps_figures_tables/ch_3_distribution_maps/qufa.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/quercus_falcata_map.html){width=50%}
 
 ### *Quercus michauxii* Nutt. {-#Quercus-michauxii}
 Common name: Swamp Chestnut Oak, Basket Oak. Species code: qufa. Stratum: canopy. Native. Conservation status: Least concern.
