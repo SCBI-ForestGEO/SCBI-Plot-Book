@@ -13,7 +13,7 @@ description: "An overview of the Smithsonian Conservation Biology Institute's re
 url: https://github.com/SCBI-ForestGEO/SCBI-Plot-Book
 ---
 
-![text](maps_figures_tables/ch_1_intro/green.jpg)
+knitr::include_graphics("maps_figures_tables/ch_1_intro/green.jpg")
 
 
 # Preface {-}
