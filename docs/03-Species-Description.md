@@ -34,7 +34,7 @@ Common name: Common Elderberry. Species code: saca. Stratum: understory. Native.
 
 Deciduous shrubs 1-4 m bark smooth with abundant lenticels, hairless; leaves compound, opposite, 15-30 cm, leaflets elliptic to lanceolate, 5-11 cm long, acuminate, margin sharply serrate, dark green above and much paler below; flat-topped cluster of flowers (cymes) 5-20 cm wide, flowers white, 3-4 mm, fragant; fruits drupes, 3-6 mm, deep purple or black, borne in flat-topped clusters. Infrequent through the plot, mostly occurring in damp soils.
 
-![text](maps_figures_tables/ch_3_distribution_maps/saca.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html){width=50%}![text](maps_figures_tables/ch_3_data_tables_saca.csv)
+![text](maps_figures_tables/ch_3_distribution_maps/saca.jpg){width=50%}![text](maps_figures_tables/ch_3_US_range_maps/Sambucus_canadensis_map.html){width=50%}
 
 ### *Viburnum acerifolium* L. {-#Viburnum-acerifolium}
 Common name: Mapleleaf Viburnum. Species code: viac. Stratum: understory. Native. Conservation status: Least concern. 
