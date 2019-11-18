@@ -1,6 +1,6 @@
 --- 
 title: "Smithsonian Conservation Biology Institute Temperate Forest Dynamics Plot"
-author: "Erika Gonzalez-Akre, Kristina Anderson-Teixeira, William McShea, Alyssa Terrell, Ian McGregor, Caroline Kittle"
+author: "Erika Gonzalez-Akre, Alyssa Terrell, William McShea, Ian McGregor, Caroline Kittle, Kristina Anderson-Teixeira"
 date: "`r Sys.Date()`"
 output: html_document
 site: bookdown::bookdown_site
@@ -12,9 +12,6 @@ link-as-notes: true
 description: "An overview of the Smithsonian Conservation Biology Institute's research plot."
 url: https://github.com/SCBI-ForestGEO/SCBI-Plot-Book
 ---
-
-knitr::include_graphics("maps_figures_tables/ch_1_intro/green.jpg")
-
 
 # Preface {-}
 This is our first online release for the *SCBI ForestGEO Large Forest Dynamics Plot*, a preliminary version of an eventual printed release.  
