@@ -19,7 +19,7 @@ This is our first online release for the *SCBI ForestGEO Large Forest Dynamics P
 Our goal is to present basic ecological and botanical data, tree distribution maps, and growth and mortality data on all woody species measured in the 5-year surveys in our 25.6 ha plot.
 
 
-This book was fuly written in R Markdown, using RStudio as text editor and the bookdown package (**REF**).[@Manual_2019] The source code is hosted on GitHub at https://github.com/SCBI-ForestGEO/SCBI-Plot-Book. 
+This book was fuly written in R Markdown, using RStudio as text editor and the bookdown package [@xie_bookdown:_2016]. The source code is hosted on GitHub at https://github.com/SCBI-ForestGEO/SCBI-Plot-Book. 
 
 
 

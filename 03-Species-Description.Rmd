@@ -8,7 +8,7 @@ fontsize: 12pt
 
 This chapter consist of botanical descriptions and ecological information on the 65 woody species measured within the 25.6-ha SCBI-ForstGEO plot. Species names are arranged alphabetically by family and species; species scientific name, authorship, and common names follow the Flora of Virginia conventions [@weakley_flora_2012]. If a synonym for a species name is given, then it is written after the symbol "=" below the species name used in the plot. The following are the main descriptors used for each species.
 
-*Botanical descriptions*: All species in the plot were given a brief technical plant description summarized from the Flora of Virginia [@weakley_flora_2012] and the “Common Native Trees of Virginia” guide [@powell_common_2007]. Ecological aspects were subtracted from various sources [@weakley_flora_2012, @noauthor_missouri_nodate]. Local habitat and species distribution refer to those within the plot.
+*Botanical descriptions*: All species in the plot were given a brief technical plant description summarized from the Flora of Virginia [@weakley_flora_2012] and the “Common Native Trees of Virginia” guide [@powell_common_2007]. Ecological aspects were subtracted from various sources [@weakley_flora_2012; @noauthor_missouri_nodate]. Local habitat and species distribution refer to those within the plot.
 
 *Stratum*: Indicates the main canopy position of the species based on the diameter of the species measured at the SCBI plot and by qualitative observations within the forest.
 
