@@ -1,7 +1,7 @@
 --- 
 title: "Smithsonian Conservation Biology Institute Temperate Forest Dynamics Plot"
 author: "Erika Gonzalez-Akre, Alyssa Terrell, William McShea, Ian McGregor, Caroline Kittle, Kristina Anderson-Teixeira"
-date: "2019-11-18"
+date: "2019-11-19"
 output: html_document
 site: bookdown::bookdown_site
 documentclass: book
