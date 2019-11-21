@@ -10,6 +10,7 @@ Repository for ForestGEO-SCBI plot book.
 
 ## How to Edit Chapters
 *To add a chapter, the "_bookdown.yml" file must be edited*
+
 *This assumes you are working in the context of local files via Github desktop*
 
 Each chapter is separated into a different Rmarkdown (.Rmd) file. Opening this will open it to an R-console, from where you can add and edit data, before reviewing how it looks on html.
@@ -84,7 +85,11 @@ If Zotero isn't working, citations can also be made manually. To do this, open t
 
 `Stovall, Atticus E. L., Kristina J. Anderson-Teixeira, and Herman H. Shugart. 2018. “Assessing Terrestrial Laser Scanning for Developing Non-Destructive Biomass Allometry.” Forest Ecology and Management 427 (November): 217–29. doi:10.1016/j.foreco.2018.06.004.`
 
-- Helpfully, the year automatically links to the full appended reference.
+- The year will automatically link to the full appended reference.
+
+10. If you want the citation to be within parentheses, (), you will need to use brackets, [].
+
+11. If you are citing multiple articles, use a semicolon, ;, betwen each publishing.
 
 ### Reference Order
 
