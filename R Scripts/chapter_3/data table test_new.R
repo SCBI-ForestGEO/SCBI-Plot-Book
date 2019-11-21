@@ -18,14 +18,13 @@ for(f in paste0("scbi.stem", 1:3, ".rdata")) {
 trialmat <- matrix(nrow = 9, ncol = 3)
 colnames(trialmat) <- c("2008", "2013", "2018")
 rownames(trialmat) <- c("Total Stems", "New Stems (recruit rate)", "Dead Stems (mortality rate)", "Min DBH", "Max DBH", "Mean Growth Rate <10cm", "Mean Growth Rate >10cm", "95% Growth Rate <10cm", "95% Growth Rate >10cm")
-##trialmat <- trialmat
-
+####trialmat <- trialmat
 
 trial <- as.data.frame(trialmat)
 
 yearsfiles <- list(scbi.stem1, scbi.stem2, scbi.stem3)
 
-uni <- unique(test$sp)
+###uni <- unique(test$sp)
 
 # Create a for loop that allows for needed information to be called and filled into the data table
 # This loop will be applied to all species
