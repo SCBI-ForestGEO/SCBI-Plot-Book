@@ -9,6 +9,7 @@ Repository for ForestGEO-SCBI plot book.
 - All other files: Other files including .yml and .bib are important for the overall structure of the book in the R code.
 
 ## How to Edit Chapters
+*To add a chapter, the "_bookdown.yml" file must be edited*
 *This assumes you are working in the context of local files via Github desktop*
 
 Each chapter is separated into a different Rmarkdown (.Rmd) file. Opening this will open it to an R-console, from where you can add and edit data, before reviewing how it looks on html.

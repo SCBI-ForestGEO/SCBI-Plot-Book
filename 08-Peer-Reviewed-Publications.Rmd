@@ -1,10 +1,8 @@
-# Contributions
-
-**Peer-reviewed publications:**
+# Peer Reviewed Publications
 
 *2019*
-
-Chu, Chengjin; Lutz, James A.; Král, Kamil; Vrška, Tomáš; Yin, Xue; Myers, Jonathan A.; Abiem, Iveren; Alonso, Alfonso; Bourg, Norm; Burslem, David F.R.P.; Cao, Min; Chapman, Hazel; Condit, Richard; Fang, Suqin; Fischer, Gunter A.; Gao, Lianming; Hao, Zhanqin; Hau, Billy C.H.; He, Qing; Hector, Andrew; Hubbell, Stephen P.; Jiang, Mingxi; Jin, Guangze; Kenfack, David; Lai, Jiangshan; Li, Buhang; Li, Xiankun; Li, Yide; Lian, Juyu; Lin, Luxiang; Liu, Yankun; Liu, Yu; Luo, Yahuang; Ma, Keping; McShea, William; Memiaghe, Hervé; Mi, Xiangcheng; Ni, Ming; O'Brien, Michael J.; de Oliveira, Alexandre A.; Orwig, David A.; Parker, Geoffrey G.; Qiao, Xiujuan; Ren, Haibao; Reynolds, Glen; Sang, Weiguo; Shen, Guochun; Su, Zhiyao; Sui, Xinghua; Sun, I‐Fang; Tian, Songyan; Wang, Bin; Wang, Xihua; Wang, Xugao; Wang, Youshi; Weiblen, George D.; Wen, Shujun; Xi, Nianxun; Xiang, Wusheng; Xu, Han; Xu, Kun; Ye, Wanhui; Zhang, Bingwei; Zhang, Jiaxin; Zhang, Xiaotong; Zhang, Yingming; Zhu, Kai; Zimmerman, Jess; Storch, David; Baltzer, Jennifer L.; Anderson‐Teixeira, Kristina J.; Mittelbach, Gary G.; He, Fangliang. 2019. Direct and indirect effects of climate on richness drive the latitudinal diversity gradient in forest trees. Ecology Letters, 22:245-255. DOI:10.1111/ele.13175.
+  
+  Chu, Chengjin; Lutz, James A.; Král, Kamil; Vrška, Tomáš; Yin, Xue; Myers, Jonathan A.; Abiem, Iveren; Alonso, Alfonso; Bourg, Norm; Burslem, David F.R.P.; Cao, Min; Chapman, Hazel; Condit, Richard; Fang, Suqin; Fischer, Gunter A.; Gao, Lianming; Hao, Zhanqin; Hau, Billy C.H.; He, Qing; Hector, Andrew; Hubbell, Stephen P.; Jiang, Mingxi; Jin, Guangze; Kenfack, David; Lai, Jiangshan; Li, Buhang; Li, Xiankun; Li, Yide; Lian, Juyu; Lin, Luxiang; Liu, Yankun; Liu, Yu; Luo, Yahuang; Ma, Keping; McShea, William; Memiaghe, Hervé; Mi, Xiangcheng; Ni, Ming; O'Brien, Michael J.; de Oliveira, Alexandre A.; Orwig, David A.; Parker, Geoffrey G.; Qiao, Xiujuan; Ren, Haibao; Reynolds, Glen; Sang, Weiguo; Shen, Guochun; Su, Zhiyao; Sui, Xinghua; Sun, I‐Fang; Tian, Songyan; Wang, Bin; Wang, Xihua; Wang, Xugao; Wang, Youshi; Weiblen, George D.; Wen, Shujun; Xi, Nianxun; Xiang, Wusheng; Xu, Han; Xu, Kun; Ye, Wanhui; Zhang, Bingwei; Zhang, Jiaxin; Zhang, Xiaotong; Zhang, Yingming; Zhu, Kai; Zimmerman, Jess; Storch, David; Baltzer, Jennifer L.; Anderson‐Teixeira, Kristina J.; Mittelbach, Gary G.; He, Fangliang. 2019. Direct and indirect effects of climate on richness drive the latitudinal diversity gradient in forest trees. Ecology Letters, 22:245-255. DOI:10.1111/ele.13175.
 
 Helcoski, R., Tepley, A. J., McGarvey, J. C., Gonzalez-Akre, E., Meakem, V., Thompson, J. R., & Anderson-Teixeira, K. J. (2019). No significant increase in tree mortality following coring in a temperate hardwood forest. Tree-Ring Research, 75(1), 67. https://doi.org/10.3959/1536-1098-75.1.67
 
@@ -58,7 +56,7 @@ Réjou-Méchain, M., H. C. Muller-Landau, M. Detto, S. C. Thomas, T. Le Toan, S.
 
 Yakimov, B. N., D. B. Gelashvili, L. A. Solntsev, D. I. Iudin, and G. S. Rozenberg. 2014. Nonconcavity of mass exponents’ spectrum in multifractal analysis of community spatial structure: The problem and possible solutions. Ecological Complexity 20:11–22.
 
-*2013
+*2013*
 
 Bourg, N. A., W. J. McShea, J. R. Thompson, J. C. McGarvey, and X. Shen. 2013. Initial census, woody seedling, seed rain, and stand structure data for the SCBI SIGEO Large Forest Dynamics Plot. Ecology 94:2111–2112.
 
