@@ -1,10 +1,10 @@
-###########################################################
-# Purpose: Create table of all species within the SCBI plot
+##################################################################################
+# Purpose: Create table of all species within the SCBI plot among all census years
 # Developed by: Alyssa Terrell - terrella3@si.edu
 # R version 3.6.1 - Created November 2019
-###########################################################
+##################################################################################
 
-# Call data from local drive
+# Call data from GitHub
 # Will need to change census number with each added census
 for(f in paste0("scbi.stem", 1:3, ".rdata")) {
   print(f)
@@ -15,54 +15,55 @@ for(f in paste0("scbi.stem", 1:3, ".rdata")) {
 }
 
 # Create structure of data table
-trialmat <- matrix(nrow = 9, ncol = 3)
+trialmat <- matrix(nrow = 5, ncol = 3)
 colnames(trialmat) <- c("2008", "2013", "2018")
-rownames(trialmat) <- c("Total Stems", "New Stems (recruit rate)", "Dead Stems (mortality rate)", "Min DBH", "Max DBH", "Mean Growth Rate <10cm", "Mean Growth Rate >10cm", "95% Growth Rate <10cm", "95% Growth Rate >10cm")
-####trialmat <- trialmat
+rownames(trialmat) <- c("Total Stems", "New Stems (recruit rate)", "Dead Stems", "Min DBH", "Max DBH")
 
 trial <- as.data.frame(trialmat)
-
 yearsfiles <- list(scbi.stem1, scbi.stem2, scbi.stem3)
 
-###uni <- unique(test$sp)
+# Get a list of unique species across all years, sort alphabetically
+species <- c()
+for(z in seq(along=yearsfiles)){
+  sp <- unique(yearsfiles[[z]][,"sp"])
+  species <- c(species, sp)
+}
+species <- unique(species)
+species <- sort(species)
 
 # Create a for loop that allows for needed information to be called and filled into the data table
 # This loop will be applied to all species
-for (j in 1:length(uni)){
-  
-  trial <- as.data.frame(trialmat)
 
-for (i in 1:length(yearsfiles)){
+result <- list()
+for (j in seq(along=species)){
+
+  for (i in 1:length(yearsfiles)){
   x <- yearsfiles[[i]]
   
-test <- subset(x, DFstatus == "alive")
-testnotalive <- subset(x, DFstatus != "alive")
+  sp_sub <- x[x$sp == species[[j]], ]
 
-count <- nrow(libetest)
-libetest$dbh <- as.numeric(libetest$dbh)
-min <- min(libetest$dbh)
-max <- max(libetest$dbh)
-cm10great <- subset(libetest, dbh > 10)
-cm10less <- subset(libetest, dbh < 10)
-greatmean <- mean(cm10great$dbh)
-lessmean <- mean(cm10less$dbh)
-countnotalive <- nrow(testnotalive)
-
-trial[1,i] <- count
-trial[3,i] <- countnotalive
-trial[4,i] <- min
-trial[5,i] <- max
-trial[6,i] <- lessmean
-trial[7,i] <- greatmean
-}
-
-  for (i in seq(along=(uni))){
-    write.csv(trial, paste0("C:/Users/terrella3/Dropbox (Smithsonian)/GitHub_Alyssa/SCBI-Plot-Book/R Scripts/test_df/", (uni)[[i]], ".jpg"), row.names=TRUE)
+    alive <- subset(sp_sub, DFstatus == "alive")
+    alive$dbh <- as.numeric(alive$dbh)
+    
+    dead <- subset(sp_sub, DFstatus != "alive")
+    
+    #contents for table
+    count <- nrow(alive)
+    countnotalive <- nrow(dead)
+    min <- min(alive$dbh, na.rm=TRUE)
+    max <- max(alive$dbh, na.rm=TRUE)
+    
+    trial[1,i] <- count
+    #trial[2,i] <- row 2 is # newly recruited stems. Method to calculate tbd. 
+    trial[3,i] <- countnotalive
+    trial[4,i] <- min
+    trial[5,i] <- max
   }
+  result[[j]] <- trial
 }
+names(result) <- species
 
 # Save tables to GitHub
-for (i in seq(along=(uni))){
-  write.csv(trial, paste0("https://raw.github.com/SCBI-ForestGEO/SCBI-Plot-Book/master/maps_figures_tables/ch_3_data_tables/", (uni)[[i]], ".jpg"), row.names=TRUE)
-  }
+for (k in seq(along=(result))){
+  write.csv(result[[k]], paste0("maps_figures_tables/ch_3_data_tables/", names(result)[[k]], ".csv"), row.names=TRUE)
 }

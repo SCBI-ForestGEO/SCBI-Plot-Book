@@ -1,10 +1,6 @@
 "","2008","2013","2018"
-"Total Stems",24649,24649,24649
+"Total Stems",462,466,451
 "New Stems (recruit rate)",NA,NA,NA
-"Dead Stems (mortality rate)",34032,27189,21301
-"Min DBH",1,1,1
-"Max DBH",913,913,913
-"Mean Growth Rate <10cm",1,1,1
-"Mean Growth Rate >10cm",127.95958295791,127.95958295791,127.95958295791
-"95% Growth Rate <10cm",NA,NA,NA
-"95% Growth Rate >10cm",NA,NA,NA
+"Dead Stems",64,60,75
+"Min DBH",10,10.1,10
+"Max DBH",681.7,698.3,739
